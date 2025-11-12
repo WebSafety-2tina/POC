@@ -1,12 +1,50 @@
-# 注意
-本项目是wy876漏洞库的备份,这里我们继承wy876佬的开源精神,所以这里我们继续维护这个项目。
+# 漏洞收集
+收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1400多个poc/exp，善用CTRL+F搜索
 
-免责声明：
-文中所有涉及的内容均不针对任何厂商或个人，同时由于传播、利用文中所发布的技术或工具造成的任何直接或者间接的后果及损失，均由使用者本人承担。
+## 贡献者（排名不分先后）
 
-欢迎各位师傅加入交流群一起交流，公众号：深潜sec安全团队，（群满需要邀请加入，可以加本人微信）
+感谢以下贡献者为本项目做出的贡献，同时也欢迎各位师傅提交`PR/issues`共同维护：
 
-![image](https://github.com/user-attachments/assets/a2b045ed-2231-47ff-87f9-d325fe73157d)
+<div><table frame=void>
+	<tr>
+        <td align="center">
+            <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/139549762?v=4&mask=circle&w=60&h=60"
+                   alt="Typora-Logo"
+                 />
+            <br>
+            <a href="https://github.com/wy876"><sub>wy876</sub></a>
+        </td>    
+        <td align="center">
+            <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/90972683?v=4&mask=circle&w=60&h=60"
+                   alt="Typora-Logo"
+                 />
+            <br>
+            <a href="https://github.com/Kazgangap"><sub>Kazgangap</sub></a>
+        </td>    
+        <td align="center">
+            <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/30861754?v=4&mask=circle&w=60&h=60"
+                   alt="Typora-Logo"
+                 />
+            <br>
+            <a href="https://github.com/kukais"><sub>kukais</sub></a>
+        </td> 
+        <td align="center">
+            <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/61577401?v=4&mask=circle&w=60&h=60"
+                   alt="Typora-Logo"
+                 />
+            <br>
+            <a href="https://github.com/yiliufeng168"><sub>yiliufeng168</sub></a>
+        </td> 
+        <td align="center">
+            <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59686577?v=4&mask=circle&w=60&h=60"
+                   alt="Typora-Logo"
+                 />
+            <br>
+            <a href="https://github.com/WebSafety-2tina"><sub>WebSafety-2tina</sub></a>
+        </td> 
+    </tr>
+    </table>
+</div>
 
 
 # 漏洞收集
