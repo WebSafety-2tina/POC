@@ -49,6 +49,8 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-11-16
+- [WordPress plugin All-in-One WP Migration and Backup 信息泄露漏洞 (CVE-2024-8852)](./wpoc/wordpress/WordPress%20plugin%20All-in-One%20WP%20Migration%20and%20Backup%20信息泄露漏洞.md)
 
 # 2025-11-15
 - [泛微E Cology LoginSSO SQL注入漏洞](./wpoc/泛微OA/泛微E%20Cology%20LoginSSO%20SQL注入漏洞.md)
