@@ -50,6 +50,161 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
+# 2025-11-15
+- [泛微E Cology LoginSSO SQL注入漏洞](./wpoc/泛微OA/泛微E%20Cology%20LoginSSO%20SQL注入漏洞.md)
+
+# 2025-11-12
+- [KINGOSOFT downloadzgkssmwd.jsp 任意文件读取漏洞](./wpoc/KINGOSOFT高校智慧校园教学综合服务平台/KINGOSOFT%20downloadzgkssmwd.jsp%20任意文件读取漏洞.md)
+
+# 2025-11-11
+- [泛微E Cology jqueryFileTree.jsp 路径穿越漏洞](./wpoc/泛微OA/泛微E%20Cology%20jqueryFileTree.jsp%20路径穿越漏洞.md)
+
+# 2025-11-10
+- [华天软件 Inforcenter PLM 任意文件读取漏洞](./wpoc/华天软件/华天软件%20Inforcenter%20PLM%20任意文件读取漏洞.md)
+- [昂捷CRM UploadFile 任意文件上传漏洞](./wpoc/昂捷CRM/昂捷CRM%20UploadFile%20任意文件上传漏洞.md)
+- [美特CRM sendsms.jsp 文件上传漏洞](./wpoc/美特CRM系统/美特CRM%20sendsms.jsp%20文件上传漏洞.md)
+
+# 2025-11-07
+- [Lychee 照片管理工具 目录遍历漏洞(CVE-2025-50202)](./wpoc/Lychee/Lychee%20照片管理工具%20目录遍历漏洞(CVE-2025-50202).md)
+- [泛微E cology9 getdata.jsp SQL注入漏洞(QVD-2025-23834)](./wpoc/泛微OA/泛微E%20cology9%20getdata.jsp%20SQL注入漏洞(QVD-2025-23834).md)
+
+# 2025-11-05
+- [汉王EFaceGO queryMeetingFile.do SQL注入漏洞](./wpoc/汉王EFaceGO/汉王EFaceGO%20queryMeetingFile.do%20SQL注入漏洞.md)
+
+# 2025-11-04
+- [用友NC deleteEvent SQL注入漏洞](./wpoc/用友OA/用友NC%20deleteEvent%20SQL注入漏洞.md)
+- [美特CRM sendfile 任意文件上传漏洞](./wpoc/美特CRM系统/美特CRM%20sendfile%20任意文件上传漏洞.md)
+
+# 2025-11-03
+- [用友NC ActivityNotice export SQL注入漏洞](./wpoc/用友OA/用友NC%20ActivityNotice%20export%20SQL注入漏洞.md)
+- [用友NC uncancelEvent SQL注入漏洞](./wpoc/用友OA/用友NC%20uncancelEvent%20SQL注入漏洞.md)
+
+# 2025-10-31
+- [美特CRM getFile 任意文件读取漏洞](./wpoc/美特CRM系统/美特CRM%20getFile%20任意文件读取漏洞.md)
+
+# 2025-10-30
+- [宏景eHR DigestDownLoad SQL注入漏洞](./wpoc/宏景OA/宏景eHR%20DigestDownLoad%20SQL注入漏洞.md)
+
+# 2025-10-29
+- [JeecgBoot 积木报表 getDataSourceByPage 敏感信息泄露漏洞](./wpoc/JeecgBoot/JeecgBoot%20积木报表%20getDataSourceByPage%20敏感信息泄露漏洞.md)
+- [月子会所ERP云管理平台 UploadHandler.ashx 任意文件读取漏洞](./wpoc/月子会所ERP/月子会所ERP云管理平台%20UploadHandler.ashx%20任意文件读取漏洞.md)
+
+# 2025-10-28
+- [云课网校系统 getExamImg 任意文件上传漏洞](./wpoc/云课网校系统/云课网校系统%20getExamImg%20任意文件上传漏洞.md)
+- [绿盟 users 信息泄露漏洞](./wpoc/绿盟/绿盟%20users%20信息泄露漏洞.md)
+- [翼龙开源游戏面板 远程命令执行漏洞(CVE-2025-49132)](./wpoc/翼龙开源游戏面板/翼龙开源游戏面板%20远程命令执行漏洞(CVE-2025-49132).md)
+
+# 2025-10-24
+- [信呼OA openkqjAction SQL注入漏洞](./wpoc/信呼OA/信呼OA%20openkqjAction%20SQL注入漏洞.md)
+
+# 2025-10-23
+- [IdeaCMS SQL注入漏洞(CVE-2025-5569)](./wpoc/IdeaCMS/IdeaCMS%20SQL注入漏洞(CVE-2025-5569).md)
+
+# 2025-10-22
+- [MailEnable 反射XSS漏洞(CVE-2025-44148)](./wpoc/MailEnable/MailEnable%20反射XSS漏洞(CVE-2025-44148).md)
+- [汉王EFaceGo exportResourceByFilePath 任意文件读取漏洞](./wpoc/汉王EFaceGO/汉王EFaceGo%20exportResourceByFilePath%20任意文件读取漏洞.md)
+
+# 2025-10-20
+- [EvertzSDVN3080ipx 10G 远程命令执行漏洞(CVE-2025-4009)](./wpoc/Evertz/EvertzSDVN3080ipx%2010G%20远程命令执行漏洞(CVE-2025-4009).md)
+- [灵当CRM getLogInfo 任意文件上传漏洞](./wpoc/灵当CRM/灵当CRM%20getLogInfo%20任意文件上传漏洞.md)
+
+# 2025-10-18
+- [金和 JC6 WebBill 任意文件读取漏洞](./wpoc/金和OA/金和%20JC6%20WebBill%20任意文件读取漏洞.md)
+
+# 2025-10-17
+- [金和 JC6 PathFile XML实体注入漏洞](./wpoc/金和OA/金和%20JC6%20PathFile%20XML实体注入漏洞.md)
+
+# 2025-10-16
+- [厦门四信设备管理平台 DeviceView SQL注入漏洞](./wpoc/厦门四信通信科技有限公司/厦门四信设备管理平台%20DeviceView%20SQL注入漏洞.md)
+
+# 2025-10-15
+- [云课网校系统 localupload 任意文件上传漏洞](./wpoc/云课网校系统/云课网校系统%20localupload%20任意文件上传漏洞.md)
+
+# 2025-10-14
+- [扁鹊飞救智能急救与质控系统 YZGH XML实体注入漏洞](./wpoc/扁鹊飞救智能急救与质控系统/扁鹊飞救智能急救与质控系统%20YZGH%20XML实体注入漏洞.md)
+
+# 2025-10-13
+- [用友NC listUserSharingEvents SQL注入漏洞](./wpoc/用友OA/用友NC%20listUserSharingEvents%20SQL注入漏洞.md)
+- [金和OA TaskTreeJSON.aspx SQL注入漏洞](./wpoc/金和OA/金和OA%20TaskTreeJSON.aspx%20SQL注入漏洞.md)
+
+# 2025-10-12
+- [JoplinServer 权限提升漏洞(CVE-2025-27134)](./wpoc/JoplinServer/JoplinServer%20权限提升漏洞(CVE-2025-27134).md)
+
+# 2025-10-11
+- [Hoverfly 远程命令执行漏洞(CVE-2025-54123)](./wpoc/Hoverfly/Hoverfly%20远程命令执行漏洞(CVE-2025-54123).md)
+- [用友NC qrySubPurchaseOrgByParentPk SQL注入漏洞](./wpoc/用友OA/用友NC%20qrySubPurchaseOrgByParentPk%20SQL注入漏洞.md)
+
+# 2025-10-10
+- [Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243)](./wpoc/Spring/Spring%20Cloud%20Gateway%20SpEL表达式注入漏洞(CVE-2025-41243).md)
+
+# 2025-09-30
+- [宏景eHR HrpService SQL注入漏洞](./wpoc/宏景OA/宏景eHR%20HrpService%20SQL注入漏洞.md)
+
+# 2025-09-29
+- [扁鹊飞救智能急救与质控系统 GetLyfsByParams SQL注入漏洞](./wpoc/扁鹊飞救智能急救与质控系统/扁鹊飞救智能急救与质控系统%20GetLyfsByParams%20SQL注入漏洞.md)
+
+# 2025-09-28
+- [用友U8 Cloud NCCloudGatewayServlet 命令执行漏洞(QVD-2025-37484)](./wpoc/用友OA/用友U8%20Cloud%20NCCloudGatewayServlet%20命令执行漏洞(QVD-2025-37484).md)
+
+# 2025-09-27
+- [Sim Studio image 任意文件读取漏洞(CVE-2025-9805)](./wpoc/Sim%20Studio/Sim%20Studio%20image%20任意文件读取漏洞(CVE-2025-9805).md)
+- [用友NC changeEvent SQL注入漏洞](./wpoc/用友OA/用友NC%20changeEvent%20SQL注入漏洞.md)
+
+# 2025-09-26
+- [三汇网关管理系统 8-1-1userAdd 任意用户创建漏洞](./wpoc/三汇网关管理软件/三汇网关管理系统%208-1-1userAdd%20任意用户创建漏洞.md)
+
+# 2025-09-25
+- [宏景eHR HrChangeInfoService SQL注入漏洞](./wpoc/宏景OA/宏景eHR%20HrChangeInfoService%20SQL注入漏洞.md)
+
+# 2025-09-24
+- [用友NC Cloud IBapIOService SQL注入漏洞](./wpoc/用友NC%20Cloud/用友NC%20Cloud%20IBapIOService%20SQL注入漏洞.md)
+- [用友NC Cloud loadDoc.ajax 任意文件读取漏洞](./wpoc/用友NC%20Cloud/用友NC%20Cloud%20loadDoc.ajax%20任意文件读取漏洞.md)
+
+# 2025-09-23
+- [广州图创图书馆集群管理系统 PictureUpload 任意文件上传漏洞](./wpoc/广州图创图书馆集群管理系统/广州图创图书馆集群管理系统%20PictureUpload%20任意文件上传漏洞.md)
+- [扁鹊飞救智能急救与质控系统 CreateJKDA XML实体注入漏洞](./wpoc/扁鹊飞救智能急救与质控系统/扁鹊飞救智能急救与质控系统%20CreateJKDA%20XML实体注入漏洞.md)
+
+# 2025-09-22
+- [智慧校园(安校易)管理系统 ADTag_Info.ashx SQL注入漏洞](./wpoc/智慧校园(安校易)管理系统/智慧校园(安校易)管理系统%20ADTag_Info.ashx%20SQL注入漏洞.md)
+- [智慧校园(安校易)管理系统 ADTag.ashx SQL注入漏洞](./wpoc/智慧校园(安校易)管理系统/智慧校园(安校易)管理系统%20ADTag.ashx%20SQL注入漏洞.md)
+
+# 2025-09-17
+- [XWiki SQL注入漏洞(CVE-2025-32969)](./wpoc/XWiki/XWiki%20SQL注入漏洞(CVE-2025-32969).md)
+- [XWiki 目录遍历漏洞(CVE-2025-55748)](./wpoc/XWiki/XWiki%20目录遍历漏洞(CVE-2025-55748).md)
+
+# 2025-09-15
+- [dify upload SSRF漏洞](./wpoc/Dify/dify%20upload%20SSRF漏洞.md)
+- [X2Modbus GetUser 信息泄露漏洞](./wpoc/X2Modbus/X2Modbus%20GetUser%20信息泄露漏洞.md)
+
+# 2025-09-12
+- [智慧校园综合管理平台(安校易) SysMenuScheme.ashx SQL注入漏洞](./wpoc/智慧校园(安校易)管理系统/智慧校园综合管理平台(安校易)%20SysMenuScheme.ashx%20SQL注入漏洞.md)
+- [灵当CRM cloudpro index.php SQL注入漏洞](./wpoc/灵当CRM/灵当CRM%20cloudpro%20index.php%20SQL注入漏洞.md)
+
+# 2025-09-10
+- [AstrBot get_file 任意文件读取漏洞(CVE-2025-48957)](./wpoc/AstrBot/AstrBot%20get_file%20任意文件读取漏洞(CVE-2025-48957).md)
+
+# 2025-09-09
+- [智邦国际ERP RecordPrint.ashx SQL注入漏洞](./wpoc/智邦国际ERP/智邦国际ERP%20RecordPrint.ashx%20SQL注入漏洞.md)
+- [汉王e脸通综合管理平台 resourceUploadFile.do 任意文件上传漏洞](./wpoc/汉王e脸通综合管理平台/汉王e脸通综合管理平台%20resourceUploadFile.do%20任意文件上传漏洞.md)
+
+# 2025-09-08
+- [傲发办公通信专家 Checkingin.ashx SQL注入漏洞](./wpoc/傲发办公通信专家/傲发办公通信专家%20Checkingin.ashx%20SQL注入漏洞.md)
+- [傲发办公通信专家 email.ashx 任意文件上传漏洞](./wpoc/傲发办公通信专家/傲发办公通信专家%20email.ashx%20任意文件上传漏洞.md)
+
+# 2025-09-07
+- [Tosei network_test.php 远程命令执行漏洞](./wpoc/Tosei/Tosei%20network_test.php%20远程命令执行漏洞.md)
+- [RicohWebImageMonitor 反射XSS漏洞(CVE-2025-41393)](./wpoc/Ricoh/RicohWebImageMonitor%20反射XSS漏洞(CVE-2025-41393).md)
+- [西部数据 chk_vv_sharename.php 远程命令执行漏洞](./wpoc/西部数据/西部数据%20chk_vv_sharename.php%20远程命令执行漏洞.md)
+
+# 2025-09-05
+- [WordPress Relevanssi插件 Sql注入漏洞(CVE-2025-4396)](./wpoc/WordPress/WordPress%20Relevanssi插件%20Sql注入漏洞(CVE-2025-4396).md)
+
+# 2025-09-03
+- [星网锐捷 DMB-BS-taskexport.jsp 信息泄露漏洞](./wpoc/锐捷/星网锐捷/星网锐捷%20DMB-BS-taskexport.jsp%20信息泄露漏洞.md)
+- [SysAid On-Prem-CVE-2025-2775-XML注入](./wpoc/SysAid/SysAid%20On-Prem-CVE-2025-2775-XML注入.md)
+- [SysAid On-Prem-CVE-2025-2776-XML注入](./wpoc/SysAid/SysAid%20On-Prem-CVE-2025-2776-XML注入.md)
+- [SysAid On-Prem-CVE-2025-2777-XML注入](./wpoc/SysAid/SysAid%20On-Prem-CVE-2025-2777-XML注入.md)
+
 # 2025-09-01
 - [深圳市锐明技术股份有限公司Crocus系统RepairRecord.do文件上传](./wpoc/深圳市锐明技术股份有限公司/深圳市锐明技术股份有限公司Crocus系统RepairRecord.do文件上传.md)
 - [新中大ERP企业管理软件 NGInterface 存在SQL注入](./wpoc/新中大ERP企业管理软件/新中大ERP企业管理软件%20NGInterface%20存在SQL注入.md)
