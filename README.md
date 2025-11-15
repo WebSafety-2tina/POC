@@ -50,12 +50,12 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 # 2025-11-16
-- [WordPress plugin All-in-One WP Migration and Backup 信息泄露漏洞 (CVE-2024-8852)](./wpoc/wordpress/WordPress%20plugin%20All-in-One%20WP%20Migration%20and%20Backup%20信息泄露漏洞.md)
+- [WordPress plugin All-in-One WP Migration and Backup 信息泄露漏洞 (CVE-2024-8852)](./wpoc/wordpress/WordPress-plugin-All-in-OneWP-Migration-and-Backup-信息泄露漏洞.md)
 - [WordPress Stop User Enumeration插件用户枚举保护绕过(CVE-2025-4302)](./wpoc/CVE/CVE-2025-8943.md)
 - [Vite 安全漏洞 (CVE-2025-31486)](./wpoc/CVE/CVE-2025-31486.md)
 - [Fortinet FortiWeb 多个版本中存在一个相对路径遍历漏洞 (CVE-2025-64446)](./wpoc/CVE/CVE-2025-64446.md)
-- [WordPress AI Engine插件存在前台管理员越权漏洞](./wpoc/wordpress/WordPress%20AI%20Engine插件存在前台管理员越权漏洞.md)
-- [React Native CLI open-url接口存在远程命令执行漏洞CVE-2025-11953](./wpoc/cve/CVE-2025-11953.md)
+- [WordPress AI Engine插件存在前台管理员越权漏洞](./wpoc/wordpress/WordPress-AI-Engine插件存在前台管理员越权漏洞.md)
+- [React Native CLI open-url接口存在远程命令执行漏洞CVE-2025-11953](./wpoc/CVE/CVE-2025-11953.md)
 
 # 2025-11-15
 - [泛微E Cology LoginSSO SQL注入漏洞](./wpoc/泛微OA/泛微E%20Cology%20LoginSSO%20SQL注入漏洞.md)
