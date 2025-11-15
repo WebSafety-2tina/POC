@@ -50,11 +50,11 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 # 2025-11-16
-- [WordPress plugin All-in-One WP Migration and Backup 信息泄露漏洞 (CVE-2024-8852)](./wpoc/Wordpress/WordPress-plugin-All-in-OneWP-Migration-and-Backup-信息泄露漏洞.md)
+- [WordPress plugin All-in-One WP Migration and Backup 信息泄露漏洞 (CVE-2024-8852)](./wpoc/WordPress/WordPress-plugin-All-in-OneWP-Migration-and-Backup-信息泄露漏洞.md)
 - [WordPress Stop User Enumeration插件用户枚举保护绕过(CVE-2025-4302)](./wpoc/CVE/CVE-2025-8943.md)
 - [Vite 安全漏洞 (CVE-2025-31486)](./wpoc/CVE/CVE-2025-31486.md)
 - [Fortinet FortiWeb 多个版本中存在一个相对路径遍历漏洞 (CVE-2025-64446)](./wpoc/CVE/CVE-2025-64446.md)
-- [WordPress AI Engine插件存在前台管理员越权漏洞](./wpoc/Wordpress/WordPressAIEngine插件存在前台管理员越权漏洞.md)
+- [WordPress AI Engine插件存在前台管理员越权漏洞](./wpoc/WordPress/WordPressAIEngine插件存在前台管理员越权漏洞.md)
 - [React Native CLI open-url接口存在远程命令执行漏洞CVE-2025-11953](./wpoc/CVE/CVE-2025-11953.md)
 
 # 2025-11-15
