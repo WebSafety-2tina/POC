@@ -40,7 +40,7 @@
                    alt="Typora-Logo"
                  />
             <br>
-            <a href="https://github.com/WebSafety-2tina"><sub>WebSafety-2tina</sub></a>
+            <a href="https://github.com/WebSafety-2tina"><sub>2tina</sub></a>
         </td> 
     </tr>
     </table>
