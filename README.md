@@ -54,7 +54,7 @@
 - [WordPress Stop User Enumeration插件用户枚举保护绕过(CVE-2025-4302)](./wpoc/CVE/CVE-2025-8943.md)
 - [Vite 安全漏洞 (CVE-2025-31486)](./wpoc/CVE/CVE-2025-31486.md)
 - [Fortinet FortiWeb 多个版本中存在一个相对路径遍历漏洞 (CVE-2025-64446)](./wpoc/CVE/CVE-2025-64446.md)
-- [WordPress AI Engine插件存在前台管理员越权漏洞](./wpoc/wordpress/WordPress-AI-Engine插件存在前台管理员越权漏洞.md)
+- [WordPress AI Engine插件存在前台管理员越权漏洞](./wpoc/wordpress/WordPressAIEngine插件存在前台管理员越权漏洞.md)
 - [React Native CLI open-url接口存在远程命令执行漏洞CVE-2025-11953](./wpoc/CVE/CVE-2025-11953.md)
 
 # 2025-11-15
