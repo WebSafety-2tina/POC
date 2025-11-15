@@ -55,6 +55,7 @@
 - [Vite 安全漏洞 (CVE-2025-31486)](./wpoc/CVE/CVE-2025-31486.md)
 - [Fortinet FortiWeb 多个版本中存在一个相对路径遍历漏洞 (CVE-2025-64446)](./wpoc/CVE/CVE-2025-64446.md)
 - [WordPress AI Engine插件存在前台管理员越权漏洞](./wpoc/wordpress/WordPress%20AI%20Engine插件存在前台管理员越权漏洞.md)
+- [React Native CLI open-url接口存在远程命令执行漏洞CVE-2025-11953](./wpoc/cve/CVE-2025-11953.md)
 
 # 2025-11-15
 - [泛微E Cology LoginSSO SQL注入漏洞](./wpoc/泛微OA/泛微E%20Cology%20LoginSSO%20SQL注入漏洞.md)
