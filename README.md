@@ -50,7 +50,7 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 # 2025-11-17
-- [汉王e脸通综合管理平台 meetingFileManage.do SQL注入漏洞](./wpoc/WordPress/WordPress-plugin-All-in-OneWP-Migration-and-Backup-信息泄露漏洞.md)
+- [汉王e脸通综合管理平台 meetingFileManage.do SQL注入漏洞](./wpoc/汉王e脸通综合管理平台/汉王e脸通综合管理平台%20meetingFileManage.do%20SQL注入漏洞.md)
 
 # 2025-11-16
 - [WordPress plugin All-in-One WP Migration and Backup 信息泄露漏洞 (CVE-2024-8852)](./wpoc/WordPress/WordPress-plugin-All-in-OneWP-Migration-and-Backup-信息泄露漏洞.md)
