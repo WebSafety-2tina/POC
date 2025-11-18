@@ -49,6 +49,8 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-11-18
+- [WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞.md](./wpoc/WebOne/WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞.md)
 # 2025-11-17
 - [汉王e脸通综合管理平台 meetingFileManage.do SQL注入漏洞](./wpoc/汉王e脸通综合管理平台/汉王e脸通综合管理平台%20meetingFileManage.do%20SQL注入漏洞.md)
 
