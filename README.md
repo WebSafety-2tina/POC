@@ -42,6 +42,13 @@
             <br>
             <a href="https://github.com/WebSafety-2tina"><sub>2tina</sub></a>
         </td> 
+                <td align="center">
+            <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/118818252?v=4&mask=circle&w=60&h=60"
+                   alt="Typora-Logo"
+                 />
+            <br>
+            <a href="https://github.com/huihuilikaile"><sub>huihuilikaile</sub></a>
+        </td> 
     </tr>
     </table>
 </div>
