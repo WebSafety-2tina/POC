@@ -56,8 +56,11 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-11-20
+- [WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞](./wpoc/装盟科技/装盟科技%20家装ERP管理系统%20WeChatAPI_ERPMobile.ashx%20SQL注入漏洞.md)
+- [Fortinet FortiWeb身份认证绕过漏洞CVE-2025-64446](./wpoc/CVE/Fortinet%20FortiWeb身份认证绕过漏洞CVE-2025-64446.md)
 # 2025-11-18
-- [WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞.md](./wpoc/WebOne/WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞.md)
+- [WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞](./wpoc/WebOne/WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞.md)
 # 2025-11-17
 - [汉王e脸通综合管理平台 meetingFileManage.do SQL注入漏洞](./wpoc/汉王e脸通综合管理平台/汉王e脸通综合管理平台%20meetingFileManage.do%20SQL注入漏洞.md)
 
