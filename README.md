@@ -59,6 +59,7 @@
 # 2025-11-20
 - [WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞](./wpoc/装盟科技/装盟科技%20家装ERP管理系统%20WeChatAPI_ERPMobile.ashx%20SQL注入漏洞.md)
 - [Fortinet FortiWeb身份认证绕过漏洞CVE-2025-64446](./wpoc/CVE/Fortinet%20FortiWeb身份认证绕过漏洞CVE-2025-64446.md)
+- [ Oracle CVE-2025-61757 — 授权前远程代码执行](./wpoc/CVE/CVE-2025-61757.md)
 # 2025-11-18
 - [WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞](./wpoc/WebOne/WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞.md)
 # 2025-11-17
