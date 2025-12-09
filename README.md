@@ -56,6 +56,8 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-10
+- [普华PMS-GetFilesData-sql注入](./wpoc/杂项/普华PMS-GetFilesData-sql注入.md)
 # 2025-12-8
 - [孚盟云-GetIcon.aspx-sql注入漏洞](./wpoc/杂项/孚盟云-GetIcon.aspx-sql注入漏洞.md)
 # 2025-12-7
