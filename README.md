@@ -56,6 +56,37 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-8
+- [孚盟云-GetIcon.aspx-sql注入漏洞](./wpoc/杂项/孚盟云-GetIcon.aspx-sql注入漏洞.md)
+# 2025-12-7
+- [用友U9Cloud-DynamaticExport.aspx-任意文件读取漏洞](./wpoc/杂项/用友U9Cloud-DynamaticExport.aspx-任意文件读取漏洞.md)
+- [汉王EFaceGO-wxLogin.do-信息泄露漏洞](./wpoc/杂项/汉王EFaceGO-wxLogin.do-信息泄露漏洞.md)
+# 2025-12-6
+- [汉王EFaceGO-queryAlarmEvent.do-sql注入漏洞](./wpoc/杂项/汉王EFaceGO-queryAlarmEvent.do-sql注入漏洞.md)
+- [美特CRM-druid组件-未授权访问漏洞](./wpoc/杂项/美特CRM-druid组件-未授权访问漏洞.md)
+# 2025-12-5
+- [React-Server-Components-远程代码执行漏洞(CVE-2025-55182)](./wpoc/杂项/React-Server-Components-远程代码执行漏洞(CVE-2025-55182).md)
+# 2025-12-2
+- [扁鹊飞救智能急救与质控系统-GetMonitorList-sql注入漏洞](./wpoc/杂项/扁鹊飞救智能急救与质控系统-GetMonitorList-sql注入漏洞.md)
+# 2025-12-1
+- [汉王e脸通综合管理平台-addVisitDeviceAppointmentInfoTest.do-Fastjson反序列化](./wpoc/杂项/汉王e脸通综合管理平台-addVisitDeviceAppointmentInfoTest.do-Fastjson反序列化.md)
+# 2025-11-30
+- [用友时空KSOA-workslist.jsp-SQL注入漏洞](./wpoc/杂项/用友时空KSOA-workslist.jsp-SQL注入漏洞.md)
+# 2025-11-29
+- [南北软件ERP-ListDir.jsp-目录遍历漏洞](./wpoc/杂项/南北软件ERP-ListDir.jsp-目录遍历漏洞.md)
+# 2025-11-28
+- [东胜物流软件-UploadMailFile-任意文件上传漏洞](./wpoc/杂项/东胜物流软件-UploadMailFile-任意文件上传漏洞.md)
+- [畅捷通TGetisInitBCRetail SQL注入漏洞](./wpoc/杂项/畅捷通T-GetisInitBCRetail-20SQL注入漏洞.md)
+# 2025-11-27
+- [GeoServerXXE注入漏洞(CVE-2025-58360)](./wpoc/杂项/GeoServer-XXE注入漏洞(CVE-2025-58360).md)
+# 2025-11-26
+- [若依-sendMessageWithAttachment-任意文件读取漏洞](./wpoc/杂项/若依-sendMessageWithAttachment-任意文件读取漏洞.md)
+# 2025-11-25
+- [美特CRM-headimgsave-sql注入漏洞](./wpoc/杂项/美特CRM-headimgsave-sql注入漏洞.md)
+# 2025-11-23
+- [Oracle_E_Business 远程命令执行漏洞（CVE-2025-61882）](./wpoc/杂项/Oracle-E-Business远程命令执行漏洞(CVE-2025-61882).md)
+# 2025-11-21
+- [明源地产ERP login.aspx 身份认证绕过漏洞](./wpoc/杂项/明源地产ERP%20login.aspx%20身份认证绕过漏洞.md)
 # 2025-11-20
 - [WebOne劳动力与考勤管理套件DownloadFile.aspx任意文件读取漏洞](./wpoc/装盟科技/装盟科技%20家装ERP管理系统%20WeChatAPI_ERPMobile.ashx%20SQL注入漏洞.md)
 - [Fortinet FortiWeb身份认证绕过漏洞CVE-2025-64446](./wpoc/CVE/Fortinet%20FortiWeb身份认证绕过漏洞CVE-2025-64446.md)
