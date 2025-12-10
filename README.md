@@ -57,6 +57,9 @@
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 # 2025-12-10
+- [友加畅捷管理系统-RepFile.ashx-文件上传漏洞](./wpoc/杂项/友加畅捷管理系统-RepFile.ashx-文件上传漏洞.md)
+- [金和OA-PersonalBankEdit.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-PersonalBankEdit.aspx-SQL注入漏洞.md)
+- [天锐绿盾审批系统-findUserPageExcludeCurrentUser.do-SQL注入漏洞](./wpoc/杂项/天锐绿盾审批系统-findUserPageExcludeCurrentUser.do-SQL注入漏洞.md)
 - [普华PMS-GetFilesData-sql注入](./wpoc/杂项/普华PMS-GetFilesData-sql注入.md)
 # 2025-12-8
 - [孚盟云-GetIcon.aspx-sql注入漏洞](./wpoc/杂项/孚盟云-GetIcon.aspx-sql注入漏洞.md)
