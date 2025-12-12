@@ -56,6 +56,19 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-12
+- [大华ICC智能物联综合管理平台viewPDF存在任何文件读取](./wpoc/杂项/大华ICC智能物联综合管理平台viewPDF存在任何文件读取.md)
+- [Dify系统命令执行漏洞(CVE-2025-55182)](./wpoc/杂项/Dify系统命令执行漏洞(CVE-2025-55182).md)
+- [朗新天霁人力资源管理系统UserInfo ZFMCWebService存在SQL注入](./wpoc/杂项/朗新天霁人力资源管理系统UserInfo%20ZFMCWebService存在SQL注入.md)
+- [友加畅捷管理系统GetZTList存在信息泄露](./wpoc/杂项/友加畅捷管理系统GetZTList存在信息泄露.md)
+- [迪博数据决策系统downloadImpTemplet存在任何文件读取](./wpoc/杂项/迪博数据决策系统downloadImpTemplet存在任何文件读取.md)
+- [点晴MIS管理信息系统login_out.asp存在SQL注入](./wpoc/杂项/点晴MIS管理信息系统login_out.asp存在SQL注入.md)
+- [蓝凌EIS智慧和谐平台mail_xml存在XXE注入](./wpoc/杂项/蓝凌EIS智慧和谐平台mail_xml存在XXE注入.md)
+- [恒友摄影ERP的login.ashx存在SQL注入](./wpoc/杂项/恒友摄影ERP的login.ashx存在SQL注入.md)
+- [喰星云·数字化餐饮服务系统home_check存在SQL注入](./wpoc/杂项/喰星云·数字化餐饮服务系统home_check存在SQL注入.md)
+- [高格智能制造目视化系统SCCJ参数存在SQL注入](./wpoc/杂项/高格智能制造目视化系统SCCJ参数存在SQL注入.md)
+- [用友NC-getFormItem-SQL注入漏洞(CNVD-2025-06710)](./wpoc/杂项/用友NC-getFormItem-SQL注入漏洞(CNVD-2025-06710).md)
+- [ZKTime-熵基智能考勤管理系统-ic1ock-SQL注入漏洞](./wpoc/杂项/ZKTime-熵基智能考勤管理系统-ic1ock-SQL注入漏洞.md)
 # 2025-12-10
 - [友加畅捷管理系统-RepFile.ashx-文件上传漏洞](./wpoc/杂项/友加畅捷管理系统-RepFile.ashx-文件上传漏洞.md)
 - [金和OA-PersonalBankEdit.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-PersonalBankEdit.aspx-SQL注入漏洞.md)
