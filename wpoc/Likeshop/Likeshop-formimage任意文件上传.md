@@ -1,7 +1,7 @@
 ## Likeshop-formimage任意文件上传
 
 
-## poc
+## POC
 ```
 POST /api/file/formimage HTTP/2
 Host: x.x.x.

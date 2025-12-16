@@ -8,7 +8,7 @@
 app="Landray-OA系统"
 ```
 
-## poc
+## POC
 
 ```python
 POST /ekp/data/sys-common/dataxml.tmpl  HTTP/1.1

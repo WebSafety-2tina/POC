@@ -8,7 +8,7 @@
 title="综合安防管理平台"
 ```
 
-## poc
+## POC
 
 获取token
 

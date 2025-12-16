@@ -8,7 +8,7 @@
 app="畅捷通-TPlus"
 ```
 
-## poc
+## POC
 
 ```pseudocode
 POST /tplus/SM/SetupAccount/FileUploadHandler.ashx/;/login HTTP/1.1

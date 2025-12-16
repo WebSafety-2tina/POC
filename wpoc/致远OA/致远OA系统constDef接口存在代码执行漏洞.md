@@ -6,7 +6,7 @@
 app="致远互联-OA"
 ```
 
-## poc
+## POC
 
 首先新建一个常量，constKey(常量名)为demo。
 

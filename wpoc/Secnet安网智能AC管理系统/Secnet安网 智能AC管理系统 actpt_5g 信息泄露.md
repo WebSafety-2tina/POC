@@ -4,7 +4,7 @@
 ```
 title="安网-智能路由系统" || header="HTTPD_ac 1.0"
 ```
-## poc
+## POC
 ```
 http://xxxxx/actpt_5g.data
 ```

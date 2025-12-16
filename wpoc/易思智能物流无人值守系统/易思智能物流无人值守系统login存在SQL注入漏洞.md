@@ -8,7 +8,7 @@
 body="/api/SingleLogin"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /api/PhoneLogin/login HTTP/1.1

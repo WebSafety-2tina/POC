@@ -8,7 +8,7 @@ ZKBioSecurity平台存在 shiro 反序列化漏洞，该漏洞源于软件存在
 title=="ZKBioSecurity" && body="Automatic login within two weeks"
 ```
 
-## poc
+## POC
 
 利用工具
 

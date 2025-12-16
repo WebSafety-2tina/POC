@@ -8,7 +8,7 @@
 body="Services/Identification/login.ashx" || header="Services/Identification/login.ashx" || banner="Services/Identification/login.ashx"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /GB/LK/Document/ArchiveService/ArchiveWebService.asmx HTTP/1.1

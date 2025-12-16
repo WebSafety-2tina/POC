@@ -8,7 +8,7 @@ JEEWMS系统cgFormBuildController.do存在SQL注入漏洞
 body="plug-in/lhgDialog/lhgdialog.min.js?skin=metro"
 ```
 
-## poc
+## POC
 
 默认密码：admin/llg123
 

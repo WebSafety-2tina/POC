@@ -2,7 +2,7 @@
 
 ![image](https://github.com/wy876/POC/assets/139549762/0ce6bf97-7771-4cd9-aebe-d7e3b9670ddc)
 
-## poc
+## POC
 ```
 POST /web_action.do HTTP/1.1
 Host: 

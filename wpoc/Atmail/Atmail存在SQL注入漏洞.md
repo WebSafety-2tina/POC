@@ -2,7 +2,7 @@
 
 
 
-## poc
+## POC
 
 ```java
 POST /index.php/admin/index/login HTTP/1.1

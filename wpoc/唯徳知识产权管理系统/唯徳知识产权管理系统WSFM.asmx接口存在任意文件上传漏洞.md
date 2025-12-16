@@ -8,7 +8,7 @@
 body="JSCOMM/language.js"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /AutoUpdate/WSFM.asmx HTTP/1.1

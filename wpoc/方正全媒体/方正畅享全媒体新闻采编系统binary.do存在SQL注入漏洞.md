@@ -14,7 +14,7 @@ app="FOUNDER-全媒体采编系统"
 
 
 
-## poc
+## POC
 
 ```
 POST /newsedit/newsplan/task/binary.do HTTP/1.1

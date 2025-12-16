@@ -8,7 +8,7 @@
 app="魅思-视频管理系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /api/getOrderStatus HTTP/1.1

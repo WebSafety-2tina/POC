@@ -8,7 +8,7 @@
 app="HJSOFT-HCM"
 ```
 
-## poc
+## POC
 
 第一步:获取cookie
 ```yaml

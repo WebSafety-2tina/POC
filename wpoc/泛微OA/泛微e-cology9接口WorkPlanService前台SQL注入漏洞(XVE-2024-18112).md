@@ -14,7 +14,7 @@ app="泛微-协同商务系统"
 app.name=="泛微 e-cology 9.0 OA"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /services/WorkPlanService HTTP/1.1

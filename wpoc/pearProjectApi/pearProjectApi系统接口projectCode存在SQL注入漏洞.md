@@ -1,6 +1,6 @@
 # pearProjectApi系统接口projectCode存在SQL注入漏洞
 
-## poc
+## POC
 
 ```javascript
 POST /index.php/project/project/getLogBySelfProject HTTP/2

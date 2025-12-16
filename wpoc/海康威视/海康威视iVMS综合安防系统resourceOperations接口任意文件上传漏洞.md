@@ -6,7 +6,7 @@ web.body="/views/home/file/installPackage.rar"
 ```
 ![33552763e8f0dc7bf3ee49698486a07d](https://github.com/wy876/POC/assets/139549762/9b75816d-eead-4aef-9411-6cd9ecec938f)
 
-## poc
+## POC
 ```python
 
 import requests

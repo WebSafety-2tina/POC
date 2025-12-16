@@ -6,7 +6,7 @@
 web.title="AVCON-系统管理平台"
 ```
 
-## poc
+## POC
 ```
 POST /avcon.action HTTP/1.1
 Host: 

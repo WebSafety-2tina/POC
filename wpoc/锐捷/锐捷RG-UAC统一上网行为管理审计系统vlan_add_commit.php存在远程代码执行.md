@@ -8,7 +8,7 @@
 app="Ruijie-RG-UAC"
 ```
 
-## poc
+## POC
 
 ```
 POST /view/networkConfig/vlan/vlan_add_commit.php HTTP/1.1

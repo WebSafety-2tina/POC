@@ -8,7 +8,7 @@
 body="/TX.CDN"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /Common/GetFlowDropDownListItems HTTP/1.1

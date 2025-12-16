@@ -7,7 +7,7 @@
 body="userReg/initUserReg.do"
 ```
 
-## poc
+## POC
 ```javascript
 POST /dlp/userReg/pushSetup.do HTTP/1.1
 Host: 

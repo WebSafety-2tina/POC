@@ -8,7 +8,7 @@
 app="泛微-EOffice"
 ```
 
-## poc
+## POC
 
 ```
 POST /E-mobile/App/Ajax/ajax.php?action=mobile_upload_save  HTTP/1.1

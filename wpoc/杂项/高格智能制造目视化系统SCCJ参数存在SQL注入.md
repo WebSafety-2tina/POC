@@ -8,7 +8,7 @@
 title="高格智能制造目视化系统"
 ```
 
-## poc
+## POC
 ```
 POST /data/login.ashx HTTP/1.1
 Host: target.com

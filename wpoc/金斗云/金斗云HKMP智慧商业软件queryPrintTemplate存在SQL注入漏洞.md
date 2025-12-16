@@ -8,7 +8,7 @@
 body="金斗云 Copyright"
 ```
 
-## poc
+## POC
 
 ```java
 POST /admin/configApp/queryPrintTemplate HTTP/1.1

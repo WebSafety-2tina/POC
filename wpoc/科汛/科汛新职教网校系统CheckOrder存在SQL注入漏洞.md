@@ -7,7 +7,7 @@
 body="/KS_Inc/static/edu"
 ```
 
-## poc
+## POC
 ```javascript
 POST /webapi/APP/CheckOrder HTTP/1.1
 Host: 

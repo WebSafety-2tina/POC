@@ -8,7 +8,7 @@
 app="任我行-CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /crm/api/OpenApi/CommonDict/Edit?accesstoken=1&accesskey=1&timestamp=1&nonce=1&signature=1 HTTP/1.1

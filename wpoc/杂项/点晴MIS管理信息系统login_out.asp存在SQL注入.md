@@ -8,7 +8,7 @@
 title="点晴MIS管理信息系统"
 ```
 
-## poc
+## POC
 ```
 GET /login_out.asp HTTP/1.1
 Host: 

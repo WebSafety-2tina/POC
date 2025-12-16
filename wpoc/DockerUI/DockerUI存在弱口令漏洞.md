@@ -8,7 +8,7 @@ DockerUI是一款开源的、强大的、轻量级的Docker管理工具。Docker
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/1622799/1733724458922-5e7e71e5-70c8-412f-98a3-33fe85af2e92.png)
 
-## poc
+## POC
 ```java
 ginghan/123456
 ```

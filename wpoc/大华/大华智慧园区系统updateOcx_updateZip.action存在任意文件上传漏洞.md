@@ -8,7 +8,7 @@
 app="dahua-智慧园区综合管理平台"
 ```
 
-## poc
+## POC
 
 ```java
 POST /portal/updateOcx_updateZip.action HTTP/1.1

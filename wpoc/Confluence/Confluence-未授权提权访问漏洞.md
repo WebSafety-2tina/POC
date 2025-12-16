@@ -3,7 +3,7 @@
 ## fofa
 app="ATLASSIAN-Confluence"
 
-## poc yaml格式
+## POC yaml格式
 ```
 variables:
   username: "{{rand_base(10)}}"

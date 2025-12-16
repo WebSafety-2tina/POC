@@ -8,7 +8,7 @@
 "/comhome/cases/index.html" 
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /comadmin/Remote/onepic_uploade?file=file HTTP/1.1

@@ -8,7 +8,7 @@ Druid提供的监控功能,监控SQL的执行时间、监控Web URI的请求、S
 body="/common/scripts/basic.js"
 ```
 
-## poc
+## POC
 ```
 GET /druid/websession.html
 ```

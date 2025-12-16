@@ -8,7 +8,7 @@
 body="AjaxMethods.asmx/GetCompanyItem"
 ```
 
-## poc
+## POC
 
 ```java
 POST /Data/setImg.ashx HTTP/1.1

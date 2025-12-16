@@ -8,7 +8,7 @@
 "./assets/vendor/select2/select2.js"
 ```
 
-## poc
+## POC
 
 phar内容
 

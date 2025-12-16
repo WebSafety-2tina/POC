@@ -9,7 +9,7 @@ app="HertzBeat-实时监控系统"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29512878/1731984344118-f35cf51e-396b-4c72-958e-32a2ce31f18e.png)
 
-## poc
+## POC
 ```java
 默认账号密码 admin/hertzbeat
 ```

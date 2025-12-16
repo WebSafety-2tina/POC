@@ -8,7 +8,7 @@
 "全息AI网络运维平台"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /nmss/cloud/Ajax/ajax_cloud_router_config.php HTTP/1.1

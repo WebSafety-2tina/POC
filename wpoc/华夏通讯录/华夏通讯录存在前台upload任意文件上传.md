@@ -8,7 +8,7 @@
 icon_hash="1403225079" && ":) APPV1"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /admin/common/upload HTTP/2

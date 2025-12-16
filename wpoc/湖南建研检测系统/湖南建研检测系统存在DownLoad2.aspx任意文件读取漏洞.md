@@ -8,7 +8,7 @@
 body="Login/QRLogin.ashx"
 ```
 
-## poc
+## POC
 
 ```
 POST /Common/DownLoad2.aspx HTTP/1.1

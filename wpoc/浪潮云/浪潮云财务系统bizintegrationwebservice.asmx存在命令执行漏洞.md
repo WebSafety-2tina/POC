@@ -8,7 +8,7 @@
 title="TSCEV4.0"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /cwbase/gsp/webservice/bizintegrationwebservice/bizintegrationwebservice.asmx HTTP/1.1

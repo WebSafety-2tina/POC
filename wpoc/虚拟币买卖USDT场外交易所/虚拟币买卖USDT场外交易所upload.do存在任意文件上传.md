@@ -8,7 +8,7 @@
 body="/static/weui/css/wkb.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /member/index/upload.do HTTP/1.1

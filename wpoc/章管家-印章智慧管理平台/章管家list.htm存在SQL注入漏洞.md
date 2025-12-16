@@ -8,7 +8,7 @@
 body="章管家登录-公章在外防私盖"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /app/department/list.htm HTTP/1.1

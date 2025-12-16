@@ -8,7 +8,7 @@
 body="style/blue/css/dcn_ui.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /function/auth/user/online_list.php HTTP/1.1

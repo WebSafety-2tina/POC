@@ -8,7 +8,7 @@
 "/index.php?s=platform/index/captcha"
 ```
 
-## poc
+## POC
 
 ```javascript
 1' OR 1=1 OR '1'='1

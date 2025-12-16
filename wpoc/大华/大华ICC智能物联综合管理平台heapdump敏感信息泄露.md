@@ -8,7 +8,7 @@
 body="static/fontshd/font-hd.css" || body="客户端会小于800"
 ```
 
-## poc
+## POC
 
 ```
 /evo-apigw/dsc-mac/heapdump;.js

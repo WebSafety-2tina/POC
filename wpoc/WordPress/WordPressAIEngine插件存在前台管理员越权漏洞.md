@@ -5,7 +5,7 @@
 "wp-content/plugins/ai-engine/"
 ```
 
-## poc
+## POC
 ```
 https://github.com/Nxploited/CVE-2025-11749
 ```

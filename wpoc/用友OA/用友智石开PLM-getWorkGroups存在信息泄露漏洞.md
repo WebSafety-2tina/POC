@@ -7,7 +7,7 @@
 body="智石开PLM"
 ```
 
-## poc
+## POC
 ```
 POST /services/MessageService HTTP/1.1
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0

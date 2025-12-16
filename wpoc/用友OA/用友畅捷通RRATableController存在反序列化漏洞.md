@@ -8,7 +8,7 @@
 app="畅捷通-TPlus"
 ```
 
-## poc
+## POC
 ```
 POST /tplus/ajaxpro/Ufida.T.DI.UIP.RRA.RRATableController,Ufida.T.DI.UIP.ashx?method=GetStoreWarehouseByStore HTTP/1.1
 Host: your-ip

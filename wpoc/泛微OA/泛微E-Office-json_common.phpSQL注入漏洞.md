@@ -8,7 +8,7 @@
 app="泛微-EOffice"
 ```
 
-## poc
+## POC
 
 ```
 POST /building/json_common.php HTTP/1.1

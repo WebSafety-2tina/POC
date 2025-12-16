@@ -10,7 +10,7 @@
 "/web/static/css/chunk-elementUI.f92cd1c5.css"
 ```
 
-## poc
+## POC
 
 ```python
 POST /web.php/video/uploadMedia HTTP/1.1

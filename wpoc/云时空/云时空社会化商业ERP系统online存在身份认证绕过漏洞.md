@@ -6,7 +6,7 @@
 app="云时空社会化商业ERP系统"
 ```
 
-## poc
+## POC
 
 获取sessionid值，替换emscm.session.id，刷新页面即可登录后台
 

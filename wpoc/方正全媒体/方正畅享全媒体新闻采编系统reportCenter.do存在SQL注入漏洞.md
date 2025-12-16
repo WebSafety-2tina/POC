@@ -8,7 +8,7 @@
 app="FOUNDER-全媒体采编系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /newsedit/report/reportCenter.do HTTP/1.1

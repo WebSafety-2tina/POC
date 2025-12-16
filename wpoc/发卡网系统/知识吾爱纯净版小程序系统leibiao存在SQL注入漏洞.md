@@ -8,7 +8,7 @@ fofa
 "域名/skdjfdf"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /app/zm/leibiao HTTP/1.1

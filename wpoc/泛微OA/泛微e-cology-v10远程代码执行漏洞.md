@@ -8,7 +8,7 @@
 app="泛微-OA（e-cology）"
 ```
 
-## poc
+## POC
 
 ### 获取serviceTicketId
 

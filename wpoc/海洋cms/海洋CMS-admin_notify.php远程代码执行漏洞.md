@@ -8,7 +8,7 @@
 body="http://www.seacms.net"
 ```
 
-## poc
+## POC
 
 ```
 POST /SeaCMS_12.9/Upload/pwh4pc/admin_notify.php?action=set HTTP/1.1

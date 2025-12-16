@@ -8,7 +8,7 @@
 "/static/index/css/login/framework7.ios.min.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /admin/news/imageupload HTTP/1.1

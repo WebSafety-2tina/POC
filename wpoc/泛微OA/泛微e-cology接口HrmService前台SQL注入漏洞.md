@@ -8,7 +8,7 @@
 app="泛微-协同商务系统"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /services/HrmService HTTP/1.1

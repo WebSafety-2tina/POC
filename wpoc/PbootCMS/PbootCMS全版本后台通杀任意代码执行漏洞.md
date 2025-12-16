@@ -5,7 +5,7 @@
 app:"PbootCMS"
 ```
 
-## poc
+## POC
 ```
 <?php
 

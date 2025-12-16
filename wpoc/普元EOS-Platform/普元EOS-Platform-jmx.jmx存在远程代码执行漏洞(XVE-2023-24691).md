@@ -8,7 +8,7 @@ body="普元" || (body="ame.primeton.com" && body="eos-web")
 ```
 
 数据包使用yakit发送
-## poc
+## POC
 ```
 POST /default/jmx.jmx  HTTP/1.1
 Host: 

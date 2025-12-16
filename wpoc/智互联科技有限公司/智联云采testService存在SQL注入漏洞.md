@@ -8,7 +8,7 @@
 title=="SRM 2.0"
 ```
 
-## poc
+## POC
 
 ```java
 POST /adpweb/a/ica/api/testService HTTP/1.1

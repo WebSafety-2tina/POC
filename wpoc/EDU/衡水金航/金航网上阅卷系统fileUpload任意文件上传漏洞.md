@@ -8,7 +8,7 @@
 web.body="js/insteadSelect/jquery.insteadSelect.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /fileUpload HTTP/1.1

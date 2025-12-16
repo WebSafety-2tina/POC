@@ -8,7 +8,7 @@
 body="public/static/index/css/flaghome.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /index/index/doc HTTP/1.1

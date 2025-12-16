@@ -8,7 +8,7 @@
 "/static/index/css/login/framework7.ios.min.css"
 ```
 
-## poc
+## POC
 
 首先我们需要用phpggc生成一个绕过图片检测的phar反序列化脚本，用一张正常图片即可
 

@@ -5,7 +5,7 @@
 body="/interface/CheckLoginName.jsp"
 ```
 
-## poc
+## POC
 ```
 http://ip/stylei/MainPage.jsp?token=YXR-YMD-SYQ-TOKEN
 ```

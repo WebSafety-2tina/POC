@@ -8,7 +8,7 @@
 body="Com_Parameter"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /sys/webservice/thirdImSyncForKKWebService HTTP/1.1

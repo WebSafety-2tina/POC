@@ -9,7 +9,7 @@ ShowDoc 3.2.6之前版本存在sql注入漏洞，在 Showdoc 的/server/index.ph
 app="ShowDoc"
 ```
 
-## poc
+## POC
 
 ```python
 import argparse

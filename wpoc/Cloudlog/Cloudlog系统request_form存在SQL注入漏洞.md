@@ -8,7 +8,7 @@ Cloudlog系统接口request_form未授权SQL注入漏洞，未经身份验证的
 icon_hash="-460032467"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /index.php/oqrs/request_form HTTP/1.1

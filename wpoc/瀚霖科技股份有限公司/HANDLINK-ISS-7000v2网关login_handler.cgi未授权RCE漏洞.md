@@ -8,7 +8,7 @@
 icon_hash="-842942564"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /login_handler.cgi HTTP/1.1

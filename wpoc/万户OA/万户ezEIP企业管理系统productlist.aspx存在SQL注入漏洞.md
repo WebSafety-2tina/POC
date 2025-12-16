@@ -8,7 +8,7 @@
 body="ezEIP" || header="ezEIP" || body="css/css_whir.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /shop/productlist.aspx HTTP/1.1

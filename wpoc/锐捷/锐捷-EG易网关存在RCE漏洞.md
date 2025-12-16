@@ -5,7 +5,7 @@
 app="Ruijie-EG易网关"
 ```
 
-## poc
+## POC
 ```
 获取用户密码
 POST /login.php HTTP/1.1

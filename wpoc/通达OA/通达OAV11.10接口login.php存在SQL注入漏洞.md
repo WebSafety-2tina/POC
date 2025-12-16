@@ -8,7 +8,7 @@
 app="TDXK-通达OA"
 ```
 
-## poc
+## POC
 
 ```java
 POST /ispirit/interface/login.php HTTP/1.1

@@ -8,7 +8,7 @@ JieLink+智能终端操作平台多个接口处存在敏感信息泄露漏洞，
 title="JieLink+智能终端操作平台"
 ```
 
-## poc
+## POC
 
 ```
 POST /report/ParkChargeRecord/GetDataList HTTP/1.1

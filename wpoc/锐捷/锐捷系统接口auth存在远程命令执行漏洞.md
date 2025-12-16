@@ -8,7 +8,7 @@
 body="cgi-bin/luci" && body="#f47f3e"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /cgi-bin/luci/api/auth HTTP/1.1

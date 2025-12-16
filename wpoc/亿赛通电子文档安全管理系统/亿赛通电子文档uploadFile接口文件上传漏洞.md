@@ -18,7 +18,7 @@ https://github.com/0xf4n9x/CDGXStreamDeserRCE
 ![image](https://github.com/wy876/POC/assets/139549762/365c3394-4f8e-43aa-9fac-d12e069ca53a)
 
 
-## poc
+## POC
 ```
 POST /file/uploadFile HTTP/1.1
 Host: 

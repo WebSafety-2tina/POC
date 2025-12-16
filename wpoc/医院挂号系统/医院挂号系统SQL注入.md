@@ -5,7 +5,7 @@
 body="res/img/ht_box_back.gif" || body="/res/img/ht_box_top.gif" || body="/res/img/ht_box_bottom.gif" || body="dom_loaded.load(init);"
 ```
 
-## poc
+## POC
 ```
 POST /m/login.php?op=login HTTP/1.1
 Host:

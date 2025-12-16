@@ -6,7 +6,7 @@
 app="dahua-DSS"
 ```
 
-## poc
+## POC
 ```
 POST /portal/services/itcBulletin?wsdl HTTP/1.1
 Host: x.x.x.x

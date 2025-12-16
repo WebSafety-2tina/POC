@@ -8,7 +8,7 @@
 title="企望制造ERP系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /mainFunctions/drawGrid.action;cookieLogin.action HTTP/1.1

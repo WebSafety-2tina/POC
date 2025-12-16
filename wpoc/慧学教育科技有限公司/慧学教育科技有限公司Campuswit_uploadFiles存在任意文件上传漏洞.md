@@ -8,7 +8,7 @@
 body="campuswit"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /v1/public/uploadFiles HTTP/1.1

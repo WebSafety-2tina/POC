@@ -8,7 +8,7 @@
 body="/api/DBRecord/getDBRecords"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /api/cgInvtSp/UploadInvtSpBuzPlanFile HTTP/1.1

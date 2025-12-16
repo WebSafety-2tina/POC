@@ -8,7 +8,7 @@
 title="订货易" || title="管家婆分销ERP" || body="管家婆分销ERP" || body="ERP V3"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /api/Upload/UploadImgNoCheck?m_server_name=ShopUserImg HTTP/1.1

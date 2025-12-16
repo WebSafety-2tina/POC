@@ -2,7 +2,7 @@
 
 帕拉迪堡垒机sslvpnservice.php存在SQL注入漏洞
 
-## poc
+## POC
 
 ```javascript
 POST /sslvpnservice.php HTTP/1.1

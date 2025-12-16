@@ -8,7 +8,7 @@
 app="dahua-智慧园区综合管理平台"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /emap/devicePoint_addImgIco?hasSubsystem=true HTTP/1.1

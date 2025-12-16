@@ -8,7 +8,7 @@
 body="/Account/Login?ACT=Index"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /Account/Login?ACT=Index&CLR=Home HTTP/1.1

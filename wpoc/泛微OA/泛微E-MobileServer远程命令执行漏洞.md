@@ -69,5 +69,5 @@ func getParam() (t, c string) {
         return hflag.GetString("target"), hflag.GetString("command")
 }
 ```
-## poc使用
+## POC使用
 ```go run poc.go -t http://目标  -c 执行命令```

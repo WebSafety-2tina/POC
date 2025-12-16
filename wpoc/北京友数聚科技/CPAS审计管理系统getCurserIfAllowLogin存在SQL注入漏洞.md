@@ -7,7 +7,7 @@
 body="/cpasm4/static/cap/font/iconfont.css"
 ```
 
-## poc
+## POC
 ```javascript
 POST /cpasm4/cpasList/getCurserIfAllowLogin HTTP/1.1
 Host: 

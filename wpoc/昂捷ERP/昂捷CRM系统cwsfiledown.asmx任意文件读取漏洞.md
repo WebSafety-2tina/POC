@@ -8,7 +8,7 @@
 body="/ClientBin/slEnjoy.App.xap"
 ```
 
-## poc
+## POC
 
 ```xml
 POST /EnjoyRMIS_WS/WS/FileDown/cwsfiledown.asmx HTTP/1.1

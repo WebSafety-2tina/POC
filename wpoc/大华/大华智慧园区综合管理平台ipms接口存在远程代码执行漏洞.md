@@ -7,7 +7,7 @@
 body="src=/WPMS/asset/common/js/jsencrypt.min.js"
 ```
 
-## poc
+## POC
 ```
 POST /ipms/barpay/pay HTTP/1.1
 Host: {host}

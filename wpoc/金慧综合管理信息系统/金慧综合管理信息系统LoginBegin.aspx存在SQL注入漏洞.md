@@ -8,7 +8,7 @@
 body="/Portal/LoginBegin.aspx"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /Portal/LoginBegin.aspx?ReturnUrl=%2f HTTP/1.1

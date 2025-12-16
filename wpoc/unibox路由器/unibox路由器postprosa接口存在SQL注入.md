@@ -8,7 +8,7 @@ UniBox 是一款一体化网络/热点控制器，可以部署为管理公共 Wi
 body="Unibox" && body="Controller"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /api/postprosa.php HTTP/1.1

@@ -8,7 +8,7 @@
 body="PView 视音频管理平台"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /index.php?r=RelMedia/FindById HTTP/1.1

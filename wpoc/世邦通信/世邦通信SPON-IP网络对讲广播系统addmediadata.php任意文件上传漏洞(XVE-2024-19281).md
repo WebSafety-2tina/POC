@@ -8,7 +8,7 @@
 icon_hash="-1830859634"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /php/addmediadata.php HTTP/1.1

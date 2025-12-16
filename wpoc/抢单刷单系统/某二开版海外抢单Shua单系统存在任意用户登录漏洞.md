@@ -8,7 +8,7 @@
 "/red/popper.min.js"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /index/index HTTP/1.1

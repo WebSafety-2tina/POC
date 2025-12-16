@@ -8,7 +8,7 @@
 app="亿赛通-DLP"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /CDGServer3/NetSecConfigAjax;Service HTTP/1.1

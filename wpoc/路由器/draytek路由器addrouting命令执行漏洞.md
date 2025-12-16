@@ -6,7 +6,7 @@ header="realm="VigorAP910C"
 ```
 
 
-## poc
+## POC
 ```
 获取token
 GET /opmode.asp HTTP/1.1

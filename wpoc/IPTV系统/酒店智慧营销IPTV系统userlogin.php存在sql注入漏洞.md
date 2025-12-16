@@ -8,7 +8,7 @@
 body="xsiptvp"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /xsiptva/cniptv/userlogin.php HTTP/1.1

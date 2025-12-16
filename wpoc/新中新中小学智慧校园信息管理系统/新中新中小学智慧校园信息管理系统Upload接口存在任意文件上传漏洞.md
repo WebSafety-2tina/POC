@@ -10,7 +10,7 @@ body="/Login/IndexMobi"
 
 ![image-20240712202008295](https://sydgz2-1310358933.cos.ap-guangzhou.myqcloud.com/pic/202407122020397.png)
 
-## poc
+## POC
 
 ```yaml
 POST /PSE/Upload HTTP/1.1

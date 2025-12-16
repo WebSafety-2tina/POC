@@ -5,7 +5,7 @@
 app="用友-移动系统管理"
 ```
 
-## poc
+## POC
 ```
 POST /maportal/appmanager/uploadIcon.do HTTP/2
 Host: 

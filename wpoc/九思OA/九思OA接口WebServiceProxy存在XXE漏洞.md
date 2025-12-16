@@ -8,7 +8,7 @@
 body="/jsoa/login.jsp"
 ```
 
-## poc
+## POC
 
 ```java
 POST /jsoa/WebServiceProxy HTTP/1.1

@@ -8,7 +8,7 @@
 body="/common/scripts/basic.js"
 ```
 
-## poc
+## POC
 
 ```
 POST /eai/someValue/anotherValue HTTP/1.1

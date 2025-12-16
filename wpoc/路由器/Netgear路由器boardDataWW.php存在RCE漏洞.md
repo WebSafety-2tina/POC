@@ -9,7 +9,7 @@ title=="Netgear"
 ```
 
 
-## poc
+## POC
 ```
 POST /boardDataWW.php HTTP/1.1
 Host: 

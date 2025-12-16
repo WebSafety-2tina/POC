@@ -8,7 +8,7 @@
 body="dsc-choie"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /wholesale_flow.php?step=ajax_update_cart HTTP/1.1

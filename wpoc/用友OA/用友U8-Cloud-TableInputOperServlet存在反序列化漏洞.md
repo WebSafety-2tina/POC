@@ -8,7 +8,7 @@ app="用友-U8-Cloud" || body="/api/uclient/public/"
 ```
 
 数据包使用yakit发送
-## poc
+## POC
 ```
 POST /service/~iufo/com.ufsoft.iuforeport.tableinput.TableInputOperServlet HTTP/1.1
 Host: 

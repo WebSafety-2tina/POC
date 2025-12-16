@@ -8,7 +8,7 @@
 body="/CDGServer3/index.jsp"
 ```
 
-## poc
+## POC
 
 ```xml
 POST /CDGServer3/CDGAuthoriseTempletService1 HTTP/1.1

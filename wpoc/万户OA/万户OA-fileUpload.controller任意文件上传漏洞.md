@@ -7,7 +7,7 @@
 app="万户ezOFFICE协同管理平台"
 ```
 
-## poc
+## POC
 ```javascript
 POST /defaultroot/upload/fileUpload.controller HTTP/1.1
 Host: 

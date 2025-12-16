@@ -8,7 +8,7 @@ showdoc是一个非常适合IT团队的在线API文档、技术文档工具，�
 app="ShowDoc"
 ```
 
-## poc
+## POC
 
 ```
 POST /index.php?s=/home/page/uploadImg HTTP/1.1

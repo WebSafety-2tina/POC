@@ -2,7 +2,7 @@
 
 Sensio Labs Symfony是法国Sensio Labs公司的一套免费的、基于MVC架构的PHP开发框架。该框架提供常用的功能组件及工具，可用于快速创建复杂的WEB程序。
 
-## poc
+## POC
 
 ```
 /app_dev.php/_profiler/open?file=app/config/parameters.yml

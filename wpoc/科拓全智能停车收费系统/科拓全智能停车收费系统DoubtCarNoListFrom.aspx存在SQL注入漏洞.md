@@ -5,7 +5,7 @@
 body="/KT_Css/qd_defaul.css"
 ```
 
-## poc
+## POC
 ```
 POST /KT_Admin/CarCard/DoubtCarNoListFrom.aspx HTTP/1.1
 Host: 

@@ -8,7 +8,7 @@
 title="Dashboard - pyspider"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /debug/任意实例名/run HTTP/1.1

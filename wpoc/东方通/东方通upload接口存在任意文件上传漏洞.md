@@ -8,7 +8,7 @@
 header="TongWeb Server" || banner="Server: TongWeb Server"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /heimdall/deploy/upload?method=upload HTTP/1.1

@@ -14,7 +14,7 @@ title=="U8C"
 app.name="用友 U8 Cloud"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /u8cloud/openapi/uapbd.refdef.query?appcode=huo&isEncrypt=N HTTP/1.1

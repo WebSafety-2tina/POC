@@ -8,7 +8,7 @@
 web.body="瑞格智慧心理服务平台"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /NPreenManage/NPreenSMSList.asmx HTTP/1.1

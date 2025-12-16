@@ -10,7 +10,7 @@ body="static/nxb/css"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/1622799/1735633027515-abcf8dc0-00f2-4a7e-8010-201e8988c38f.png)
 
-## poc
+## POC
 ```rust
 POST /upload/scorm HTTP/1.1
 Host: 

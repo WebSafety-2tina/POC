@@ -7,7 +7,7 @@
 title="欢迎使用 博斯软件"
 ```
 
-## poc
+## POC
 ```javascript
 POST /log/logined.jsp HTTP/1.1
 Host: 

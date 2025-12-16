@@ -6,7 +6,7 @@
 app="OpenCart-开源免费PHP商城"
 ```
 
-## poc
+## POC
 
 ```
 POST /index.php?route=extension/payment/divido/update HTTP/1.1

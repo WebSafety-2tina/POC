@@ -8,7 +8,7 @@
 app="HIKVISION-综合安防管理平台" ||app="HIKVISION-iSecure-Center"
 ```
 
-## poc
+## POC
 
 ```
 POST /bic/ssoService/v1/keepAlive HTTP/1.1

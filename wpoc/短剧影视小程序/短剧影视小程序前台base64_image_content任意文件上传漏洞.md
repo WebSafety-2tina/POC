@@ -8,7 +8,7 @@
 "/VwmRIfEYDH.php"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /api/user/avatar HTTP/1.1

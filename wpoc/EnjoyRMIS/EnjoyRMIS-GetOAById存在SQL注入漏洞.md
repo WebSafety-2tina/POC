@@ -8,7 +8,7 @@
 body="CheckSilverlightInstalled"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /EnjoyRMIS_WS/WS/POS/cwsoa.asmx HTTP/1.1

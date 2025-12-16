@@ -8,7 +8,7 @@
 title="乐享智能运维管理平台"
 ```
 
-## poc
+## POC
 
 ```java
 POST /auth-ui/v1/api/user/token/getToken HTTP/1.1

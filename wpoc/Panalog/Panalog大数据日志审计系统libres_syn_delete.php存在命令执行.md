@@ -6,7 +6,7 @@
 app="Panabit-Panalog"
 ```
 
-## poc
+## POC
 ```
 POST /content-apply/libres_syn_delete.php HTTP/1.1
 Host: 

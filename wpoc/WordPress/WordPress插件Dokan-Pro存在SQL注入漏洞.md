@@ -9,7 +9,7 @@ Dokan Pro插件在3.10.3及以下版本中，由于对用户提供的'code'参�
 
 ```
 
-## poc
+## POC
 
 ```
 POST /wp-admin/admin.php?webhook=dokan-moip HTTP/1.1

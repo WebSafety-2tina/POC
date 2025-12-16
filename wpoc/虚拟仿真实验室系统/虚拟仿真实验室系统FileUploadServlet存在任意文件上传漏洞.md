@@ -10,7 +10,7 @@
 body="virexp/s"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /chatroom/FileUploadServlet HTTP/1.1

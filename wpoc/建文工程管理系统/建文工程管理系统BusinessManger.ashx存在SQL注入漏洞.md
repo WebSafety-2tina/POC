@@ -10,7 +10,7 @@ body="Login/QRLogin.ashx"
 
 ![image-20240722163029952](https://sydgz2-1310358933.cos.ap-guangzhou.myqcloud.com/pic/202407221630031.png)
 
-## poc
+## POC
 
 ```yaml
 POST /AppInterface/Business/BusinessManger.ashx HTTP/1.1

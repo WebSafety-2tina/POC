@@ -7,7 +7,7 @@
 app="网康下一代防火墙"
 ```
 
-## poc
+## POC
 ```
 POST /directdata/direct/router HTTP/1.1
 Host: 

@@ -8,7 +8,7 @@
 body="/api/DBRecord/getDBRecords"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /api/FileUpload/Upload HTTP/1.1

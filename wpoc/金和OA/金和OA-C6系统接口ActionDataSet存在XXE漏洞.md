@@ -8,7 +8,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /jc6/servlet/ActionDataSet HTTP/1.1

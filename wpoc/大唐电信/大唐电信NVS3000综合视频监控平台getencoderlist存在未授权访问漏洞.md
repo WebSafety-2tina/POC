@@ -8,7 +8,7 @@
 (body="NVS3000综合视频监控平台" && title=="综合视频监控平台") || app="大唐电信-NVS3000"
 ```
 
-## poc
+## POC
 
 ```
 POST /nvsthird/getencoderlist HTTP/1.1

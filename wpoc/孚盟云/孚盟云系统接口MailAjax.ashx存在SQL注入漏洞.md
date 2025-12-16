@@ -8,7 +8,7 @@
 app="孚盟软件-孚盟云"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /Ajax/MailAjax.ashx HTTP/1.1

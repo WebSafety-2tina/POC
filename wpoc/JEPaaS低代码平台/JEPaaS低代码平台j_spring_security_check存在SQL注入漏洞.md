@@ -8,7 +8,7 @@ JEPaaS低代码平台j_spring_security_check存在SQL注入漏洞，未经身份
 body="/saas/saasYhAction!sendRandom.action"
 ```
 
-## poc
+## POC
 
 ```
 POST /j_spring_security_check HTTP/1.1

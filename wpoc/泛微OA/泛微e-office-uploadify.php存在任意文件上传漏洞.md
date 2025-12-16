@@ -8,7 +8,7 @@
 app="泛微-EOffice"
 ```
 
-## poc
+## POC
 
 ```
 POST /inc/jquery/uploadify/uploadify.php  HTTP/1.1

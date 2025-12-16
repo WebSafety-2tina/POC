@@ -8,7 +8,7 @@ Exam在线考试系统是一种现代地，全新的考试模型。它使用户�
 "app/core/styles/js/jquery.min.js"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /index.php?document-api-fineuploader HTTP/1.1

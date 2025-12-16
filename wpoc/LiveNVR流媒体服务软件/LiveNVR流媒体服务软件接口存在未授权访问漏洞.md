@@ -14,7 +14,7 @@ icon_hash="-206100324"
 web.icon=="7bfff01de80c14288ff385cd7db83c56"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /api/v1/device/channeltree?serial=&pcode HTTP/1.1

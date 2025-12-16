@@ -7,7 +7,7 @@ body="wp-content/plugins/wp-hotel-booking"
 ```
 
 
-## poc
+## POC
 ```
 GET / HTTP/1.1
 Host: 

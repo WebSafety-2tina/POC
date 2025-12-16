@@ -8,7 +8,7 @@ JEEWMS系统cgReportController.do存在SQL注入漏洞
 body="plug-in/lhgDialog/lhgdialog.min.js?skin=metro"
 ```
 
-## poc
+## POC
 
 1. 构建 POC，登录后端捕获数据包，并替换 cookie
 

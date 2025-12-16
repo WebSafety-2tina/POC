@@ -8,7 +8,7 @@
 icon_hash="772658742"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /api/bd-mdp/serviceManager/outInterface/getDataSource HTTP/1.1

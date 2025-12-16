@@ -8,7 +8,7 @@
 icon_hash="1632964065" || icon_hash="-2142050529"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /SystemManager/TicketSystem/ReturnTicketPlance.ashx HTTP/1.1

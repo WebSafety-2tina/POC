@@ -8,7 +8,7 @@
 body="hidLicResult" && body="hidProductID"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /m/Dingding/Ajax/AjaxSendDingdingMessage.ashx HTTP/1.1

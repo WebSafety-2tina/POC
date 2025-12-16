@@ -8,7 +8,7 @@
 body="XSDService.asmx"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /XSDService.asmx HTTP/1.1

@@ -6,7 +6,7 @@ app="FE-协作平台"
 app="飞企互联-FE企业运营管理平台"
 ```
 
-## poc
+## POC
 ```
 /loginService.fe?op=D
 ```

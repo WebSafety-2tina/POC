@@ -9,7 +9,7 @@ body="/_common/scripts/md5-min.js"
 
 ![](https://mmbiz.qpic.cn/sz_mmbiz_png/rPMtsalfZ0qQQRNkEo8NMwRQ021eRZBqBuKH0CuQ7uEILDKfLck9mxaJjR8m82DzflBlIciaUThm2oe1chjiaaSg/640?wx_fmt=png&from=appmsg "")  
 
-## poc
+## POC
 
 ```javascript
 POST /Kfxt/Service.asmx HTTP/1.1

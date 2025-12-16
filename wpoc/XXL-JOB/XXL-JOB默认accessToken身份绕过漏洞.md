@@ -14,7 +14,7 @@ XXL-JOB是一款开源的分布式任务调度平台，用于实现大规模任�
 "invalid request, HttpMethod not support" && port="9999"
 ```
 
-## poc
+## POC
 
 请求头加上XXL-JOB-ACCESS-TOKEN: default_token
 

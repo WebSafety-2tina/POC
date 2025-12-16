@@ -8,7 +8,7 @@
 app="FOUNDER-全媒体采编系统"
 ```
 
-## poc
+## POC
 
 ```java
 GET /newsedit/assess/syn.do?type=org HTTP/1.1

@@ -8,7 +8,7 @@
 app="泛微-协同商务系统"
 ```
 
-## poc
+## POC
 
 ```java
 POST /rest/ofs/deleteRequestInfoByXml HTTP/1.1

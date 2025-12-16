@@ -8,7 +8,7 @@
 app="畅捷通-TPlus"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /tplus/ajaxpro/Ufida.T.SM.UIP.UA.AddressSettingController,Ufida.T.SM.UIP.ashx?method=TestConnnect HTTP/1.1

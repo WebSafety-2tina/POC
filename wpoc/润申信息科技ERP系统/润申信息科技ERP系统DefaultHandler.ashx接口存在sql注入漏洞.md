@@ -8,7 +8,7 @@
 body="PDCA/js/_publicCom.js"
 ```
 
-## poc
+## POC
 
 ```java
 POST /ashx/DefaultHandler.ashx HTTP/1.1

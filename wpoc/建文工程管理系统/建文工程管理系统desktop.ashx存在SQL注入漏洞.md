@@ -8,7 +8,7 @@
 body="Login/QRLogin.ashx"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /SysFrame4/Desktop.ashx HTTP/1.1

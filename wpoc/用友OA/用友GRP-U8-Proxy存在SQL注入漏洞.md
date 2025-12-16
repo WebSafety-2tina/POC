@@ -1,7 +1,7 @@
 ## 用友GRP-U8-Proxy存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 POST /Proxy HTTP/1.1
 Host: 

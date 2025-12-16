@@ -10,7 +10,7 @@ body="UClient.dmg"
 
 
 
-## poc
+## POC
 
 ```
 POST /ebs/securitycheck HTTP/1.1

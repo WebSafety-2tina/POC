@@ -10,7 +10,7 @@ title="Authenticate Please!"
 
 
 
-## poc
+## POC
 
 ```
 POST /assetsmanager/upload HTTP/1.1

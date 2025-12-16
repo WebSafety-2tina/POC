@@ -8,7 +8,7 @@
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 
 使用cc6链打poc
 

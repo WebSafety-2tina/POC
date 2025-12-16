@@ -8,7 +8,7 @@ Altenergy 电力系统控制软件中发现了一个被归类为严重漏洞。�
 title="Altenergy Power Control Software"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /index.php/display/status_zigbee HTTP/1.1

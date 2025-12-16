@@ -8,7 +8,7 @@
 title="智慧综合管理平台登入"
 ```
 
-## poc
+## POC
 
 ```java
 POST /Module/FileUpPage/FileUpAd.aspx?file_tmid=upload HTTP/1.1

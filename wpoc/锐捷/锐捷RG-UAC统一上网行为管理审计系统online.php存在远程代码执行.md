@@ -8,7 +8,7 @@
 app="Ruijie-RG-UAC"
 ```
 
-## poc
+## POC
 
 ```
 POST /view/vpn/autovpn/online.php HTTP/1.1

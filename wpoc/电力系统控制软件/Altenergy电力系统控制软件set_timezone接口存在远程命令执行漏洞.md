@@ -8,7 +8,7 @@
 title="Altenergy Power Control Software"
 ```
 
-## poc
+## POC
 
 ```java
 POST /index.php/management/set_timezone HTTP/1.1

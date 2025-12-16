@@ -9,7 +9,7 @@ ZKTime 熵基智能考勤管理系统 ic1ock 接口存在SQL注入漏洞，攻�
 body="/media/images/ZKECO16.ico"
 ```
 
-## poc
+## POC
 ```
 POST /iclock/iclock HTTP/1.1
 Host: [已模糊处理]

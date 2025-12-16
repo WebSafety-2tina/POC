@@ -8,7 +8,7 @@
 app="九思软件-OA"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /jsoa/workflow/dwr/exec/workflowSync.getUserStatusByRole.dwr HTTP/1.1

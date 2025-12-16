@@ -8,7 +8,7 @@
 body="/CDGServer3/index.jsp"
 ```
 
-## poc
+## POC
 
 ```java
 POST /CDGServer3/logincontroller HTTP/1.1

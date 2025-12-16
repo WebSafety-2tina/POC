@@ -8,7 +8,7 @@ MSService 服务init.do接口处存在SQL注入漏洞。这可能导致泄露敏
 title="MSService 服务"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /init.do HTTP/1.1

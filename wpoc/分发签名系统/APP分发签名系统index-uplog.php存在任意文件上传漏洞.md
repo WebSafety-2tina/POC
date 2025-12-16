@@ -6,7 +6,7 @@
 "statics/css/swiper.min.css" && "/user/messages/dialog"
 ```
 
-## poc
+## POC
 
 ```
 POST /source/pack/upload/2upload/index-uplog.php HTTP/1.1

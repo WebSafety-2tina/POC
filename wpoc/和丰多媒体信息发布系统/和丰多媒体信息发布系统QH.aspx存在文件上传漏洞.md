@@ -5,7 +5,7 @@
 app="和丰山海-数字标牌"
 ```
 
-## poc
+## POC
 ```
 POST /QH.aspx HTTP/1.1
 Host: 

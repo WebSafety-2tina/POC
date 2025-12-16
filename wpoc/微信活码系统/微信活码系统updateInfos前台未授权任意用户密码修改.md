@@ -6,7 +6,7 @@
 body=".qn-user-login"
 ```
 
-## poc
+## POC
 
 默认管理员用户名为admin且uid为1
 

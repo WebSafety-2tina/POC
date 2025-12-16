@@ -6,7 +6,7 @@ body="../js/jslib/jquery.blockUI.js"
 ```
 
 
-## poc
+## POC
 ```
 POST /maportal/appmanager/uploadApk.dopk_obj= HTTP/1.1
 Host: 127.0.0.1

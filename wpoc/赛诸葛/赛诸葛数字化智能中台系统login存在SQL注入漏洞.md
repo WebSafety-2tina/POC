@@ -7,7 +7,7 @@
 body="static/index/image/login_left.png" || icon_hash="1056416905"
 ```
 
-## poc
+## POC
 ```javascript
 POST /login HTTP/1.1
 Host: 

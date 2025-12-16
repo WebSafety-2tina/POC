@@ -6,7 +6,7 @@
 app="WeiPHP"
 ```
 
-## poc
+## POC
 ```
 POST /public/index.php/weixin/message/_send_by_group HTTP/1.1
 Host: 

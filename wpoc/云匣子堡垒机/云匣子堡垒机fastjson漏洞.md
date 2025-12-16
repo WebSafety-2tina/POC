@@ -8,7 +8,7 @@ body="type=application/x-xtx-axhost" &&  cert="云匣子"
 app="云安宝-云匣子"
 ```
 
-## poc
+## POC
 ```
 POST /3.0/authService/config HTTP/1.1
 Host: your-ip

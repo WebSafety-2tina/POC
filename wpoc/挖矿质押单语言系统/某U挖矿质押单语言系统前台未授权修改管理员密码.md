@@ -8,7 +8,7 @@
 "/static/index/css/login/framework7.ios.min.css"
 ```
 
-## poc
+## POC
 
 ```
 /admin/login/setpassword

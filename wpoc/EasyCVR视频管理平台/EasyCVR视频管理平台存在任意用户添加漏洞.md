@@ -12,7 +12,7 @@ app="EasyCVR-视频管理平台"
 
 
 
-## poc
+## POC
 
 ```
 POST /api/v1/adduser HTTP/1.1

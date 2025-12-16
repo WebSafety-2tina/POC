@@ -6,7 +6,7 @@ icon_hash="-165268926"
 ```
 
 
-## poc
+## POC
 ```
 POST /v1/app/writeFileSync HTTP/1.1
 Host: {{Host}}

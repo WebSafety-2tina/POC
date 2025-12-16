@@ -8,7 +8,7 @@
 body="北京神州数码云科信息技术有限公司" && title=="Web Management"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /function/system/tool/ping.php HTTP/1.1

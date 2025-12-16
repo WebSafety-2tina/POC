@@ -1,6 +1,6 @@
 ## 用友GRP-U8-userInfoWeb存在SQL注入
 
-## poc
+## POC
 ```
 POST /services/userInfoWeb HTTP/1.1
 Cache-Control: max-age=0

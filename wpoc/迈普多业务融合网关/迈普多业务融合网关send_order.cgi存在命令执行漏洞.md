@@ -8,7 +8,7 @@
 title=="迈普多业务融合网关"
 ```
 
-## poc
+## POC
 
 ```
 POST /send_order.cgi?parameter=operation HTTP/1.1

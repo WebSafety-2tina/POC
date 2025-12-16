@@ -8,7 +8,7 @@ Cloudlog系统接口delete_oqrs_line未授权SQL注入漏洞，未经身份验�
 icon_hash="-460032467"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /index.php/oqrs/delete_oqrs_line HTTP/1.1

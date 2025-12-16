@@ -8,7 +8,7 @@
 body="AjaxMethods.asmx/GetCompanyItem"
 ```
 
-## poc
+## POC
 
 ```
 POST /AjaxMethods.asmx/GetCompanyItem HTTP/1.1

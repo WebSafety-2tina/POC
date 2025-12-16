@@ -8,7 +8,7 @@ LiveBOS灵动业务架构平台，是面向对象的业务支撑平台与建模�
 app="LiveBOS-框架"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /feed/UploadImage.do;.css.jsp HTTP/1.1

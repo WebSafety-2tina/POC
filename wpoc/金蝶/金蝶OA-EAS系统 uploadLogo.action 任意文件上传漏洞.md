@@ -8,7 +8,7 @@
 app="Kingdee-EAS"
 ```
 
-## poc
+## POC
 ```
 POST /plt_portal/setting/uploadLogo.action HTTP/1.1
 Host: 

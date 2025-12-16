@@ -6,7 +6,7 @@ body="Client/Uclient/UClient.dmg"
 ```
 
 
-## poc
+## POC
 ```
 POST /portal/registerServlet HTTP/1.1
 Host: 192.168.63.129:8088

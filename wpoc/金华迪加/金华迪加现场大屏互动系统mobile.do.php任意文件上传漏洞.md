@@ -8,7 +8,7 @@
 body="/wall/themes/meepo/assets/images/defaultbg.jpg" || title="现场活动大屏幕系统"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /mobile/mobile.do.php?action=msg_uploadimg HTTP/1.1

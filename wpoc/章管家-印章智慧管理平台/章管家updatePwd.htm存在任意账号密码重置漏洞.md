@@ -6,7 +6,7 @@
 app="章管家-印章智慧管理平台"
 ```
 
-## poc
+## POC
 
 ```java
 POST /app/updatePwd.htm HTTP/1.1

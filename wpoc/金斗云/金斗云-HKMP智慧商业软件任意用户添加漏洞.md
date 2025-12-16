@@ -8,7 +8,7 @@
 body="金斗云 HKMP"
 ```
 
-## poc
+## POC
 
 ```
 POST /admin/user/add HTTP/1.1

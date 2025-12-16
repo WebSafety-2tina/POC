@@ -8,7 +8,7 @@ https://github.com/tsxcw/mtab
 icon_hash="391069193"
 ```
 
-## poc
+## POC
 
 ```json
 POST /LinkStore/getIcon HTTP/1.1

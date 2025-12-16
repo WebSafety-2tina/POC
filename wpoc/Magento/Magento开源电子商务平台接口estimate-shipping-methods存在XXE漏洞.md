@@ -8,7 +8,7 @@
 app="Adobe-Magento"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /rest/all/V1/guest-carts/test-assetnote/estimate-shipping-methods HTTP/2

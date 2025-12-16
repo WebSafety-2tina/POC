@@ -8,7 +8,7 @@
 body="明 湖 区 最 具 影 响 力 的 设 计 规 范 之 一"
 ```
 
-## poc
+## POC
 
 ```
 http://localhost:8088/system/dictData/getDictItems/gen_table,user(),1,1

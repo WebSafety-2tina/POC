@@ -7,7 +7,7 @@
 app="秒优科技-供应链管理系统"
 ```
 
-## poc
+## POC
 ```javascript
 POST /zh/login/doAction HTTP/1.1
 Host: 

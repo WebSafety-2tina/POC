@@ -8,7 +8,7 @@
 title="一体化运营平台" || body="thirdparty/ueditor/WordPaster"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /manage/tplresource/importVisualModuleImg?moduleId=2 HTTP/1.1

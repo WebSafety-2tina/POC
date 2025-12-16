@@ -12,7 +12,7 @@ Jeecg (J2EE C ode G eneration)是一款基于代码生成器的低代码开发�
 app="JEECG"
 ```
 
-## poc
+## POC
 
 创建如下远程文件，其内容为fastjson代码执行的payload
 

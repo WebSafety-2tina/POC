@@ -8,7 +8,7 @@
 title="快云服务器助手"
 ```
 
-## poc
+## POC
 ```javascript
 POST /FileMenu/filemana.aspx/GetDetail HTTP/1.1
 Host: 

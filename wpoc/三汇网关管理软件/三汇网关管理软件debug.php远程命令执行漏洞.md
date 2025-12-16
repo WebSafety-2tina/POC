@@ -8,7 +8,7 @@
 body="text ml10 mr20" && title="网关管理软件"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /debug.php HTTP/1.1

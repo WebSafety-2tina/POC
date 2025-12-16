@@ -1,6 +1,6 @@
 ## 用友畅捷通CRM-create_site.phpSQL注入漏洞
 
-## poc
+## POC
 ```
 id: yongyou-changjietongCRM-SQL
 

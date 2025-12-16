@@ -8,7 +8,7 @@ YzmCMS是一款基于YZMPHP开发的一套轻量级开源内容管理系统,YzmC
 app="yzmcms"
 ```
 
-## poc
+## POC
 
 ```
 POST /pay/index/pay_callback.html HTTP/1.1

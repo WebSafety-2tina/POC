@@ -8,7 +8,7 @@
 app="万户ezOFFICE协同管理平台"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /defaultroot/xfservices/./GeneralWeb HTTP/1.1

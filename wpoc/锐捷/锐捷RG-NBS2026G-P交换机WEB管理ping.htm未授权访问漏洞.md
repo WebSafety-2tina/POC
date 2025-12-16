@@ -2,7 +2,7 @@
 
 未验证漏洞
 
-## poc
+## POC
 
 ```yaml
 /safety/ping.htm

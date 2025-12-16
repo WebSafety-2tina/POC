@@ -8,7 +8,7 @@
 header="HTTPD_ac 1.0"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /actpt.data HTTP/1.1

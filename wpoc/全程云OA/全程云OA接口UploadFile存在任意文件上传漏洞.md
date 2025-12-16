@@ -8,7 +8,7 @@
 body="images/yipeoplehover.png"
 ```
 
-## poc
+## POC
 
 ```java
 POST /OA/api/2.0/Common/AttachFile/UploadFile HTTP/1.1

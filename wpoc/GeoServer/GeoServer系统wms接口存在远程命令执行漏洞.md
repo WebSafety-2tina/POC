@@ -12,7 +12,7 @@ app="GeoServer"
 
 
 
-## poc
+## POC
 
 ```bash
 POST /geoserver/wms HTTP/1.1

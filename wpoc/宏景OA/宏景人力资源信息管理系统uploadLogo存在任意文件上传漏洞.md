@@ -6,7 +6,7 @@
 app.name="宏景 HCM"
 ```
 
-## poc
+## POC
 1、获取cookie
 
 ```java

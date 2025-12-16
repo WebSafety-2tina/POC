@@ -8,7 +8,7 @@
 "INFINITT" && (icon_hash="1474455751" || icon_hash="702238928")
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /webservices/Upload.asmx HTTP/1.1

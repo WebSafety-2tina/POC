@@ -8,7 +8,7 @@
 app="Ruijie-RG-UAC"
 ```
 
-## poc
+## POC
 
 ```
 POST /view/networkConfig/RouteConfig/StaticRoute/static_route_edit_ipv6.php?action=modify HTTP/1.1

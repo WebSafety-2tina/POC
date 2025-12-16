@@ -8,7 +8,7 @@
 body="AjaxMethods.asmx/GetCompanyItem"
 ```
 
-## poc
+## POC
 
 ```
 POST /WXAPI.asmx/GetCustomerLinkman HTTP/1.1

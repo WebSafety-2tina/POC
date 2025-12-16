@@ -8,7 +8,7 @@
 "sec_gate_image/button_normal.gif"
 ```
 
-## poc
+## POC
 
 ```java
 POST /cgi-bin/authUser/authManageSet.cgi HTTP/1.1

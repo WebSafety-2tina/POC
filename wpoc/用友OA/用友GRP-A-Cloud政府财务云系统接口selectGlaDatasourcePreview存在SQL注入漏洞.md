@@ -9,7 +9,7 @@ body="/pf/portal/login/css/fonts/style.css"
 ```
 
 
-## poc
+## POC
 
 ```yaml
 POST /gla/dataSource/selectGlaDatasourcePreview HTTP/1.1

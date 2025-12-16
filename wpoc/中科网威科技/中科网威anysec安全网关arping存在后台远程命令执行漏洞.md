@@ -9,7 +9,7 @@ app="中科网威-anysec"
 
 ![](https://cdn.nlark.com/yuque/0/2024/png/1622799/1733735125819-6e44adad-f0c0-4cdc-bab4-d2def9afe4e6.png)
 
-## poc
+## POC
 1. 使用弱口令`admin/anysec`登录系统
 2. 执行命令
 

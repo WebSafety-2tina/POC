@@ -8,7 +8,7 @@ jieLink+智能终端操作平台deviceId参数存在sql注入漏洞，攻击者�
 title="JieLink+智能终端操作平台"
 ```
 
-## poc
+## POC
 
 ```
 POST /mobile/Remote/GetParkController HTTP/1.1

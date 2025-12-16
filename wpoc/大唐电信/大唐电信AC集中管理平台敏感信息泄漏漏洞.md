@@ -8,7 +8,7 @@
 app="大唐电信AC集中管理平台" && fid="gmqJFLGz7L/7TdQxUJFBXQ=="
 ```
 
-## poc
+## POC
 
 ```
 GET /actpt.data HTTP/1.1

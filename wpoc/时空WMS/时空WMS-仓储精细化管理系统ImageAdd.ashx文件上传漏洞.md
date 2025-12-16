@@ -8,7 +8,7 @@
 body="SKControlKLForJson.ashx"
 ```
 
-## poc
+## POC
 
 ```javascript
 POST /ImageUpload/ImageAdd.ashx HTTP/1.1

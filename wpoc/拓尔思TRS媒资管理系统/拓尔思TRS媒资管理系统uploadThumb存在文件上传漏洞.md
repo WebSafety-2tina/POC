@@ -8,7 +8,7 @@
 "TRS媒资管理系统"
 ```
 
-## poc
+## POC
 
 ```java
 POST /mas/servlets/uploadThumb?appKey=sv&uploadingId=asd HTTP/1.1

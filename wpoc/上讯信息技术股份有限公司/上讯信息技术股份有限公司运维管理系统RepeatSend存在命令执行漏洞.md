@@ -8,7 +8,7 @@
 body="default/getloginhtml"
 ```
 
-## poc
+## POC
 
 ```yaml
 POST /emailapply/RepeatSend HTTP/1.1

