@@ -56,6 +56,9 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-16
+- [森鑫炬水务企业综合运营平台-Get-任意文件读取漏洞](./wpoc/杂项/森鑫炬水务企业综合运营平台-Get-任意文件读取漏洞.md)
+- [美特CRM-mobileupload.jsp-任意文件上传漏洞](./wpoc/杂项/美特CRM-mobileupload.jsp-任意文件上传漏洞.md)
 # 2025-12-12
 - [大华ICC智能物联综合管理平台viewPDF存在任何文件读取](./wpoc/杂项/大华ICC智能物联综合管理平台viewPDF存在任何文件读取.md)
 - [Dify系统命令执行漏洞(CVE-2025-55182)](./wpoc/杂项/Dify系统命令执行漏洞(CVE-2025-55182).md)
@@ -276,18 +279,6 @@
 - [SysAid On-Prem-CVE-2025-2775-XML注入](./wpoc/SysAid/SysAid%20On-Prem-CVE-2025-2775-XML注入.md)
 - [SysAid On-Prem-CVE-2025-2776-XML注入](./wpoc/SysAid/SysAid%20On-Prem-CVE-2025-2776-XML注入.md)
 - [SysAid On-Prem-CVE-2025-2777-XML注入](./wpoc/SysAid/SysAid%20On-Prem-CVE-2025-2777-XML注入.md)
-
-# 2025-12-11
-- [高格智能制造目视化系统SCCJ参数存在SQL注入](./wpoc/浙江高格软件股份有限公司/高格智能制造目视化系统SCCJ参数存在SQL注入.md)
-- [喰星云·数字化餐饮服务系统home_check存在SQL注入.m](./wpoc/喰星云·数字化餐饮服务系统/喰星云·数字化餐饮服务系统home_check存在SQL注入.md)
-- [恒友摄影ERPlogin.ashx存在SQL注入](./wpoc/恒友摄影ERP/恒友摄影ERP的login.ashx存在SQL注入.md)
-- [蓝凌EIS智慧协同平台mail_xml存在XXE注入](./wpoc/蓝凌OA/蓝凌EIS智慧协同平台mail_xml存在XXE注入.md)
-- [点晴MIS管理信息系统login_out.asp存在SQL注入](./wpoc/点晴MIS管理信息系统/点晴MIS管理信息系统login_out.asp存在SQL注入.md)
-- [迪博数据决策系统downloadImpTemplet存在任意文件读取](./wpoc/迪博数据决策系统/迪博数据决策系统downloadImpTemplet存在任意文件读取.md)
-- [友加畅捷管理系统GetZTList存在信息泄露](./wpoc/友加畅捷管理系统/友加畅捷管理系统GetZTList存在信息泄露.md)
-- [朗新天霁人力资源管理系统UserInfo ZFMCWebService存在SQL注入](./wpoc/朗新天霁人力资源管理系统/朗新天霁人力资源管理系统UserInfo%20ZFMCWebService存在SQL注入.md)
-- [Dify系统命令执行漏洞(CVE-2025-55182)](./wpoc/Dify系统/Dify系统命令执行漏洞(CVE-2025-55182).md)
-- [大华ICC智能物联综合管理平台viewPDF存在任意文件读取](./wpoc/大华/大华ICC智能物联综合管理平台viewPDF存在任意文件读取.md)
 
 # 2025-09-01
 - [深圳市锐明技术股份有限公司Crocus系统RepairRecord.do文件上传](./wpoc/深圳市锐明技术股份有限公司/深圳市锐明技术股份有限公司Crocus系统RepairRecord.do文件上传.md)
