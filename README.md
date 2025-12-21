@@ -56,6 +56,13 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-21
+- [Microsoft-DNN-NTLM暴露(CVE-2025-52488)](./wPOC/杂项/Microsoft-DNN-NTLM暴露(CVE-2025-52488).md)
+- [孚盟云-GetImage.aspx-sql注入漏洞](./wPOC/杂项/孚盟云-GetImage.aspx-sql注入漏洞.md)
+- [中识云平台-sys_user_list-信息泄露漏洞](./wPOC/杂项/中识云平台-sys_user_list-信息泄露漏洞.md)
+- [东胜物流管理软件-WmsZXFeeGridSource.asp-sql注入漏洞](./wPOC/杂项/东胜物流管理软件-WmsZXFeeGridSource.asp-sql注入漏洞.md)
+- [金和OA-CompanyBudgetCollect.aspx-SQL注入漏洞](./wPOC/杂项/金和OA-CompanyBudgetCollect.aspx-SQL注入漏洞.md)
+- [金和OA-CompanyBudgetCollectEdit.aspx-SQL注入漏洞](./wPOC/杂项/金和OA-CompanyBudgetCollectEdit.aspx-SQL注入漏洞.md)
 # 2025-12-16
 - [森鑫炬水务企业综合运营平台-Get-任意文件读取漏洞](./wpoc/杂项/森鑫炬水务企业综合运营平台-Get-任意文件读取漏洞.md)
 - [美特CRM-mobileupload.jsp-任意文件上传漏洞](./wpoc/杂项/美特CRM-mobileupload.jsp-任意文件上传漏洞.md)
