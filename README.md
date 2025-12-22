@@ -56,6 +56,11 @@
 
 # 漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-22
+- [天锐绿盾审批系统-/conf/editConfigVal-fastjson反序列化漏洞](./wpoc/杂项/天锐绿盾审批系统-confeditConfigVal-fastjson反序列化漏洞.md)
+- [金和OA-CostPerApplyDetail.aspx-CostPerExpendDetail.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-CostPerApplyDetail.aspx-CostPerExpendDetail.aspx-SQL注入漏洞.md)
+- [用友NC-Cloud-FilterCondAction-sql注入漏洞](./wpoc/杂项/用友NC-Cloud-FilterCondAction-sql注入漏洞.md)
+- [蓝凌OA-DingUsers.aspx-sql注入](./wpoc/杂项/蓝凌OA-DingUsers.aspx-sql注入.md)
 # 2025-12-21
 - [Microsoft-DNN-NTLM暴露(CVE-2025-52488)](./wpoc/杂项/Microsoft-DNN-NTLM暴露(CVE-2025-52488).md)
 - [孚盟云-GetImage.aspx-sql注入漏洞](./wpoc/杂项/孚盟云-GetImage.aspx-sql注入漏洞.md)
