@@ -56,6 +56,8 @@
 
 # ⚠️漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-23
+- ✨[灵当CRM-XlsFileUpload.php-任意文件上传漏洞](./wpoc/杂项/灵当CRM-XlsFileUpload.php-任意文件上传漏洞.md)
 # 2025-12-22
 - ✨[天锐绿盾审批系统-/conf/editConfigVal-fastjson反序列化漏洞](./wpoc/杂项/天锐绿盾审批系统-confeditConfigVal-fastjson反序列化漏洞.md)
 - ✨[金和OA-CostPerApplyDetail.aspx-CostPerExpendDetail.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-CostPerApplyDetail.aspx-CostPerExpendDetail.aspx-SQL注入漏洞.md)
