@@ -57,6 +57,7 @@
 # ⚠️漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 # 2025-12-24
+- ✨[短剧影视小程序平台juhecurl接口存在任意文件读取漏洞](./wpoc/杂项/短剧影视小程序平台juhecurl接口存在任意文件读取漏洞.md)
 - ✨[金和OA-AjaxForCenterBudgetDecompose.ashx-SQL注入漏洞](./wpoc/杂项/金和OA-AjaxForCenterBudgetDecompose.ashx-SQL注入漏洞.md)
 - ✨[天锐绿盾审批系统-/ext/mail/add/asign-fastjson反序列化漏洞](./wpoc/杂项/天锐绿盾审批系统-extmailaddasign-fastjson反序列化漏洞.md)
 - ✨[金和OA-AjaxForBudgetDecompose.ashx-SQL注入漏洞](./wpoc/杂项/金和OA-AjaxForBudgetDecompose.ashx-SQL注入漏洞.md)
