@@ -56,6 +56,9 @@
 
 # ⚠️漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-25
+- ✨[东胜物流软件-WorkFlowGridSource.aspx-SQL注入漏洞](./wpoc/东胜物流软件/东胜物流软件-WorkFlowGridSource.aspx-SQL注入漏洞.md)
+- ✨[帆软报表-FineReport-export/excel-SQL注入漏洞](./wpoc/杂项/帆软报表-FineReport-exportexcel-SQL注入漏洞.md)
 # 2025-12-24
 - ✨[短剧影视小程序平台juhecurl接口存在任意文件读取漏洞](./wpoc/杂项/短剧影视小程序平台juhecurl接口存在任意文件读取漏洞.md)
 - ✨[金和OA-AjaxForCenterBudgetDecompose.ashx-SQL注入漏洞](./wpoc/杂项/金和OA-AjaxForCenterBudgetDecompose.ashx-SQL注入漏洞.md)
