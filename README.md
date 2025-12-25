@@ -56,6 +56,17 @@
 
 # ⚠️漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-26
+- ✨[智邦国际ERP-GetPersonalSealData.ashx-SQL注入漏洞](./wpoc/杂项/智邦国际ERP-GetPersonalSealData.ashx-SQL注入漏洞.md)
+- ✨[WordPress 任意文件读取漏洞](./wpoc/杂项/WordPress-任意文件读取漏洞.md)
+- ✨[JeePlus低代码开发平台存在SQL注入漏洞](./wpoc/杂项/JeePlus低代码开发平台存在SQL注入漏洞.md)
+- ✨[致远分析云存在任意文件读取漏洞](./wpoc/杂项/致远分析云存在任意文件读取漏洞.md)
+- ✨[WookTeam轻量级的团队在线协作系统存在SQL注入漏洞](./wpoc/杂项/WookTeam轻量级的团队在线协作系统存在SQL注入漏洞.md)
+- ✨[蜂信物联(FastBee)物联网平台任意文件读取漏洞](./wpoc/杂项/蜂信物联(FastBee)物联网平台任意文件读取漏洞.md)
+- ✨[泛微E-Mobile-client/cdnfile任意文件读取漏洞](./wpoc/杂项/泛微E-Mobile-clientcdnfile任意文件读取漏洞.md)
+- ✨[WVP-GB28181摄像头管理端-敏感信息泄露漏洞](./wpoc/杂项/WVP-GB28181摄像头管理端-敏感信息泄露漏洞.md)
+- ✨[Nacos-configs接口存在未授权下载配置信息漏洞](./wpoc/杂项/Nacos-configs接口存在未授权下载配置信息漏洞.md)
+- ✨[药业管理软件XSDService.asmx存在SQL注入漏洞](./wpoc/杂项/药业管理软件XSDService.asmx存在SQL注入漏洞.md)
 # 2025-12-25
 - ✨[东胜物流软件-WorkFlowGridSource.aspx-SQL注入漏洞](./wpoc/东胜物流软件/东胜物流软件-WorkFlowGridSource.aspx-SQL注入漏洞.md)
 - ✨[帆软报表-FineReport-export/excel-SQL注入漏洞](./wpoc/杂项/帆软报表-FineReport-exportexcel-SQL注入漏洞.md)
