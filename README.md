@@ -56,6 +56,15 @@
 
 # ⚠️漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2025-12-30
+- ✨[华天InforcenterPLM-BaseHandler.ashx-任意文件上传漏洞](./wpoc/杂项/华天InforcenterPLM-BaseHandler.ashx-任意文件上传漏洞.md)
+- ✨[WPS文档中心和文档中台-operate-未授权访问漏洞](./wpoc/杂项/WPS文档中心和文档中台-operate-未授权访问漏洞.md)
+- ✨[安数云综合日志分析系统-assetScanns-远程命令执行漏洞](./wpoc/杂项/安数云综合日志分析系统-assetScanns-远程命令执行漏洞.md)
+- ✨[美特CRM-download-new.jsp-任意文件读取漏洞](./wpoc/杂项/美特CRM-download-new.jsp-任意文件读取漏洞.md)
+- ✨[南昊网上阅卷系统-logname-信息泄露漏洞](./wpoc/杂项/南昊网上阅卷系统-logname-信息泄露漏洞.md)
+# 2025-12-27
+- ✨[用友NC-Cloud-IMetaWebService4BqCloud-SQL注入漏洞](./wpoc/杂项/用友NC-Cloud-IMetaWebService4BqCloud-SQL注入漏洞.md)
+- ✨[东胜物流软件-WorkFlowGridSource.aspx-SQL注入漏洞](./wpoc/杂项/东胜物流软件-WorkFlowGridSource.aspx-SQL注入漏洞.md)
 # 2025-12-26
 - ✨[智邦国际ERP-GetPersonalSealData.ashx-SQL注入漏洞](./wpoc/杂项/智邦国际ERP-GetPersonalSealData.ashx-SQL注入漏洞.md)
 - ✨[WordPress 任意文件读取漏洞](./wpoc/杂项/WordPress-任意文件读取漏洞.md)
