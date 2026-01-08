@@ -56,6 +56,15 @@
 
 # ⚠️漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2026-01-08
+- ✨[驰骋BPM低代码开发平台-RichUploadFile-任意文件上传漏洞](./wpoc/杂项/驰骋BPM低代码开发平台-RichUploadFile-任意文件上传漏洞.md)
+- ✨[杭州九麒科技-大蚂蚁即时通讯-down.html-任意文件读取漏洞](./wpoc/杂项/杭州九麒科技-大蚂蚁即时通讯-down.html-任意文件读取漏洞.md)
+- ✨[汉王e脸通综合管理平台-getFirstEmp.do-SQL注入漏洞](./wpoc/杂项/汉王e脸通综合管理平台-getFirstEmp.do-SQL注入漏洞.md)
+- ✨[亿赛通CDG-WorkFlowAction-sql注入漏洞](./wpoc/杂项/亿赛通CDG-WorkFlowAction-sql注入漏洞.md)
+- ✨[弥特科技-全流程追溯系统-geticp-sql注入漏洞](./wpoc/杂项/弥特科技-全流程追溯系统-geticp-sql注入漏洞.md)
+- ✨[亿赛通CDG-LockService-sql注入漏洞](./wpoc/杂项/亿赛通CDG-LockService-sql注入漏洞.md)
+- ✨[ZkTime-get_visitor_info-信息泄露漏洞](./wpoc/杂项/ZkTime-get_visitor_info-信息泄露漏洞.md)
+- ✨[灵当CRM-copyLinkToContent-SSRF漏洞](./wpoc/杂项/灵当CRM-copyLinkToContent-SSRF漏洞.md)
 # 2025-12-30
 - ✨[华天InforcenterPLM-BaseHandler.ashx-任意文件上传漏洞](./wpoc/杂项/华天InforcenterPLM-BaseHandler.ashx-任意文件上传漏洞.md)
 - ✨[WPS文档中心和文档中台-operate-未授权访问漏洞](./wpoc/杂项/WPS文档中心和文档中台-operate-未授权访问漏洞.md)
