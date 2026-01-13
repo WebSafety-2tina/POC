@@ -56,6 +56,23 @@
 
 # ⚠️漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2026-01-13
+- ✨[金和OA-HolidayEdit.aspx SQL注入漏洞](./wpoc/杂项/金和OA-HolidayEdit.aspx%20SQL注入漏洞.md)
+- ✨[孚盟云CRM-AjaxBusinessPrice.ashx-SQL注入漏洞](./wpoc/杂项/孚盟云CRM-AjaxBusinessPrice.ashx-SQL注入漏洞.md)
+- ✨[金和OA-AttendWorkAttendance.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-AttendWorkAttendance.aspx-SQL注入漏洞.md)
+- ✨[天锐绿盾审批系统-未授权访问致敏感信息泄露漏洞](./wpoc/杂项/天锐绿盾审批系统-未授权访问致敏感信息泄露漏洞.md)
+- ✨[金和OA-LeaveTypeEdit.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-LeaveTypeEdit.aspx-SQL注入漏洞.md)
+- ✨[东胜物流软件/CommMng/Print/GetPrintInfo-信息泄露漏洞](./wpoc/杂项/东胜物流软件CommMngPrintGetPrintInfo-信息泄露漏洞.md)
+- ✨[金和OA-LeaveInfo.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-LeaveInfo.aspx-SQL注入漏洞.md)
+- ✨[东胜物流-/CommMng/Print/UploadMailFile-文件上传漏洞](./wpoc/杂项/东胜物流-CommMngPrintUploadMailFile-文件上传漏洞.md)
+- ✨[金和OA-DelSelectSummaryIndicators.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-DelSelectSummaryIndicators.aspx-SQL注入漏洞.md)
+- ✨[天锐绿盾审批系统敏感信息泄露漏洞](./wpoc/杂项/天锐绿盾审批系统%20getConfigValues.do、findAuditors.do、statWxApiRecord.do、findAllUser.do、findDeptPage.do、findAllDept.do、tdSysFindDepartmentTree.do、findOnlineUserForPage.do、extconftabledata%20敏感信息泄露漏洞.md)
+- ✨[致远OA-/seeyon/sursenServlet-命令执行漏洞](./wpoc/杂项/致远OA-seeyonsursenServlet-命令执行漏洞.md)
+- ✨[用友时空-richclient.openForm-XXE漏洞](./wpoc/杂项/用友时空-richclient.openForm-XXE漏洞.md)
+- ✨[东胜物流-GetDataList-sql注入漏洞](./wpoc/杂项/东胜物流-GetDataList-sql注入漏洞.md)
+- ✨[明源地产ERP-DataRule-XMLHTTP.aspx-SQL注入漏洞](./wpoc/杂项/明源地产ERP-DataRule-XMLHTTP.aspx-SQL注入漏洞.md)
+- ✨[科汛新职教网校系统-checkPayStatus-SQL注入漏洞](./wpoc/杂项/科汛新职教网校系统-checkPayStatus-SQL注入漏洞.md)
+- ✨[东胜物流软件-FileExport.aspx-任意文件读取漏洞](./wpoc/杂项/东胜物流软件-FileExport.aspx-任意文件读取漏洞.md)
 # 2026-01-08
 - ✨[驰骋BPM低代码开发平台-RichUploadFile-任意文件上传漏洞](./wpoc/杂项/驰骋BPM低代码开发平台-RichUploadFile-任意文件上传漏洞.md)
 - ✨[杭州九麒科技-大蚂蚁即时通讯-down.html-任意文件读取漏洞](./wpoc/杂项/杭州九麒科技-大蚂蚁即时通讯-down.html-任意文件读取漏洞.md)
