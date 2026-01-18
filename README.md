@@ -56,8 +56,12 @@
 
 # ⚠️漏洞收集
 收集整理漏洞EXP/POC,大部分漏洞来源网络
+# 2026-01-18
+- ✨[致远OA-wpsAssistServlet-任意文件上传漏洞(CVE-2025-34040)](./wpoc/杂项/致远OA-wpsAssistServlet-任意文件上传漏洞(CVE-2025-34040).md)
+- ✨[用友U8-CRM-checkselectpartapply.php-sql注入](./wpoc/杂项/用友U8-CRM-checkselectpartapply.php-sql注入.md)
+- ✨[东胜物流软件-DsWebService.asmx-sql注入漏洞](./wpoc/杂项/东胜物流软件-DsWebService.asmx-sql注入漏洞.md)
 # 2026-01-13
-- ✨[金和OA-HolidayEdit.aspx SQL注入漏洞](./wpoc/杂项/金和OA-HolidayEdit.asp-20SQL注入漏洞.md)
+- ✨[金和OA-HolidayEdit.aspx SQL注入漏洞](./wpoc/杂项/金和OA-HolidayEdit.aspx%20SQL注入漏洞.md)
 - ✨[孚盟云CRM-AjaxBusinessPrice.ashx-SQL注入漏洞](./wpoc/杂项/孚盟云CRM-AjaxBusinessPrice.ashx-SQL注入漏洞.md)
 - ✨[金和OA-AttendWorkAttendance.aspx-SQL注入漏洞](./wpoc/杂项/金和OA-AttendWorkAttendance.aspx-SQL注入漏洞.md)
 - ✨[天锐绿盾审批系统-未授权访问致敏感信息泄露漏洞](./wpoc/杂项/天锐绿盾审批系统-未授权访问致敏感信息泄露漏洞.md)
